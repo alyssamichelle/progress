@@ -55,6 +55,11 @@ Angular Forms adds updateOn Blur / Submit
 RxJS 5.5
 New Router Lifecycle Events
 
+In 2017 we've successfully balanced stability and innovation. making your applications smaller and faster without making you rewrite your code.
+
+It can go much further, like imagine in like 3 years webassembly is good enough that we want to use it. Because we are a full platform, we could start shipping part of your apps as web assembly for you, without you having to do anything.
+
+Or ES2015 modules, or web components, or any of the "modern web".
 
 
 Prediction: Angular elements are going to be HUGE
@@ -156,5 +161,5 @@ Rpc2N1c3Npb25JZCI6IlFnRGpobWt2RW4zaHp1NEIiLCJzdWIi
 OiIxMDg2NDk4Mjc2NzM3MTYyNDkwMTMiLCJ0ZXh0IjoibWlnaH
 QganVzdCByZXBsYWNlIHRoaXMgYml0IHdpdGggc3R1ZmYgU3Rl
 cGhlbiB0b2xkIG1lIiwiY3JlYXRlZCI6MTUxMjY4NTMzMjUyMX
-19LCJoaXN0b3J5IjpbNzE4MDM1MzRdfQ==
+19LCJoaXN0b3J5IjpbMjAzMDIxOTg3NV19
 -->
