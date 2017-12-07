@@ -57,10 +57,7 @@ New Router Lifecycle Events
 
 "In 2017 we've successfully balanced stability and innovation. making your applications smaller and faster without making you rewrite your code." — SF 
 
-It can go much further, like imagine in like 3 years webassembly is good enough that we want to use it. Because we are a full platform, we could start shipping part of your apps as web assembly for you, without you having to do anything.
-
-Or ES2015 modules, or web components, or any of the "modern web".
-
+It can go much further, like imagine in like 3 years webassembly is good enough that we want to use it. Because we are a full platform, we could start shipping part of your apps as web assembly for you, without you having to do anything. Or ES2015 modules, or web components, or any of the "modern web".
 
 Prediction: Angular elements are going to be HUGE
 
@@ -68,7 +65,7 @@ At the last Google Developer Expert Summit that I attended, they again expressed
 
 So where does that leave you? If Angular is too large of a change for your company to swallow, and AngularJS is bound to be deprecated one of these days, where does that leave your company, clients and code?
 
-VueJS
+## VueJS
 
 VueJS has been on the rise and mentioned as the next “hot new thing”. It is VERY similar to AngularJS, and does not require a compiled language change like TypeScript. (Yay, the people can still have their CoffeeScript *and the dev world shudders*).
 
@@ -77,14 +74,14 @@ VueJS has been on the rise and mentioned as the next “hot new thing”. It is 
 
 [what has changed in Vue since Feb]
 
-React
+## React
 
 I’m still surprised by all the apps I continually run into and after inspecting under the hood, realise, they are created with react. React, while not being the newest of “hotnesses”, is still very prevalent and often brought up as a web dev go-to framework.
 
 [what has changed in react since Feb.]
 
 
-Ember
+## Ember
 
 About that…
 
@@ -106,7 +103,6 @@ https://twitter.com/sachagreif/status/935781795924099072
 ￼
 Ah yes Sacha, because that makes so much sense. ;) Not that the charts I created are much clearer. I used [Google Trends]() to generate some data on the four top runner Frameworks and got this glorious chart:
 
-￼
 
 Now that chart doesn’t do a whole lot for me, other than showing Ember as a dead thing, which we all knew. Jk, please don’t send Tomster after me. So I decided to turn it into a nifty pie chart, that might help shed more light on the situation:
 ￼
@@ -114,14 +110,14 @@ Now that chart doesn’t do a whole lot for me, other than showing Ember as a de
 There really is no one way to know which frameworks are doing the best. This is just one peak into the enigma that is the web dev world. However, just going off of this pie chart, it still looks like Angular is on top, followed by React.
 
 
-Prediction Time
+## Prediction Time
 
 Prediction! On the safer side we have this prediction, that the weak will get weaker, the strong will get stronger. People (and companies) will continue to use frameworks they know and love. Angular, React, Ember, and Vue will all still be in the game, come 2019. I predict that Vue will continue to light up and be used, but at an individual scale, rather than a large company scale.
 
 On our more ballsy-prediction-scale, we predict that libraries and frameworks will start diving into the AR/VR scene more thoroughly. We hope that 2018 will have some fun and interesting reveals
 
 
-PWA
+## PWA
 
 Progressive web apps are where it’s at right now. Building your app, no matter the frameworks or libraries used, so that it can work offline is super in right now. But there are more to progressive web apps than just “working offline”. 
 Here is the Google standard for what it takes to be a PWA.
@@ -169,5 +165,5 @@ h0IjoiKGlmIHdlIGRlY2lkZSB0byBxdW90ZSBoaW0sIEkgbmVl
 ZCB0byBkb3VibGUgY2hlY2sgdGhhdCdzIG9rLCBvdGhlcndpc2
 UsIHdlIGNhbiBqdXN0IHVzZSB0aGVzZSB3b3JkcyBhcyBvdXIg
 b3duIG9waW5pb24iLCJjcmVhdGVkIjoxNTEyNjg1NDc2ODM3fX
-0sImhpc3RvcnkiOlsxNzg4MDQ1NjE5XX0=
+0sImhpc3RvcnkiOlsxNDk5NDg5ODldfQ==
 -->
