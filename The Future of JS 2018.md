@@ -77,7 +77,7 @@ I’m still surprised by all the apps I continually run into and after inspectin
 
 React strikes again! On the npm trends 
 
-http://cl.nicoll.co/oD1N
+![http://www.npmtrends.com/angular-vs-ember-source-vs-react-vs-vue-vs-backbone](http://cl.nicoll.co/oD1N/Screen%20Shot%202017-12-08%20at%2016.04.25.png)
 ## Much of the Web Still Runs on jQuery
 
 Dude! 90% of the Internet runs on jQuery. We all know this, so the chart below shouldn't shock you.
@@ -181,5 +181,5 @@ h0IjoiKGlmIHdlIGRlY2lkZSB0byBxdW90ZSBoaW0sIEkgbmVl
 ZCB0byBkb3VibGUgY2hlY2sgdGhhdCdzIG9rLCBvdGhlcndpc2
 UsIHdlIGNhbiBqdXN0IHVzZSB0aGVzZSB3b3JkcyBhcyBvdXIg
 b3duIG9waW5pb24iLCJjcmVhdGVkIjoxNTEyNjg1NDc2ODM3fX
-0sImhpc3RvcnkiOls2ODkyNjA0NDVdfQ==
+0sImhpc3RvcnkiOlstMTg4MzEyMjE5OF19
 -->
