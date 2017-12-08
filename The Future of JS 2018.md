@@ -80,6 +80,17 @@ I’m still surprised by all the apps I continually run into and after inspectin
 
 > “React is very popular and will likely continue to be now that Facebook has resolved the licensing controversy. It has become the first choice alternative to Angular and only continues to gain traction.” –Joe Eames, JavaScript and Angular expert [source](https://medium.com/pluralsight/tech-trends-2018-7c443b6cff7f)
 
+
+### Stackoverflow Dev Survey 2017
+![https://insights.stackoverflow.com/survey/2017](http://cl.nicoll.co/oDbh/Screen%20Shot%202017-12-08%20at%2013.14.38.png
+)
+
+> "Node.js and AngularJS continue to be the most commonly used technologies in this category."
+
+
+![https://insights.stackoverflow.com/survey/2017](http://cl.nicoll.co/oDWR/Screen%20Shot%202017-12-08%20at%2013.17.20.png)
+
+"React is the most loved among developers, whereas Cordova is the most dreaded. However, Node.js is the most wanted."
 [what has changed in react since Feb.]
 
 ## Much of the Web Still Runs on jQuery
@@ -154,7 +165,7 @@ I don’t know about
 > "Node.js and AngularJS continue to be the most commonly used technologies in this category."
 
 
-![](http://cl.nicoll.co/oDWR/Screen%20Shot%202017-12-08%20at%2013.17.20.png)
+![https://insights.stackoverflow.com/survey/2017](http://cl.nicoll.co/oDWR/Screen%20Shot%202017-12-08%20at%2013.17.20.png)
 
 "React is the most loved among developers, whereas Cordova is the most dreaded. However, Node.js is the most wanted."
 <!--stackedit_data:
@@ -183,5 +194,5 @@ h0IjoiKGlmIHdlIGRlY2lkZSB0byBxdW90ZSBoaW0sIEkgbmVl
 ZCB0byBkb3VibGUgY2hlY2sgdGhhdCdzIG9rLCBvdGhlcndpc2
 UsIHdlIGNhbiBqdXN0IHVzZSB0aGVzZSB3b3JkcyBhcyBvdXIg
 b3duIG9waW5pb24iLCJjcmVhdGVkIjoxNTEyNjg1NDc2ODM3fX
-0sImhpc3RvcnkiOlstNDU3NTUxMDQ2XX0=
+0sImhpc3RvcnkiOlstMTE5MTEzODkwMl19
 -->
