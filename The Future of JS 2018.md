@@ -140,6 +140,7 @@ Prediction! On the safer side we have this prediction, that the weak will get we
 ### AR/VR
 On our more ballsy-prediction-scale, we predict that libraries and frameworks will start diving into the AR/VR scene more thoroughly. We hope that 2018 will have some fun and interesting reveals.
 
+This month the WebXR Viewer app was released for download on the 
 ![https://blog.mozvr.com/experimenting-with-ar-and-the-web-on-ios/](https://blog.mozvr.com/content/images/2017/12/IMG_0017-sm-copy.png)
 
 
@@ -190,5 +191,5 @@ h0IjoiKGlmIHdlIGRlY2lkZSB0byBxdW90ZSBoaW0sIEkgbmVl
 ZCB0byBkb3VibGUgY2hlY2sgdGhhdCdzIG9rLCBvdGhlcndpc2
 UsIHdlIGNhbiBqdXN0IHVzZSB0aGVzZSB3b3JkcyBhcyBvdXIg
 b3duIG9waW5pb24iLCJjcmVhdGVkIjoxNTEyNjg1NDc2ODM3fX
-0sImhpc3RvcnkiOlszNTMwNTIwNTZdfQ==
+0sImhpc3RvcnkiOls0Nzg3MTA4NDddfQ==
 -->
