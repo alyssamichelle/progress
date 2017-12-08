@@ -93,6 +93,8 @@ However, could there be a paradigm shift in the works?
 
 > “So, jQuery still runs the web, but this is changing.”
 https://discuss.httparchive.org/t/javascript-library-detection/955/6
+
+As a friend of mine 
 ## Ember
 
 About that…
@@ -177,5 +179,5 @@ h0IjoiKGlmIHdlIGRlY2lkZSB0byBxdW90ZSBoaW0sIEkgbmVl
 ZCB0byBkb3VibGUgY2hlY2sgdGhhdCdzIG9rLCBvdGhlcndpc2
 UsIHdlIGNhbiBqdXN0IHVzZSB0aGVzZSB3b3JkcyBhcyBvdXIg
 b3duIG9waW5pb24iLCJjcmVhdGVkIjoxNTEyNjg1NDc2ODM3fX
-0sImhpc3RvcnkiOlsxNjY3MTM4NzQ5XX0=
+0sImhpc3RvcnkiOls0NTU1Mzg3ODRdfQ==
 -->
