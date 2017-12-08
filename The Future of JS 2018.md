@@ -96,7 +96,7 @@ https://discuss.httparchive.org/t/javascript-library-detection/955/6
 
 As a friend of mine likes to say "you might wanna take that with a bucket of salt", especially since jQuery has been around since the dawn of time. It would be very hard to imagine anything overthrowing that dynasty.
 
-
+![](https://memegenerator.net/img/instances/500x/56793614/jquery-jquery-everywhere.jpg)
 ## Ember
 
 About that…
@@ -181,5 +181,5 @@ h0IjoiKGlmIHdlIGRlY2lkZSB0byBxdW90ZSBoaW0sIEkgbmVl
 ZCB0byBkb3VibGUgY2hlY2sgdGhhdCdzIG9rLCBvdGhlcndpc2
 UsIHdlIGNhbiBqdXN0IHVzZSB0aGVzZSB3b3JkcyBhcyBvdXIg
 b3duIG9waW5pb24iLCJjcmVhdGVkIjoxNTEyNjg1NDc2ODM3fX
-0sImhpc3RvcnkiOlstODc2MDAzMjk4XX0=
+0sImhpc3RvcnkiOlstMTExNjE5NTIyNF19
 -->
