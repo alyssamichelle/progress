@@ -125,7 +125,8 @@ Prediction! On the safer side we have this prediction, that the weak will get we
 ### AR/VR
 On our more ballsy-prediction-scale, we predict that libraries and frameworks will start diving into the AR/VR scene more thoroughly. We hope that 2018 will have some fun and interesting reveals.
 
-This month the WebXR Viewer app was released for download on the [itunes store](https://itunes.apple.com/us/app/webxr-viewer/id1295998056?ls=1&mt=8). The app will let you view pages created with [webxr-polyfill Javascript library](https://www.github.com/mozilla/webxr-polyfill) to see j
+This month Mozilla announced the WebXR Viewer app was released for download on the [itunes store](https://itunes.apple.com/us/app/webxr-viewer/id1295998056?ls=1&mt=8). The app will let you view pages created with [webxr-polyfill Javascript library](https://www.github.com/mozilla/webxr-polyfill) to see j
+Mozilla’s WebXR Viewer is an augmented reality (AR) viewer that lets you create and run AR experiences built with web technologies and ARKit.
 
 The WebXR Viewer app lets you view web pages created with the webxr-polyfill Javascript library, an experimental library we created as part of our explorations. 
 > This app is not intended to be a full-fledged web browser, but rather a way to test, demonstrate and share AR experiments created with web technology.
@@ -140,7 +141,7 @@ Here is the Google standard for what it takes to be a PWA.
 
 Gartner predicts that “by 2020, progressive web apps will have replaced 50% of general-purpose, consumer-facing mobile apps”.
 
-I don’t know about 50%, but I do predict more and more big name companies and sites implementing progressive
+I don’t know about 50%, but I do predict more and more big name companies implementing progressive web app features on their sites in 2018 and beyond.
 
 
 ### Stackoverflow Dev Survey 2017
@@ -176,5 +177,5 @@ h0IjoiKGlmIHdlIGRlY2lkZSB0byBxdW90ZSBoaW0sIEkgbmVl
 ZCB0byBkb3VibGUgY2hlY2sgdGhhdCdzIG9rLCBvdGhlcndpc2
 UsIHdlIGNhbiBqdXN0IHVzZSB0aGVzZSB3b3JkcyBhcyBvdXIg
 b3duIG9waW5pb24iLCJjcmVhdGVkIjoxNTEyNjg1NDc2ODM3fX
-0sImhpc3RvcnkiOlstMTUyNTAyODg2OV19
+0sImhpc3RvcnkiOlstMTI1NjQ2NTM3M119
 -->
