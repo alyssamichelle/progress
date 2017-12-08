@@ -83,8 +83,8 @@ I’m still surprised by all the apps I continually run into and after inspectin
 [what has changed in react since Feb.]
 
 ## Much of the Web Still Runs on jQuery
-
-
+![http://jsfiddle.net/8e5uobnb/4/](http://cl.nicoll.co/oCe9/Image%202017-12-07%20at%205.59.56%20pm.png)
+https://blog.jquery.com/2017/03/16/jquery-3-2-0-is-out/
 ## Ember
 
 About that…
@@ -169,5 +169,5 @@ h0IjoiKGlmIHdlIGRlY2lkZSB0byBxdW90ZSBoaW0sIEkgbmVl
 ZCB0byBkb3VibGUgY2hlY2sgdGhhdCdzIG9rLCBvdGhlcndpc2
 UsIHdlIGNhbiBqdXN0IHVzZSB0aGVzZSB3b3JkcyBhcyBvdXIg
 b3duIG9waW5pb24iLCJjcmVhdGVkIjoxNTEyNjg1NDc2ODM3fX
-0sImhpc3RvcnkiOlsxMzMwOTU4NzhdfQ==
+0sImhpc3RvcnkiOlstMTQ0MjEwNDg1OF19
 -->
