@@ -32,28 +32,11 @@ For this girls opinion, Angular is still pretty hot *cough cough* points to Tesl
 
 [Updates/ what has changed in Angular since Feb]
 
-In November, the latest version of Angular, 5, was released. [Stephen Fluin](https://blog.angular.io/version-5-0-0-of-angular-now-available-37e414935ced) Angular’s Developer Advocate, wrote about all the juicy deets in [this](https://blog.angular.io/version-5-0-0-of-angular-now-available-37e414935ced) blog post. To summarise those latest and greatest features though, I’ve created this TLDR; section.
+In November, the latest version of Angular, 5, was released. [Stephen Fluin](https://blog.angular.io/version-5-0-0-of-angular-now-available-37e414935ced) Angular’s Developer Advocate, wrote about all the juicy deets in [this](https://blog.angular.io/version-5-0-0-of-angular-now-available-37e414935ced) blog post. 
 
-Build Optimizer
-The build optimizer is a tool included in our CLI for making your bundles smaller using our semantic understanding of your Angular application.
+*Angular Material 5.1 & More*
 
-Angular Universal State Transfer API and DOM Support
-Angular Universal is a project focused on helping developers to perform server side rendering. 
-
-In 5.0.0, the team has added ServerTransferStateModule and the corresponding BrowserTransferStateModule. This module allows you to generate information as part of your rendering with platform-server, and then transfer it to the client side so that this information does not need to be regenerated. This is useful for cases such as when your application fetches data over HTTP. By transferring state from the server, this means developers do not need to make a second HTTP request once the application makes it to the client. Documentation for state transfer is forthcoming in the next few weeks.
-
-Compiler Improvements
-
-Internationalized Number, Date, and Currency Pipes
-
-Replace the ReflectiveInjector with StaticInjector
-Zone speed improvements
-exportAs
-HttpClient
-CLI v1.5
-Angular Forms adds updateOn Blur / Submit
-RxJS 5.5
-New Router Lifecycle Events
+https://blog.angular.io/angular-5-1-more-now-available-27d372f5eb4e
 
 "In 2017 we've successfully balanced stability and innovation. making your applications smaller and faster without making you rewrite your code." — SF 
 
@@ -177,9 +160,9 @@ E2XG4gLSBkb3RuZXTigKYiLCJzdGFydCI6MTQ4MCwiZW5kIjox
 NzA4fSwiUWdEamhta3ZFbjNoenU0QiI6eyJ0ZXh0IjoiQnVpbG
 QgT3B0aW1pemVyXG5UaGUgYnVpbGQgb3B0aW1pemVyIGlzIGEg
 dG9vbCBpbmNsdWRlZCBpbiBvdXIgQ0xJIGZvciBtYWtpbmcgeW
-/igKYiLCJzdGFydCI6MjkwNywiZW5kIjo0MDcyfSwiejlOclZa
+/igKYiLCJzdGFydCI6MjgxNywiZW5kIjoyODE3fSwiejlOclZa
 M2x5Y3Y1am5weSI6eyJ0ZXh0Ijoi4oCUIFNGIiwic3RhcnQiOj
-QyMjAsImVuZCI6NDIyNH19LCJjb21tZW50cyI6eyJNMkV5R3I0
+MwNjUsImVuZCI6MzA2OX19LCJjb21tZW50cyI6eyJNMkV5R3I0
 Y1VGeXRUWmluIjp7ImRpc2N1c3Npb25JZCI6Ikc0VzJwWlF1Z2
 sxWWcyZnUiLCJzdWIiOiIxMDg2NDk4Mjc2NzM3MTYyNDkwMTMi
 LCJ0ZXh0IjoicHJldHR5IHN1cmUgSSB3YW5uYSB0YWtlIG91dC
@@ -195,5 +178,5 @@ h0IjoiKGlmIHdlIGRlY2lkZSB0byBxdW90ZSBoaW0sIEkgbmVl
 ZCB0byBkb3VibGUgY2hlY2sgdGhhdCdzIG9rLCBvdGhlcndpc2
 UsIHdlIGNhbiBqdXN0IHVzZSB0aGVzZSB3b3JkcyBhcyBvdXIg
 b3duIG9waW5pb24iLCJjcmVhdGVkIjoxNTEyNjg1NDc2ODM3fX
-0sImhpc3RvcnkiOlstMTAyMjE3OTUzOV19
+0sImhpc3RvcnkiOlstNjY5ODMzNzY5XX0=
 -->
