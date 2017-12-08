@@ -151,7 +151,7 @@ I don’t know about
 ![https://insights.stackoverflow.com/survey/2017](http://cl.nicoll.co/oDbh/Screen%20Shot%202017-12-08%20at%2013.14.38.png
 )
 
-
+> "Node.js and AngularJS continue to be the most commonly used technologies in this category."
 
 
 
@@ -182,5 +182,5 @@ h0IjoiKGlmIHdlIGRlY2lkZSB0byBxdW90ZSBoaW0sIEkgbmVl
 ZCB0byBkb3VibGUgY2hlY2sgdGhhdCdzIG9rLCBvdGhlcndpc2
 UsIHdlIGNhbiBqdXN0IHVzZSB0aGVzZSB3b3JkcyBhcyBvdXIg
 b3duIG9waW5pb24iLCJjcmVhdGVkIjoxNTEyNjg1NDc2ODM3fX
-0sImhpc3RvcnkiOls2MjYxOTI2MjddfQ==
+0sImhpc3RvcnkiOlsxOTQ5MjUwODMzXX0=
 -->
