@@ -74,6 +74,8 @@ I’m still surprised by all the apps I continually run into and after inspectin
 > 
 [what has changed in react since Feb.]
 
+
+React strikes again! On
 ## Much of the Web Still Runs on jQuery
 
 Dude! 90% of the Internet runs on jQuery. We all know this, so the chart below shouldn't shock you.
@@ -177,5 +179,5 @@ h0IjoiKGlmIHdlIGRlY2lkZSB0byBxdW90ZSBoaW0sIEkgbmVl
 ZCB0byBkb3VibGUgY2hlY2sgdGhhdCdzIG9rLCBvdGhlcndpc2
 UsIHdlIGNhbiBqdXN0IHVzZSB0aGVzZSB3b3JkcyBhcyBvdXIg
 b3duIG9waW5pb24iLCJjcmVhdGVkIjoxNTEyNjg1NDc2ODM3fX
-0sImhpc3RvcnkiOlstMTM4NjIwMjA0NF19
+0sImhpc3RvcnkiOls1NzU5OTc5NzBdfQ==
 -->
