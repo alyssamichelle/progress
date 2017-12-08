@@ -131,9 +131,7 @@ This month Mozilla announced the WebXR Viewer app was released for download on t
 
 ![https://blog.mozvr.com/experimenting-with-ar-and-the-web-on-ios/](https://blog.mozvr.com/content/images/2017/12/IMG_0017-sm-copy.png)
 
-Mozilla isn't the only company in the AR/VR pie, however. Google also released their own AR app called [WebARonARCore APK](https://github.com/google-ar/WebARonARCore) on Android.
-
-Mozilla has also been working on integrating into three.js graphics library and A-Frame framework. These are both really popular libraries/frameworks on the AR scene and it will only make it easier and easier to use AR/VR if big companies like Mozilla and Google support it.
+Mozilla isn't the only company in the AR/VR pie, however. Google also released their own AR app called [WebARonARCore APK](https://github.com/google-ar/WebARonARCore) on Android. Mozilla has also been working on integrating into three.js graphics library and A-Frame framework. These are both really popular libraries/frameworks on the AR scene and it will only make it easier and easier to use AR/VR if big companies like Mozilla and Google support it.
 
 ## PWA
 
@@ -178,5 +176,5 @@ h0IjoiKGlmIHdlIGRlY2lkZSB0byBxdW90ZSBoaW0sIEkgbmVl
 ZCB0byBkb3VibGUgY2hlY2sgdGhhdCdzIG9rLCBvdGhlcndpc2
 UsIHdlIGNhbiBqdXN0IHVzZSB0aGVzZSB3b3JkcyBhcyBvdXIg
 b3duIG9waW5pb24iLCJjcmVhdGVkIjoxNTEyNjg1NDc2ODM3fX
-0sImhpc3RvcnkiOlstOTA2MjI4ODcwXX0=
+0sImhpc3RvcnkiOlsxMDA5OTUwOTc0XX0=
 -->
