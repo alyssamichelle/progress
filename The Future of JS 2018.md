@@ -125,8 +125,7 @@ Prediction! On the safer side we have this prediction, that the weak will get we
 ### AR/VR
 On our more ballsy-prediction-scale, we predict that libraries and frameworks will start diving into the AR/VR scene more thoroughly. We hope that 2018 will have some fun and interesting reveals.
 
-This month Mozilla announced the WebXR Viewer app was released for download on the [itunes store](https://itunes.apple.com/us/app/webxr-viewer/id1295998056?ls=1&mt=8). This app is an augmented reality viewer that let's you view pages created with [webxr-polyfill Javascript library](https://www.github.com/mozilla/webxr-polyfill).
-Mozilla’s WebXR Viewer is an augmented reality (AR) viewer that lets you create and run AR experiences built with web technologies and ARKit.
+This month Mozilla announced the WebXR Viewer app was released for download on the [itunes store](https://itunes.apple.com/us/app/webxr-viewer/id1295998056?ls=1&mt=8). This app is an augmented reality viewer that let's you make and view AR experiences created with [webxr-polyfill Javascript library](https://www.github.com/mozilla/webxr-polyfill)  and ARKit.
 
 > This app is not intended to be a full-fledged web browser, but rather a way to test, demonstrate and share AR experiments created with web technology.
 
@@ -176,5 +175,5 @@ h0IjoiKGlmIHdlIGRlY2lkZSB0byBxdW90ZSBoaW0sIEkgbmVl
 ZCB0byBkb3VibGUgY2hlY2sgdGhhdCdzIG9rLCBvdGhlcndpc2
 UsIHdlIGNhbiBqdXN0IHVzZSB0aGVzZSB3b3JkcyBhcyBvdXIg
 b3duIG9waW5pb24iLCJjcmVhdGVkIjoxNTEyNjg1NDc2ODM3fX
-0sImhpc3RvcnkiOlsxODU2MzYxOTkxXX0=
+0sImhpc3RvcnkiOls0NjMzMDE5MDVdfQ==
 -->
