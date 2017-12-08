@@ -140,11 +140,7 @@ Here is the Google standard for what it takes to be a PWA.
 
 Gartner predicts that “by 2020, progressive web apps will have replaced 50% of general-purpose, consumer-facing mobile apps”.
 
-I don’t know about 
-
-
-
-
+I don’t know about 50%, but I do predict it will be a
 
 
 ### Stackoverflow Dev Survey 2017
@@ -180,5 +176,5 @@ h0IjoiKGlmIHdlIGRlY2lkZSB0byBxdW90ZSBoaW0sIEkgbmVl
 ZCB0byBkb3VibGUgY2hlY2sgdGhhdCdzIG9rLCBvdGhlcndpc2
 UsIHdlIGNhbiBqdXN0IHVzZSB0aGVzZSB3b3JkcyBhcyBvdXIg
 b3duIG9waW5pb24iLCJjcmVhdGVkIjoxNTEyNjg1NDc2ODM3fX
-0sImhpc3RvcnkiOlstMTIxNTg4OTQ1MV19
+0sImhpc3RvcnkiOlstMjAzOTY5MzA3MF19
 -->
