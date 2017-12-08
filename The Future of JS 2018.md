@@ -131,6 +131,7 @@ This month Mozilla announced the WebXR Viewer app was released for download on t
 
 ![https://blog.mozvr.com/experimenting-with-ar-and-the-web-on-ios/](https://blog.mozvr.com/content/images/2017/12/IMG_0017-sm-copy.png)
 
+Mozilla isn't the only company in the AR/VR pie
 
 ## PWA
 
@@ -175,5 +176,5 @@ h0IjoiKGlmIHdlIGRlY2lkZSB0byBxdW90ZSBoaW0sIEkgbmVl
 ZCB0byBkb3VibGUgY2hlY2sgdGhhdCdzIG9rLCBvdGhlcndpc2
 UsIHdlIGNhbiBqdXN0IHVzZSB0aGVzZSB3b3JkcyBhcyBvdXIg
 b3duIG9waW5pb24iLCJjcmVhdGVkIjoxNTEyNjg1NDc2ODM3fX
-0sImhpc3RvcnkiOls0NjMzMDE5MDVdfQ==
+0sImhpc3RvcnkiOlstMTUwMzMyMjg0Ml19
 -->
