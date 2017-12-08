@@ -154,8 +154,9 @@ I don’t know about
 > "Node.js and AngularJS continue to be the most commonly used technologies in this category."
 
 
+![](http://cl.nicoll.co/oDWR/Screen%20Shot%202017-12-08%20at%2013.17.20.png)
 
-
+"React is the most loved among developers, whereas Cordova is the most dreaded. However, Node.js is the most wanted."
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyJHNFcycFpRdWdrMVlnMmZ1Ijp7In
 RleHQiOiJbTWljcm9zb2Z0XShodHRwczovL2dpdGh1Yi5jb20v
@@ -182,5 +183,5 @@ h0IjoiKGlmIHdlIGRlY2lkZSB0byBxdW90ZSBoaW0sIEkgbmVl
 ZCB0byBkb3VibGUgY2hlY2sgdGhhdCdzIG9rLCBvdGhlcndpc2
 UsIHdlIGNhbiBqdXN0IHVzZSB0aGVzZSB3b3JkcyBhcyBvdXIg
 b3duIG9waW5pb24iLCJjcmVhdGVkIjoxNTEyNjg1NDc2ODM3fX
-0sImhpc3RvcnkiOlsxOTQ5MjUwODMzXX0=
+0sImhpc3RvcnkiOlstNDU3NTUxMDQ2XX0=
 -->
