@@ -54,7 +54,8 @@ So where does that leave you? If Angular is too large of a change for your compa
 
 VueJS has been on the rise and mentioned as the next “hot new thing”. It is VERY similar to AngularJS, and does not require a compiled language change like TypeScript. (Yay, the people can still have their CoffeeScript *and the dev world shudders*).
 
-“Vue is simple to get started, scales to large cases easily, has everything you need end to end to build small to large scale apps.” — Austin M
+> “Vue is simple to get started, scales to large cases easily, has everything you need end to end to build small to large scale apps.” — Austin M
+
 [List out similarities between VueJS and AngularJS]
 
 [what has changed in Vue since Feb]
@@ -116,10 +117,8 @@ https://twitter.com/sachagreif/status/935781795924099072
 ￼
 Ah yes Sacha, because that makes so much sense. ;) Not that the charts I created are much clearer. I used [Google Trends]() to generate some data on the four top runner Frameworks and got this glorious chart:
 
-
 Now that chart doesn’t do a whole lot for me, other than showing Ember as a dead thing, which we all knew. Jk, please don’t send Tomster after me. So I decided to turn it into a nifty pie chart, that might help shed more light on the situation:
 ￼
-
 There really is no one way to know which frameworks are doing the best. This is just one peak into the enigma that is the web dev world. However, just going off of this pie chart, it still looks like Angular is on top, followed by React.
 
 
@@ -182,5 +181,5 @@ h0IjoiKGlmIHdlIGRlY2lkZSB0byBxdW90ZSBoaW0sIEkgbmVl
 ZCB0byBkb3VibGUgY2hlY2sgdGhhdCdzIG9rLCBvdGhlcndpc2
 UsIHdlIGNhbiBqdXN0IHVzZSB0aGVzZSB3b3JkcyBhcyBvdXIg
 b3duIG9waW5pb24iLCJjcmVhdGVkIjoxNTEyNjg1NDc2ODM3fX
-0sImhpc3RvcnkiOlsxMzc0ODE0NzUwXX0=
+0sImhpc3RvcnkiOlstMTg3OTI1MTg1OF19
 -->
