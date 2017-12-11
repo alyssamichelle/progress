@@ -77,8 +77,10 @@ Computed Properties
 CSS Transitions and Animations
 Filters
 
+No surprise there though, Vue was created by an ex-Googler.
 The Vue.js 2 core library is very small in size (only 17 kB). This ensures that the overhead which is added to your project by using Vue.js is minimal and your website is loading fast. 
 [source]()
+
 ## React
 
 I’m still surprised by all the apps I continually run into and after inspecting under the hood, realise, they are created with react. React, while not being the newest of “hotnesses”, is still very prevalent and often brought up as a web dev go-to framework.
@@ -211,5 +213,5 @@ h0IjoiKGlmIHdlIGRlY2lkZSB0byBxdW90ZSBoaW0sIEkgbmVl
 ZCB0byBkb3VibGUgY2hlY2sgdGhhdCdzIG9rLCBvdGhlcndpc2
 UsIHdlIGNhbiBqdXN0IHVzZSB0aGVzZSB3b3JkcyBhcyBvdXIg
 b3duIG9waW5pb24iLCJjcmVhdGVkIjoxNTEyNjg1NDc2ODM3fX
-0sImhpc3RvcnkiOlstMTQyMjU1MTk4Nl19
+0sImhpc3RvcnkiOlsxMDY4NDE1OTUxXX0=
 -->
