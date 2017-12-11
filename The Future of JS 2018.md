@@ -39,7 +39,7 @@ I pinged Stephen on slack and asked what he thought Angular's biggest feat was i
 
 > "It can go much further, like imagine in 3 years webassembly is good enough that we want to use it. Because we are a full platform, we could start shipping part of your apps as web assembly for you, without you having to do anything. Or ES2015 modules, or web components, or any of the 'modern web'."
 
-I'm extremely pumped to see what Angular has in store for 2018, 19, and beyond. I know
+I'm extremely pumped to see what Angular has in store for 2018, 19, and beyond. It feels like we are finally getting past those akward teenage years, where w
 **Prediction: Angular elements are going to be HUGE**
 
 ## AngularJS
@@ -211,5 +211,5 @@ h0IjoiKGlmIHdlIGRlY2lkZSB0byBxdW90ZSBoaW0sIEkgbmVl
 ZCB0byBkb3VibGUgY2hlY2sgdGhhdCdzIG9rLCBvdGhlcndpc2
 UsIHdlIGNhbiBqdXN0IHVzZSB0aGVzZSB3b3JkcyBhcyBvdXIg
 b3duIG9waW5pb24iLCJjcmVhdGVkIjoxNTEyNjg1NDc2ODM3fX
-0sImhpc3RvcnkiOlsxMTUzNjgzNjQxXX0=
+0sImhpc3RvcnkiOlszNTAyMDE0MDldfQ==
 -->
