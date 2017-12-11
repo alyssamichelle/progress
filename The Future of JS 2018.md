@@ -56,6 +56,8 @@ VueJS has been on the rise and mentioned as the next “hot new thing”. It is 
 
 > “Vue is simple to get started, scales to large cases easily, has everything you need end to end to build small to large scale apps.” — Austin M
 
+![](http://cl.nicoll.co/oGMm/Image%202017-12-11%20at%205.29.16%20pm.png)
+
 [List out similarities between VueJS and AngularJS]
 
 [what has changed in Vue since Feb]
@@ -73,6 +75,7 @@ Event Handling
 Computed Properties
 CSS Transitions and Animations
 Filters
+
 The Vue.js 2 core library is very small in size (only 17 kB). This ensures that the overhead which is added to your project by using Vue.js is minimal and your website is loading fast. 
 [source]()
 ## React
@@ -207,5 +210,5 @@ h0IjoiKGlmIHdlIGRlY2lkZSB0byBxdW90ZSBoaW0sIEkgbmVl
 ZCB0byBkb3VibGUgY2hlY2sgdGhhdCdzIG9rLCBvdGhlcndpc2
 UsIHdlIGNhbiBqdXN0IHVzZSB0aGVzZSB3b3JkcyBhcyBvdXIg
 b3duIG9waW5pb24iLCJjcmVhdGVkIjoxNTEyNjg1NDc2ODM3fX
-0sImhpc3RvcnkiOls0MjE2ODQ1NzFdfQ==
+0sImhpc3RvcnkiOlstMTU1NjM5NDg5XX0=
 -->
