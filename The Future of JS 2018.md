@@ -60,6 +60,21 @@ VueJS has been on the rise and mentioned as the next “hot new thing”. It is 
 
 [what has changed in Vue since Feb]
 
+What is Vue?
+
+Vue is a progressive JavaScript framework that focuses on building user interfaces. As it only works in the “view layer” it makes no assumption of middleware and backend and therefore can be integrated easily into other projects and libraries. Vue.js offers a lot of functionality for the view layer and can be used for building powerful single-page webapps. In the following you can find a list of features:
+Reactive Interfaces
+Declarative Rendering
+Data Binding
+Directives
+Template Logic
+Components
+Event Handling
+Computed Properties
+CSS Transitions and Animations
+Filters
+The Vue.js 2 core library is very small in size (only 17 kB). This ensures that the overhead which is added to your project by using Vue.js is minimal and your website is loading fast. 
+[source]()
 ## React
 
 I’m still surprised by all the apps I continually run into and after inspecting under the hood, realise, they are created with react. React, while not being the newest of “hotnesses”, is still very prevalent and often brought up as a web dev go-to framework.
@@ -77,7 +92,7 @@ They also enforce component based architecture. An encapsulated component in rea
 
 **React updates in 2017**
 
-
+![](https://media.giphy.com/media/Zugf6900Ga1So/giphy.gif)
 ### Stackoverflow Dev Survey 2017
 
 ![https://insights.stackoverflow.com/survey/2017](http://cl.nicoll.co/oDWR/Screen%20Shot%202017-12-08%20at%2013.17.20.png)
@@ -192,5 +207,5 @@ h0IjoiKGlmIHdlIGRlY2lkZSB0byBxdW90ZSBoaW0sIEkgbmVl
 ZCB0byBkb3VibGUgY2hlY2sgdGhhdCdzIG9rLCBvdGhlcndpc2
 UsIHdlIGNhbiBqdXN0IHVzZSB0aGVzZSB3b3JkcyBhcyBvdXIg
 b3duIG9waW5pb24iLCJjcmVhdGVkIjoxNTEyNjg1NDc2ODM3fX
-0sImhpc3RvcnkiOlstMjAwMzQ4NTM3Ml19
+0sImhpc3RvcnkiOls0MjE2ODQ1NzFdfQ==
 -->
