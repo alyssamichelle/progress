@@ -63,7 +63,7 @@ VueJS has been on the rise and mentioned as the next “hot new thing”. It is 
 [what has changed in Vue since Feb]
 
 What is Vue?
-You guessed it! Vue is yet another WONDERFUL JavaScript framework. It boasts these fun features, which after reading, you should think to yourself... *AngularJS?*
+You guessed it! Vue is yet another WONDERFUL JavaScript framework. It boasts these fun features, which after reading, you should think to yourself... *AngularJS?*. 
 Vue is a progressive JavaScript framework that focuses on building user interfaces. As it only works in the “view layer” it makes no assumption of middleware and backend and therefore can be integrated easily into other projects and libraries. Vue.js offers a lot of functionality for the view layer and can be used for building powerful single-page webapps. In the following you can find a list of features:
 Reactive Interfaces
 Declarative Rendering
@@ -210,5 +210,5 @@ h0IjoiKGlmIHdlIGRlY2lkZSB0byBxdW90ZSBoaW0sIEkgbmVl
 ZCB0byBkb3VibGUgY2hlY2sgdGhhdCdzIG9rLCBvdGhlcndpc2
 UsIHdlIGNhbiBqdXN0IHVzZSB0aGVzZSB3b3JkcyBhcyBvdXIg
 b3duIG9waW5pb24iLCJjcmVhdGVkIjoxNTEyNjg1NDc2ODM3fX
-0sImhpc3RvcnkiOls4MTYyNTA2MDldfQ==
+0sImhpc3RvcnkiOlstMjU0MTkyMzIxXX0=
 -->
