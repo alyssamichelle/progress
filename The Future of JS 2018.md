@@ -34,10 +34,10 @@ For this girls opinion, Angular is still pretty hot *cough cough* points to Tesl
 
 In November, the latest version of Angular, 5, was released. [Stephen Fluin](https://blog.angular.io/version-5-0-0-of-angular-now-available-37e414935ced) Angular’s Developer Advocate, wrote about all the juicy deets in [this](https://blog.angular.io/angular-5-1-more-now-available-27d372f5eb4e) blog post. 
 
-We also had one of our shinniest Developer Advocates, Alyssa Nicoll, ask Stephen what he thought "Angular's biggest feat was in 2017".
+We also had one of our shinniest Developer Advocates, Alyssa Nicoll, ask Stephen what he thought Angular's biggest feat was in 2017. Here is what he had to say:
 > "In 2017 we've successfully balanced stability and innovation. making your applications smaller and faster without making you rewrite your code." — SF 
 
-It can go much further, like imagine in like 3 years webassembly is good enough that we want to use it. Because we are a full platform, we could start shipping part of your apps as web assembly for you, without you having to do anything. Or ES2015 modules, or web components, or any of the "modern web".
+> It can go much further, like imagine in like 3 years webassembly is good enough that we want to use it. Because we are a full platform, we could start shipping part of your apps as web assembly for you, without you having to do anything. Or ES2015 modules, or web components, or any of the "modern web".
 
 **Prediction: Angular elements are going to be HUGE**
 
@@ -194,7 +194,7 @@ QgT3B0aW1pemVyXG5UaGUgYnVpbGQgb3B0aW1pemVyIGlzIGEg
 dG9vbCBpbmNsdWRlZCBpbiBvdXIgQ0xJIGZvciBtYWtpbmcgeW
 /igKYiLCJzdGFydCI6MjgwOSwiZW5kIjoyODA5fSwiejlOclZa
 M2x5Y3Y1am5weSI6eyJ0ZXh0Ijoi4oCUIFNGIiwic3RhcnQiOj
-MwOTQsImVuZCI6MzA5OH19LCJjb21tZW50cyI6eyJNMkV5R3I0
+MxMjAsImVuZCI6MzEyNH19LCJjb21tZW50cyI6eyJNMkV5R3I0
 Y1VGeXRUWmluIjp7ImRpc2N1c3Npb25JZCI6Ikc0VzJwWlF1Z2
 sxWWcyZnUiLCJzdWIiOiIxMDg2NDk4Mjc2NzM3MTYyNDkwMTMi
 LCJ0ZXh0IjoicHJldHR5IHN1cmUgSSB3YW5uYSB0YWtlIG91dC
@@ -210,5 +210,5 @@ h0IjoiKGlmIHdlIGRlY2lkZSB0byBxdW90ZSBoaW0sIEkgbmVl
 ZCB0byBkb3VibGUgY2hlY2sgdGhhdCdzIG9rLCBvdGhlcndpc2
 UsIHdlIGNhbiBqdXN0IHVzZSB0aGVzZSB3b3JkcyBhcyBvdXIg
 b3duIG9waW5pb24iLCJjcmVhdGVkIjoxNTEyNjg1NDc2ODM3fX
-0sImhpc3RvcnkiOlsxNTM0ODI4MDddfQ==
+0sImhpc3RvcnkiOls4MTUzNDA3MjNdfQ==
 -->
