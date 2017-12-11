@@ -59,11 +59,7 @@ VueJS has been on the rise and mentioned as the next “hot new thing”. It is 
 
 ![](http://cl.nicoll.co/oGMm/Image%202017-12-11%20at%205.29.16%20pm.png)
 
-[List out similarities between VueJS and AngularJS]
-
-[what has changed in Vue since Feb]
-
-What is Vue?
+**What is Vue?**
 You guessed it! Vue is yet another WONDERFUL JavaScript framework. It boasts these fun features, which after reading, you should think to yourself... *AngularJS?*. 
 
 **AngularJS *COUGH* I mean, Vue.js Features**
@@ -214,5 +210,5 @@ h0IjoiKGlmIHdlIGRlY2lkZSB0byBxdW90ZSBoaW0sIEkgbmVl
 ZCB0byBkb3VibGUgY2hlY2sgdGhhdCdzIG9rLCBvdGhlcndpc2
 UsIHdlIGNhbiBqdXN0IHVzZSB0aGVzZSB3b3JkcyBhcyBvdXIg
 b3duIG9waW5pb24iLCJjcmVhdGVkIjoxNTEyNjg1NDc2ODM3fX
-0sImhpc3RvcnkiOls1NDkwMjA5MTZdfQ==
+0sImhpc3RvcnkiOlsxNTQwNTY2MDYwXX0=
 -->
