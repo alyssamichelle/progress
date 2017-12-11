@@ -66,6 +66,15 @@ I’m still surprised by all the apps I continually run into and after inspectin
 
 > “React is very popular and will likely continue to be now that Facebook has resolved the licensing controversy. It has become the first choice alternative to Angular and only continues to gain traction.” –Joe Eames, JavaScript and Angular expert [source](https://medium.com/pluralsight/tech-trends-2018-7c443b6cff7f)
 
+## Kendo UI
+
+2017 was a very big year for Kendo UI. Looking ahead, 2018 is shaping up to be even bigger. Here's a quick look at what to expect.
+
+Wrappers for React and Vue were introduced in September 2017. These wrappers provided a substantial subset of our Kendo UI components to developers targeting both of these frameworks. In 2018, the React and Vue wrappers will have full coverage of all jQuery-based components in Kendo UI. This will align the support Kendo UI has across four major web frameworks: jQuery, Angular, React, and Vue.
+
+The popularity of React boded well for Kendo UI in 2018. That's because Kendo UI will also introduce a set of native components for React. These native components will leverage features like the virtual DOM for complex components like the Grid. They will also provide form component suites, including DropDowns and powerful input elements. They will also support themes for Material Design and Bootstrap v4.
+
+Angular support in Kendo UI will be extended to include popular components such as the TreeView, Window, Splitter, and Gauges. Numerous features for the very popular Grid component will also be added.
 
 ### Stackoverflow Dev Survey 2017
 
