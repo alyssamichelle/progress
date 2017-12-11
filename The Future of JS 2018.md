@@ -32,34 +32,19 @@ For this girls opinion, Angular is still pretty hot *cough cough* points to Tesl
 
 [Updates/ what has changed in Angular since Feb]
 
-In November, the latest version of Angular, 5, was released. [Stephen Fluin](https://blog.angular.io/version-5-0-0-of-angular-now-available-37e414935ced) Angular’s Developer Advocate, wrote about all the juicy deets in [this](https://blog.angular.io/version-5-0-0-of-angular-now-available-37e414935ced) blog post. To summarise those latest and greatest features though, I’ve created this TLDR; section.
+In November, the latest version of Angular, 5, was released. [Stephen Fluin](https://blog.angular.io/version-5-0-0-of-angular-now-available-37e414935ced) Angular’s Developer Advocate, wrote about all the juicy deets in [this](https://blog.angular.io/version-5-0-0-of-angular-now-available-37e414935ced) blog post. 
 
-Build Optimizer
-The build optimizer is a tool included in our CLI for making your bundles smaller using our semantic understanding of your Angular application.
+**Angular Material Full release & More**
 
-Angular Universal State Transfer API and DOM Support
-Angular Universal is a project focused on helping developers to perform server side rendering. 
+https://blog.angular.io/angular-5-1-more-now-available-27d372f5eb4e
 
-In 5.0.0, the team has added ServerTransferStateModule and the corresponding BrowserTransferStateModule. This module allows you to generate information as part of your rendering with platform-server, and then transfer it to the client side so that this information does not need to be regenerated. This is useful for cases such as when your application fetches data over HTTP. By transferring state from the server, this means developers do not need to make a second HTTP request once the application makes it to the client. Documentation for state transfer is forthcoming in the next few weeks.
-
-Compiler Improvements
-
-Internationalized Number, Date, and Currency Pipes
-
-Replace the ReflectiveInjector with StaticInjector
-Zone speed improvements
-exportAs
-HttpClient
-CLI v1.5
-Angular Forms adds updateOn Blur / Submit
-RxJS 5.5
-New Router Lifecycle Events
-
-"In 2017 we've successfully balanced stability and innovation. making your applications smaller and faster without making you rewrite your code." — SF 
+> "In 2017 we've successfully balanced stability and innovation. making your applications smaller and faster without making you rewrite your code." — SF 
 
 It can go much further, like imagine in like 3 years webassembly is good enough that we want to use it. Because we are a full platform, we could start shipping part of your apps as web assembly for you, without you having to do anything. Or ES2015 modules, or web components, or any of the "modern web".
 
-Prediction: Angular elements are going to be HUGE
+**Prediction: Angular elements are going to be HUGE**
+
+## AngularJS
 
 At the last Google Developer Expert Summit that I attended, they again expressed their plans to continue updating AngularJS, only so long as the traffic to it’s docs outnumbered the traffic to the Angular.io docs. AngularJS’s days are numbered. That being said, there are still so many companies using AngularJS, without any plans of upgrading. Why, you might ask? For some, they just do not have the resources to dedicate to upgrading all the directives to components and then to make the massive (let’s be real peeps, this is no simple upgrade) swap over to Angular. For others, they are hesitant (still) to adopt Typescript. At first, the Angular team said they would support multiple languages, not just Typescript. However, a few months into Angular being released, and they swiftly back tracked and removed any references to other languages in their docs. So for some companies, believe it or not, they won’t upgrade because they cannot give up their beloved CoffeeScript. ;)
 
@@ -69,7 +54,8 @@ So where does that leave you? If Angular is too large of a change for your compa
 
 VueJS has been on the rise and mentioned as the next “hot new thing”. It is VERY similar to AngularJS, and does not require a compiled language change like TypeScript. (Yay, the people can still have their CoffeeScript *and the dev world shudders*).
 
-“Vue is simple to get started, scales to large cases easily, has everything you need end to end to build small to large scale apps.” — Austin M
+> “Vue is simple to get started, scales to large cases easily, has everything you need end to end to build small to large scale apps.” — Austin M
+
 [List out similarities between VueJS and AngularJS]
 
 [what has changed in Vue since Feb]
@@ -78,9 +64,37 @@ VueJS has been on the rise and mentioned as the next “hot new thing”. It is 
 
 I’m still surprised by all the apps I continually run into and after inspecting under the hood, realise, they are created with react. React, while not being the newest of “hotnesses”, is still very prevalent and often brought up as a web dev go-to framework.
 
+> “React is very popular and will likely continue to be now that Facebook has resolved the licensing controversy. It has become the first choice alternative to Angular and only continues to gain traction.” –Joe Eames, JavaScript and Angular expert [source](https://medium.com/pluralsight/tech-trends-2018-7c443b6cff7f)
+
+
+### Stackoverflow Dev Survey 2017
+
+![https://insights.stackoverflow.com/survey/2017](http://cl.nicoll.co/oDWR/Screen%20Shot%202017-12-08%20at%2013.17.20.png)
+
+> "React is the most loved among developers, whereas Cordova is the most dreaded. However, Node.js is the most wanted."
+
 [what has changed in react since Feb.]
 
 
+React strikes again! On the npm trends 
+
+![http://www.npmtrends.com/angular-vs-ember-source-vs-react-vs-vue-vs-backbone](http://cl.nicoll.co/oD1N/Screen%20Shot%202017-12-08%20at%2016.04.25.png)
+
+## Much of the Web Still Runs on jQuery
+
+Dude! 90% of the Internet runs on jQuery. We all know this, so the chart below shouldn't shock you.
+![http://jsfiddle.net/8e5uobnb/4/](http://cl.nicoll.co/oCe9/Image%202017-12-07%20at%205.59.56%20pm.png)
+https://blog.jquery.com/2017/03/16/jquery-3-2-0-is-out/
+https://discuss.httparchive.org/t/javascript-library-detection/955/2
+
+However, could there be a paradigm shift in the works?
+
+> “So, jQuery still runs the web, but this is changing.”
+https://discuss.httparchive.org/t/javascript-library-detection/955/6
+
+As a friend of mine likes to say "you might wanna take that with a bucket of salt", especially since jQuery has been around since the dawn of time. It would be very hard to imagine anything overthrowing that dynasty.
+
+![](https://memegenerator.net/img/instances/500x/56793614/jquery-jquery-everywhere.jpg)
 ## Ember
 
 About that…
@@ -103,10 +117,8 @@ https://twitter.com/sachagreif/status/935781795924099072
 ￼
 Ah yes Sacha, because that makes so much sense. ;) Not that the charts I created are much clearer. I used [Google Trends]() to generate some data on the four top runner Frameworks and got this glorious chart:
 
-
 Now that chart doesn’t do a whole lot for me, other than showing Ember as a dead thing, which we all knew. Jk, please don’t send Tomster after me. So I decided to turn it into a nifty pie chart, that might help shed more light on the situation:
 ￼
-
 There really is no one way to know which frameworks are doing the best. This is just one peak into the enigma that is the web dev world. However, just going off of this pie chart, it still looks like Angular is on top, followed by React.
 
 
@@ -114,8 +126,17 @@ There really is no one way to know which frameworks are doing the best. This is 
 
 Prediction! On the safer side we have this prediction, that the weak will get weaker, the strong will get stronger. People (and companies) will continue to use frameworks they know and love. Angular, React, Ember, and Vue will all still be in the game, come 2019. I predict that Vue will continue to light up and be used, but at an individual scale, rather than a large company scale.
 
-On our more ballsy-prediction-scale, we predict that libraries and frameworks will start diving into the AR/VR scene more thoroughly. We hope that 2018 will have some fun and interesting reveals
+### AR/VR
 
+This month Mozilla announced the WebXR Viewer app was released for download on the [itunes store](https://itunes.apple.com/us/app/webxr-viewer/id1295998056?ls=1&mt=8). This app is an augmented reality viewer that let's you make and view AR experiences created with [webxr-polyfill Javascript library](https://www.github.com/mozilla/webxr-polyfill)  and ARKit.
+
+> This app is not intended to be a full-fledged web browser, but rather a way to test, demonstrate and share AR experiments created with web technology.
+
+![https://blog.mozvr.com/experimenting-with-ar-and-the-web-on-ios/](https://blog.mozvr.com/content/images/2017/12/IMG_0017-sm-copy.png)
+
+Mozilla isn't the only company in the AR/VR pie, however. Google also released their own AR app called [WebARonARCore APK](https://github.com/google-ar/WebARonARCore) on Android. Mozilla has also been working on integrating into three.js graphics library and A-Frame framework. These are both really popular libraries/frameworks on the AR scene and it will only make it easier and easier to use AR/VR if big companies like Mozilla and Google support it.
+
+On our more ballsy-prediction-scale, we predict that libraries and frameworks will start diving into the AR/VR scene more thoroughly and that new AR/VR libraries and integrations with existing libraries will start to pop up. We hope that 2018 will have some fun and interesting reveals.
 
 ## PWA
 
@@ -124,18 +145,13 @@ Here is the Google standard for what it takes to be a PWA.
 
 Gartner predicts that “by 2020, progressive web apps will have replaced 50% of general-purpose, consumer-facing mobile apps”.
 
-I don’t know about 
+I don’t know about 50%, but I do predict more and more big name companies implementing progressive web app features on their sites in 2018 and beyond.
 
 
+### Stackoverflow Dev Survey 2017
+![https://insights.stackoverflow.com/survey/2017](http://cl.nicoll.co/oDbh/Screen%20Shot%202017-12-08%20at%2013.14.38.png)
 
-
-
-
-
-
-
-
-
+> "Node.js and AngularJS continue to be the most commonly used technologies in this category."
 
 
 
@@ -147,9 +163,9 @@ E2XG4gLSBkb3RuZXTigKYiLCJzdGFydCI6MTQ4MCwiZW5kIjox
 NzA4fSwiUWdEamhta3ZFbjNoenU0QiI6eyJ0ZXh0IjoiQnVpbG
 QgT3B0aW1pemVyXG5UaGUgYnVpbGQgb3B0aW1pemVyIGlzIGEg
 dG9vbCBpbmNsdWRlZCBpbiBvdXIgQ0xJIGZvciBtYWtpbmcgeW
-/igKYiLCJzdGFydCI6MjkwNywiZW5kIjo0MDcyfSwiejlOclZa
+/igKYiLCJzdGFydCI6MjgxNywiZW5kIjoyODE3fSwiejlOclZa
 M2x5Y3Y1am5weSI6eyJ0ZXh0Ijoi4oCUIFNGIiwic3RhcnQiOj
-QyMjAsImVuZCI6NDIyNH19LCJjb21tZW50cyI6eyJNMkV5R3I0
+MwNzgsImVuZCI6MzA4Mn19LCJjb21tZW50cyI6eyJNMkV5R3I0
 Y1VGeXRUWmluIjp7ImRpc2N1c3Npb25JZCI6Ikc0VzJwWlF1Z2
 sxWWcyZnUiLCJzdWIiOiIxMDg2NDk4Mjc2NzM3MTYyNDkwMTMi
 LCJ0ZXh0IjoicHJldHR5IHN1cmUgSSB3YW5uYSB0YWtlIG91dC
@@ -165,5 +181,5 @@ h0IjoiKGlmIHdlIGRlY2lkZSB0byBxdW90ZSBoaW0sIEkgbmVl
 ZCB0byBkb3VibGUgY2hlY2sgdGhhdCdzIG9rLCBvdGhlcndpc2
 UsIHdlIGNhbiBqdXN0IHVzZSB0aGVzZSB3b3JkcyBhcyBvdXIg
 b3duIG9waW5pb24iLCJjcmVhdGVkIjoxNTEyNjg1NDc2ODM3fX
-0sImhpc3RvcnkiOlsxNDk5NDg5ODldfQ==
+0sImhpc3RvcnkiOlstMTg3OTI1MTg1OF19
 -->
