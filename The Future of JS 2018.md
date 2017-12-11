@@ -32,9 +32,7 @@ For this girls opinion, Angular is still pretty hot *cough cough* points to Tesl
 
 [Updates/ what has changed in Angular since Feb]
 
-In November, the latest version of Angular, 5, was released. [Stephen Fluin](https://blog.angular.io/version-5-0-0-of-angular-now-available-37e414935ced) Angular’s Developer Advocate, wrote about all the juicy deets in [this](https://blog.angular.io/version-5-0-0-of-angular-now-available-37e414935ced) blog post. 
-
-https://blog.angular.io/angular-5-1-more-now-available-27d372f5eb4e
+In November, the latest version of Angular, 5, was released. [Stephen Fluin](https://blog.angular.io/version-5-0-0-of-angular-now-available-37e414935ced) Angular’s Developer Advocate, wrote about all the juicy deets in [this](https://blog.angular.io/angular-5-1-more-now-available-27d372f5eb4e) blog post. 
 
 > "In 2017 we've successfully balanced stability and innovation. making your applications smaller and faster without making you rewrite your code." — SF 
 
@@ -193,9 +191,9 @@ E2XG4gLSBkb3RuZXTigKYiLCJzdGFydCI6MTQ4MCwiZW5kIjox
 NzA4fSwiUWdEamhta3ZFbjNoenU0QiI6eyJ0ZXh0IjoiQnVpbG
 QgT3B0aW1pemVyXG5UaGUgYnVpbGQgb3B0aW1pemVyIGlzIGEg
 dG9vbCBpbmNsdWRlZCBpbiBvdXIgQ0xJIGZvciBtYWtpbmcgeW
-/igKYiLCJzdGFydCI6MjgxNywiZW5kIjoyODE3fSwiejlOclZa
+/igKYiLCJzdGFydCI6MjgwOSwiZW5kIjoyODA5fSwiejlOclZa
 M2x5Y3Y1am5weSI6eyJ0ZXh0Ijoi4oCUIFNGIiwic3RhcnQiOj
-MwMzYsImVuZCI6MzA0MH19LCJjb21tZW50cyI6eyJNMkV5R3I0
+I5NTksImVuZCI6Mjk2M319LCJjb21tZW50cyI6eyJNMkV5R3I0
 Y1VGeXRUWmluIjp7ImRpc2N1c3Npb25JZCI6Ikc0VzJwWlF1Z2
 sxWWcyZnUiLCJzdWIiOiIxMDg2NDk4Mjc2NzM3MTYyNDkwMTMi
 LCJ0ZXh0IjoicHJldHR5IHN1cmUgSSB3YW5uYSB0YWtlIG91dC
@@ -211,5 +209,5 @@ h0IjoiKGlmIHdlIGRlY2lkZSB0byBxdW90ZSBoaW0sIEkgbmVl
 ZCB0byBkb3VibGUgY2hlY2sgdGhhdCdzIG9rLCBvdGhlcndpc2
 UsIHdlIGNhbiBqdXN0IHVzZSB0aGVzZSB3b3JkcyBhcyBvdXIg
 b3duIG9waW5pb24iLCJjcmVhdGVkIjoxNTEyNjg1NDc2ODM3fX
-0sImhpc3RvcnkiOlstMTU3ODEwNzg1NV19
+0sImhpc3RvcnkiOlstMzE1MzIzMjI5XX0=
 -->
