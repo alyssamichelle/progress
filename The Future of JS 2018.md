@@ -68,7 +68,10 @@ I’m still surprised by all the apps I continually run into and after inspectin
 
 > “React is very popular and will likely continue to be now that Facebook has resolved the licensing controversy. It has become the first choice alternative to Angular and only continues to gain traction.” –Joe Eames, JavaScript and Angular expert [source](https://medium.com/pluralsight/tech-trends-2018-7c443b6cff7f)
 
-React, unlike Angular, is not a framework, but rather a library. React is a JS library for building UI on web apps. It provides a declarative method of defining UI components, which as they 
+React, unlike Angular, is not a framework, but rather a library. React is a JS library for building UI on web apps. It provides a declarative method of defining UI components, which as they claim:
+> "Declarative views make your code more predictable and easier to debug."
+
+They also enforce component based architecture, which
 
 ![https://blog.techmagic.co/angular-2-vs-react-what-to-chose-in-2017/](http://cl.nicoll.co/oH5u/Image%202017-12-11%20at%202.32.50%20pm.png)
 
@@ -189,5 +192,5 @@ h0IjoiKGlmIHdlIGRlY2lkZSB0byBxdW90ZSBoaW0sIEkgbmVl
 ZCB0byBkb3VibGUgY2hlY2sgdGhhdCdzIG9rLCBvdGhlcndpc2
 UsIHdlIGNhbiBqdXN0IHVzZSB0aGVzZSB3b3JkcyBhcyBvdXIg
 b3duIG9waW5pb24iLCJjcmVhdGVkIjoxNTEyNjg1NDc2ODM3fX
-0sImhpc3RvcnkiOlstMzUyNzA0MjgyXX0=
+0sImhpc3RvcnkiOlsxNzI2NDk5NjE1XX0=
 -->
