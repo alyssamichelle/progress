@@ -66,7 +66,7 @@ I’m still surprised by all the apps I continually run into and after inspectin
 
 > “React is very popular and will likely continue to be now that Facebook has resolved the licensing controversy. It has become the first choice alternative to Angular and only continues to gain traction.” –Joe Eames, JavaScript and Angular expert [source](https://medium.com/pluralsight/tech-trends-2018-7c443b6cff7f)
 
-
+**What is React? Should I use it?**
 ![https://blog.techmagic.co/angular-2-vs-react-what-to-chose-in-2017/](http://cl.nicoll.co/oH5u/Image%202017-12-11%20at%202.32.50%20pm.png)
 
 https://www.google.com/amp/blog.techmagic.co/angular-2-vs-react-what-to-chose-in-2017/amp/
@@ -185,5 +185,5 @@ h0IjoiKGlmIHdlIGRlY2lkZSB0byBxdW90ZSBoaW0sIEkgbmVl
 ZCB0byBkb3VibGUgY2hlY2sgdGhhdCdzIG9rLCBvdGhlcndpc2
 UsIHdlIGNhbiBqdXN0IHVzZSB0aGVzZSB3b3JkcyBhcyBvdXIg
 b3duIG9waW5pb24iLCJjcmVhdGVkIjoxNTEyNjg1NDc2ODM3fX
-0sImhpc3RvcnkiOlstMjQzNTQ1MjA0XX0=
+0sImhpc3RvcnkiOlstMTMxODY4OTAxXX0=
 -->
