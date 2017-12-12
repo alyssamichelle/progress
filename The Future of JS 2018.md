@@ -37,7 +37,7 @@ In November, the latest version of Angular, 5, was released. [Stephen Fluin](htt
 I pinged Stephen on slack and asked what he thought Angular's biggest feat was in 2017. Here is what he had to say:
 
 > "In 2017 we've successfully balanced stability and innovation. making your applications smaller and faster without making you rewrite your code."
-
+> 
 > "It can go much further, like imagine in 3 years webassembly is good enough that we want to use it. Because we are a full platform, we could start shipping part of your apps as web assembly for you, without you having to do anything. Or ES2015 modules, or web components, or any of the 'modern web'."
 
 I'm extremely pumped to see what Angular has in store for 2018, 19, and beyond. It feels like we are finally getting past those awkward teenage years, where we are still figuring out who we are and how we fit into the world. Now we know what kind of framework Angular is and needs to be and we are well on our way.
@@ -234,6 +234,11 @@ Owning your environment and all the pieces your app needs can be very powerful.
 
 > "It can go much further, like imagine in 3 years webassembly is good enough that we want to use it. Because we are a full platform, we could start shipping part of your apps as web assembly for you, without you having to do anything. Or ES2015 modules, or web components, or any of the 'modern web'."
 
+
+
+> "Angular owns the whole ecosystem, not just a library like react. 
+> Angular's affinity towards typescript it allows the applications to be statically analysable which is what will allow for cool things like Stephen mentioned" — Mike Brocchi
+
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyJHNFcycFpRdWdrMVlnMmZ1Ijp7In
 RleHQiOiJbTWljcm9zb2Z0XShodHRwczovL2dpdGh1Yi5jb20v
@@ -260,5 +265,5 @@ h0IjoiKGlmIHdlIGRlY2lkZSB0byBxdW90ZSBoaW0sIEkgbmVl
 ZCB0byBkb3VibGUgY2hlY2sgdGhhdCdzIG9rLCBvdGhlcndpc2
 UsIHdlIGNhbiBqdXN0IHVzZSB0aGVzZSB3b3JkcyBhcyBvdXIg
 b3duIG9waW5pb24iLCJjcmVhdGVkIjoxNTEyNjg1NDc2ODM3fX
-0sImhpc3RvcnkiOls5NTM2MjIzNTFdfQ==
+0sImhpc3RvcnkiOlstMTM1MTI0MzIxM119
 -->
