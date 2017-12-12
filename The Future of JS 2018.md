@@ -137,7 +137,7 @@ React strikes again! On the npm trends
 
 
 
-## Enterprise or Nah
+**Enterprise or Nah**
 
 What is wrong with Enterprise, you might ask. Well, enterprise apps/code generally is bulkier and more complex. It will take you much longer to learn and enter an Enterprise framework community than it will for a basic and simple one. 
 
@@ -279,5 +279,5 @@ h0IjoiKGlmIHdlIGRlY2lkZSB0byBxdW90ZSBoaW0sIEkgbmVl
 ZCB0byBkb3VibGUgY2hlY2sgdGhhdCdzIG9rLCBvdGhlcndpc2
 UsIHdlIGNhbiBqdXN0IHVzZSB0aGVzZSB3b3JkcyBhcyBvdXIg
 b3duIG9waW5pb24iLCJjcmVhdGVkIjoxNTEyNjg1NDc2ODM3fX
-0sImhpc3RvcnkiOlsxNzU3NTgyMzVdfQ==
+0sImhpc3RvcnkiOlsxODkxNjc2MzMzXX0=
 -->
