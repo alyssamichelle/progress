@@ -90,7 +90,7 @@ No surprise there though, Vue was created by an ex-Googler, Evan You, who after 
 You can read more about Vue's origin story [here](https://betweenthewires.org/2016/11/03/evan-you/). 
 
 ***alyssa todo: remove below or write in your own words***
-The Vue.js 2 core library is very small (17 kB). This means This ensures that the overhead which is added to your project by using Vue.js is minimal and your website is loading fast. 
+The Vue.js 2 core library is very small (17 kB). This means that the This ensures that the overhead which is added to your project by using Vue.js is minimal and your website is loading fast. 
 
 
 ## React
@@ -259,5 +259,5 @@ h0IjoiKGlmIHdlIGRlY2lkZSB0byBxdW90ZSBoaW0sIEkgbmVl
 ZCB0byBkb3VibGUgY2hlY2sgdGhhdCdzIG9rLCBvdGhlcndpc2
 UsIHdlIGNhbiBqdXN0IHVzZSB0aGVzZSB3b3JkcyBhcyBvdXIg
 b3duIG9waW5pb24iLCJjcmVhdGVkIjoxNTEyNjg1NDc2ODM3fX
-0sImhpc3RvcnkiOlstNjE3NjQwMTkzXX0=
+0sImhpc3RvcnkiOlsxMjE3NDYyNTI3XX0=
 -->
