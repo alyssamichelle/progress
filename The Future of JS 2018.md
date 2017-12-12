@@ -2,8 +2,21 @@
 **Libraries and Frameworks**
 
 Last year, we focused on frameworks such as React, Angular, Ember, Vue and Backbone. This year, we are going to take at look at all the same frameworks, save backbone. If there is anyone is less hot than ember, that would be backbone.
+
 ![angular vs ember vs backbone google trends](http://cl.nicoll.co/oBtr/Screen%20Shot%202017-12-07%20at%2015.56.45.png)
+
 We’ll also look at Kendo UI. Not out of any bias because we make it and hope it does well, certainly not. Looking back can help us determine how each of these frameworks impacted web development in 2017, as well as where they are likely headed.
+
+
+## Kendo UI
+
+2017 was a very big year for Kendo UI. Looking ahead, 2018 is shaping up to be even bigger. Here's a quick look at what to expect.
+
+Wrappers for React and Vue were introduced in September 2017. These wrappers provided a substantial subset of our Kendo UI components to developers targeting both of these frameworks. In 2018, the React and Vue wrappers will have full coverage of all jQuery-based components in Kendo UI. This will align the support Kendo UI has across four major web frameworks: jQuery, Angular, React, and Vue.
+
+The popularity of React boded well for Kendo UI in 2018. That's because Kendo UI will also introduce a set of native components for React. These native components will leverage features like the virtual DOM for complex components like the Grid. They will also provide form component suites, including DropDowns and powerful input elements. They will also support themes for Material Design and Bootstrap v4.
+
+Angular support in Kendo UI will be extended to include popular components such as the TreeView, Window, Splitter, and Gauges. Numerous features for the very popular Grid component will also be added.
 
 ## OPEN SOURCE PREDICTIONS FOR 2018
 We all know that Google is the driving source behind Angular and Facebook, the creators and maintainers of React. In 2017 we predicted that open source software, controlled by large corporations, aka "Corporate Open Source", would become more prevalent. While no new huge contenders have entered the ring in 2017, OS projects that started in 2016 or earlier remain strong (like dotnet and UNIX). Whereas others have really taken root and spread, like vscode, TypeScript, and Swift.
@@ -171,16 +184,6 @@ Now that chart doesn’t do a whole lot for me, other than showing Ember as a de
 ￼![](http://cl.nicoll.co/oAQy/[b5509a7f44ba2ffd22e580d2830ca4b7]_Image%202017-12-06%20at%202.36.00%20pm.png)
 There really is no one way to know which frameworks are doing the best. This is just one peak into the enigma that is the web dev world. However, just going off of this pie chart, it still looks like Angular is on top, followed by React.
 
-## Kendo UI
-
-2017 was a very big year for Kendo UI. Looking ahead, 2018 is shaping up to be even bigger. Here's a quick look at what to expect.
-
-Wrappers for React and Vue were introduced in September 2017. These wrappers provided a substantial subset of our Kendo UI components to developers targeting both of these frameworks. In 2018, the React and Vue wrappers will have full coverage of all jQuery-based components in Kendo UI. This will align the support Kendo UI has across four major web frameworks: jQuery, Angular, React, and Vue.
-
-The popularity of React boded well for Kendo UI in 2018. That's because Kendo UI will also introduce a set of native components for React. These native components will leverage features like the virtual DOM for complex components like the Grid. They will also provide form component suites, including DropDowns and powerful input elements. They will also support themes for Material Design and Bootstrap v4.
-
-Angular support in Kendo UI will be extended to include popular components such as the TreeView, Window, Splitter, and Gauges. Numerous features for the very popular Grid component will also be added.
-
 ## The State of JS in 2017 Survey Results
 I think I found an interesting correlation on the recent survey results released.
  
@@ -253,13 +256,13 @@ React, while being more flexible than Angular, is more lightweight and has less 
 eyJkaXNjdXNzaW9ucyI6eyJHNFcycFpRdWdrMVlnMmZ1Ijp7In
 RleHQiOiJbTWljcm9zb2Z0XShodHRwczovL2dpdGh1Yi5jb20v
 bWljcm9zb2Z0KVxuIC0gdnNjb2RlIC0gT1MgaW4gSnVseSAyMD
-E2XG4gLSBkb3RuZXTigKYiLCJzdGFydCI6MTQ4MCwiZW5kIjox
-NzA4fSwiUWdEamhta3ZFbjNoenU0QiI6eyJ0ZXh0IjoiQnVpbG
+E2XG4gLSBkb3RuZXTigKYiLCJzdGFydCI6MjYzNiwiZW5kIjoy
+ODY0fSwiUWdEamhta3ZFbjNoenU0QiI6eyJ0ZXh0IjoiQnVpbG
 QgT3B0aW1pemVyXG5UaGUgYnVpbGQgb3B0aW1pemVyIGlzIGEg
 dG9vbCBpbmNsdWRlZCBpbiBvdXIgQ0xJIGZvciBtYWtpbmcgeW
-/igKYiLCJzdGFydCI6MjgwOSwiZW5kIjoyODA5fSwiejlOclZa
+/igKYiLCJzdGFydCI6Mzk2NSwiZW5kIjozOTY1fSwiejlOclZa
 M2x5Y3Y1am5weSI6eyJ0ZXh0Ijoi4oCUIFNGIiwic3RhcnQiOj
-MwNzUsImVuZCI6MzA3NX19LCJjb21tZW50cyI6eyJNMkV5R3I0
+QyMzEsImVuZCI6NDIzMX19LCJjb21tZW50cyI6eyJNMkV5R3I0
 Y1VGeXRUWmluIjp7ImRpc2N1c3Npb25JZCI6Ikc0VzJwWlF1Z2
 sxWWcyZnUiLCJzdWIiOiIxMDg2NDk4Mjc2NzM3MTYyNDkwMTMi
 LCJ0ZXh0IjoicHJldHR5IHN1cmUgSSB3YW5uYSB0YWtlIG91dC
@@ -275,5 +278,5 @@ h0IjoiKGlmIHdlIGRlY2lkZSB0byBxdW90ZSBoaW0sIEkgbmVl
 ZCB0byBkb3VibGUgY2hlY2sgdGhhdCdzIG9rLCBvdGhlcndpc2
 UsIHdlIGNhbiBqdXN0IHVzZSB0aGVzZSB3b3JkcyBhcyBvdXIg
 b3duIG9waW5pb24iLCJjcmVhdGVkIjoxNTEyNjg1NDc2ODM3fX
-0sImhpc3RvcnkiOlsxMTU1NjIxNzM3XX0=
+0sImhpc3RvcnkiOlsxNzgzMDc3NDgxXX0=
 -->
