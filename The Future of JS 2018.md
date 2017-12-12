@@ -42,7 +42,9 @@ I pinged Stephen on slack and asked what he thought Angular's biggest feat was i
 I'm extremely pumped to see what Angular has in store for 2018, 19, and beyond. It feels like we are finally getting past those akward teenage years, where we are still figuring out who we are and how we fit into the world. Now we know what kind of framework Angular is and needs to be and we are well on our way.
 
 As Rob Wormhald put it:
-"Angular is ideal for building 
+> "Angular is ideal for building **complete applications** and our tooling, documentation and infrastructure have been primarily aimed at this use case..."
+
+We have so much to look forward to i
 **Prediction: Angular elements are going to be HUGE**
 
 ## AngularJS
@@ -217,5 +219,5 @@ h0IjoiKGlmIHdlIGRlY2lkZSB0byBxdW90ZSBoaW0sIEkgbmVl
 ZCB0byBkb3VibGUgY2hlY2sgdGhhdCdzIG9rLCBvdGhlcndpc2
 UsIHdlIGNhbiBqdXN0IHVzZSB0aGVzZSB3b3JkcyBhcyBvdXIg
 b3duIG9waW5pb24iLCJjcmVhdGVkIjoxNTEyNjg1NDc2ODM3fX
-0sImhpc3RvcnkiOlstMTQ0ODE4NjQ3Nl19
+0sImhpc3RvcnkiOlsxMzQ2MjU3NzUwXX0=
 -->
