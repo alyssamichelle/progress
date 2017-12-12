@@ -40,7 +40,7 @@ I pinged Stephen on slack and asked what he thought Angular's biggest feat was i
 
 > "It can go much further, like imagine in 3 years webassembly is good enough that we want to use it. Because we are a full platform, we could start shipping part of your apps as web assembly for you, without you having to do anything. Or ES2015 modules, or web components, or any of the 'modern web'."
 
-I'm extremely pumped to see what Angular has in store for 2018, 19, and beyond. It feels like we are finally getting past those akward teenage years, where we are still figuring out who we are and how we fit into the world. Now we know what kind of framework Angular is and needs to be and we are well on our way.
+I'm extremely pumped to see what Angular has in store for 2018, 19, and beyond. It feels like we are finally getting past those awkward teenage years, where we are still figuring out who we are and how we fit into the world. Now we know what kind of framework Angular is and needs to be and we are well on our way.
 
 As Rob Wormhald put it:
 > "Angular is ideal for building **complete applications** and our tooling, documentation and infrastructure have been primarily aimed at this use case..."
@@ -108,7 +108,7 @@ They also enforce component based architecture. An encapsulated component in rea
 
 **React updates in 2017**
 
-![](https://media.giphy.com/media/Zugf6900Ga1So/giphy.gif)
+![](http://cl.nicoll.co/oGvE/Image%202017-12-11%20at%205.33.25%20pm.png)
 ### Stackoverflow Dev Survey 2017
 
 ![https://insights.stackoverflow.com/survey/2017](http://cl.nicoll.co/oDWR/Screen%20Shot%202017-12-08%20at%2013.17.20.png)
@@ -223,5 +223,5 @@ h0IjoiKGlmIHdlIGRlY2lkZSB0byBxdW90ZSBoaW0sIEkgbmVl
 ZCB0byBkb3VibGUgY2hlY2sgdGhhdCdzIG9rLCBvdGhlcndpc2
 UsIHdlIGNhbiBqdXN0IHVzZSB0aGVzZSB3b3JkcyBhcyBvdXIg
 b3duIG9waW5pb24iLCJjcmVhdGVkIjoxNTEyNjg1NDc2ODM3fX
-0sImhpc3RvcnkiOlstNTAzNDE2NTc4XX0=
+0sImhpc3RvcnkiOlstMTUwMDIxNzk1Nl19
 -->
