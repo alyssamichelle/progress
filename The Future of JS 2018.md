@@ -109,6 +109,7 @@ They also enforce component based architecture. An encapsulated component in rea
 **React updates in 2017**
 
 ![](http://cl.nicoll.co/oGvE/Image%202017-12-11%20at%205.33.25%20pm.png)
+
 ### Stackoverflow Dev Survey 2017
 
 ![https://insights.stackoverflow.com/survey/2017](http://cl.nicoll.co/oDWR/Screen%20Shot%202017-12-08%20at%2013.17.20.png)
@@ -223,5 +224,5 @@ h0IjoiKGlmIHdlIGRlY2lkZSB0byBxdW90ZSBoaW0sIEkgbmVl
 ZCB0byBkb3VibGUgY2hlY2sgdGhhdCdzIG9rLCBvdGhlcndpc2
 UsIHdlIGNhbiBqdXN0IHVzZSB0aGVzZSB3b3JkcyBhcyBvdXIg
 b3duIG9waW5pb24iLCJjcmVhdGVkIjoxNTEyNjg1NDc2ODM3fX
-0sImhpc3RvcnkiOlstMTUwMDIxNzk1Nl19
+0sImhpc3RvcnkiOls4OTUwMTQ0MTBdfQ==
 -->
