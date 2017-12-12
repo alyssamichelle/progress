@@ -181,9 +181,6 @@ The popularity of React boded well for Kendo UI in 2018. That's because Kendo UI
 
 Angular support in Kendo UI will be extended to include popular components such as the TreeView, Window, Splitter, and Gauges. Numerous features for the very popular Grid component will also be added.
 
-
-=======
-
 ## The State of JS in 2017 Survey Results
 I think I found an interesting correlation on the recent survey results released.
  
@@ -278,5 +275,5 @@ h0IjoiKGlmIHdlIGRlY2lkZSB0byBxdW90ZSBoaW0sIEkgbmVl
 ZCB0byBkb3VibGUgY2hlY2sgdGhhdCdzIG9rLCBvdGhlcndpc2
 UsIHdlIGNhbiBqdXN0IHVzZSB0aGVzZSB3b3JkcyBhcyBvdXIg
 b3duIG9waW5pb24iLCJjcmVhdGVkIjoxNTEyNjg1NDc2ODM3fX
-0sImhpc3RvcnkiOlstMzIxOTIwNTUyXX0=
+0sImhpc3RvcnkiOlsxMTU1NjIxNzM3XX0=
 -->
