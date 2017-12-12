@@ -172,7 +172,8 @@ There really is no one way to know which frameworks are doing the best. This is 
 ## The State of JS in 2017 Survey Results
 I think I found an interesting correlation on the recent survey results released. 
 ![The State of JS 2017 Survey](http://cl.nicoll.co/oGVn/Screen%20Shot%202017-12-11%20at%2018.30.24.png)
-In the above chart, as predicted, backbone and ember are pretty much on the dead side, whereas React is RIDICULOUSLY popular. Now take a look at this chart, telling about salary breakdowns accroding to framework.
+In the above chart, as predicted, backbone and ember are pretty much on the dead side, whereas React is RIDICULOUSLY popular. Now take a look at this chart, telling about salary breakdowns according to framework.
+
 ![https://philatist-albert-72527.netlify.com/2017/front-end/developers/](http://cl.nicoll.co/oGKn/Screen%20Shot%202017-12-11%20at%2018.37.47.png)
 ## Prediction Time
 
@@ -233,5 +234,5 @@ h0IjoiKGlmIHdlIGRlY2lkZSB0byBxdW90ZSBoaW0sIEkgbmVl
 ZCB0byBkb3VibGUgY2hlY2sgdGhhdCdzIG9rLCBvdGhlcndpc2
 UsIHdlIGNhbiBqdXN0IHVzZSB0aGVzZSB3b3JkcyBhcyBvdXIg
 b3duIG9waW5pb24iLCJjcmVhdGVkIjoxNTEyNjg1NDc2ODM3fX
-0sImhpc3RvcnkiOlsxMjExNzUyNjkyXX0=
+0sImhpc3RvcnkiOlsxMDQwMDY3MTgwXX0=
 -->
