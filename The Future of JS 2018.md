@@ -42,8 +42,6 @@ We had hoped that there would be more open-source offerings for JavaScript devel
 ## Angular
 For this girls opinion, Angular is still pretty hot *cough cough* points to Tesla’s hiring page. So many large companies made the switch from AngularJS to Angular and it would take something just shy of a miracle to switch them off this robust framework.
 
-[Updates/ what has changed in Angular since Feb]
-
 In November, the latest version of Angular, 5, was released. [Stephen Fluin](https://blog.angular.io/version-5-0-0-of-angular-now-available-37e414935ced) Angular’s Developer Advocate, wrote about all the juicy deets in [this](https://blog.angular.io/angular-5-1-more-now-available-27d372f5eb4e) blog post. 
 
 I pinged Stephen on slack and asked what he thought Angular's biggest feat was in 2017. Here is what he had to say:
@@ -57,11 +55,9 @@ I'm extremely pumped to see what Angular has in store for 2018, 19, and beyond. 
 As Rob Wormhald put it:
 > "Angular is ideal for building **complete applications** and our tooling, documentation and infrastructure have been primarily aimed at this use case..."
 
-We have so much to look forward to in the coming years that will round out everything possibly needed in an Angular dev environment. For one thing, I think Angular elements are going to be HUGE. Rob gave a talk on them at [Angular Connect in November](https://www.youtube.com/watch?v=vHI5C-9vH-E).
-
+We have so much to look forward to in the coming years that will round out everything possibly needed in an Angular dev environment. For one thing, I think Angular elements are going to be HUGE. Rob gave a talk on them at [Angular Connect in November](https://www.youtube.com/watch?v=vHI5C-9vH-E). **alyssa todo: finish paragraph**
 
 ***alyssa todo: change all to text to either we or I***
-**Prediction: Angular elements are going to be HUGE**
 
 ## AngularJS
 **The current state of AngularJS**
@@ -259,9 +255,9 @@ E2XG4gLSBkb3RuZXTigKYiLCJzdGFydCI6MjYzNSwiZW5kIjoy
 ODYzfSwiUWdEamhta3ZFbjNoenU0QiI6eyJ0ZXh0IjoiQnVpbG
 QgT3B0aW1pemVyXG5UaGUgYnVpbGQgb3B0aW1pemVyIGlzIGEg
 dG9vbCBpbmNsdWRlZCBpbiBvdXIgQ0xJIGZvciBtYWtpbmcgeW
-/igKYiLCJzdGFydCI6Mzk2NCwiZW5kIjozOTY0fSwiejlOclZa
+/igKYiLCJzdGFydCI6MzkxNCwiZW5kIjozOTE0fSwiejlOclZa
 M2x5Y3Y1am5weSI6eyJ0ZXh0Ijoi4oCUIFNGIiwic3RhcnQiOj
-QyMzAsImVuZCI6NDIzMH19LCJjb21tZW50cyI6eyJNMkV5R3I0
+QxODAsImVuZCI6NDE4MH19LCJjb21tZW50cyI6eyJNMkV5R3I0
 Y1VGeXRUWmluIjp7ImRpc2N1c3Npb25JZCI6Ikc0VzJwWlF1Z2
 sxWWcyZnUiLCJzdWIiOiIxMDg2NDk4Mjc2NzM3MTYyNDkwMTMi
 LCJ0ZXh0IjoicHJldHR5IHN1cmUgSSB3YW5uYSB0YWtlIG91dC
@@ -277,5 +273,5 @@ h0IjoiKGlmIHdlIGRlY2lkZSB0byBxdW90ZSBoaW0sIEkgbmVl
 ZCB0byBkb3VibGUgY2hlY2sgdGhhdCdzIG9rLCBvdGhlcndpc2
 UsIHdlIGNhbiBqdXN0IHVzZSB0aGVzZSB3b3JkcyBhcyBvdXIg
 b3duIG9waW5pb24iLCJjcmVhdGVkIjoxNTEyNjg1NDc2ODM3fX
-0sImhpc3RvcnkiOlstMTEyMjQxMTE3M119
+0sImhpc3RvcnkiOls3NDUzMTQxMjddfQ==
 -->
