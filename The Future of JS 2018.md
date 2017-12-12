@@ -235,9 +235,8 @@ Owning your environment and all the pieces your app needs can be very powerful.
 > "It can go much further, like imagine in 3 years webassembly is good enough that we want to use it. Because we are a full platform, we could start shipping part of your apps as web assembly for you, without you having to do anything. Or ES2015 modules, or web components, or any of the 'modern web'."
 
 
-
-> "Angular owns the whole ecosystem, not just a library like react. 
-> Angular's affinity towards typescript it allows the applications to be statically analysable which is what will allow for cool things like Stephen mentioned" — Mike Brocchi
+Angular is a full framework that offers everything you need, all bundled together nicely. As Mike Brocchi, a member of the CLI team, said
+> "Angular owns the whole ecosystem, not just a library like react. Angular's affinity towards typescript it allows the applications to be statically analysable which is what will allow for cool things like Stephen mentioned" — Mike Brocchi
 
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyJHNFcycFpRdWdrMVlnMmZ1Ijp7In
@@ -265,5 +264,5 @@ h0IjoiKGlmIHdlIGRlY2lkZSB0byBxdW90ZSBoaW0sIEkgbmVl
 ZCB0byBkb3VibGUgY2hlY2sgdGhhdCdzIG9rLCBvdGhlcndpc2
 UsIHdlIGNhbiBqdXN0IHVzZSB0aGVzZSB3b3JkcyBhcyBvdXIg
 b3duIG9waW5pb24iLCJjcmVhdGVkIjoxNTEyNjg1NDc2ODM3fX
-0sImhpc3RvcnkiOlstMTM1MTI0MzIxM119
+0sImhpc3RvcnkiOlsxNDQ3MzYzMzExXX0=
 -->
