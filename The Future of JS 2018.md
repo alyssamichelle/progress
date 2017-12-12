@@ -222,8 +222,10 @@ It's always a balance.
 
  Angular is on one end of the enterprise-y scale and React is on the other. React isn't even a framework.. right? It's so small, it's just a library. Vue, is in the middle, leaning farther from Enterprise than Angular, for sure. 
 
+![](http://cl.nicoll.co/oIoW/Screen%20Shot%202017-12-12%20at%2014.04.19.png)
+
 ## Bazel
-Rather than move more towards the center, Angular is moving more enterprise with things like bazel.
+Rather than move more towards the center, Angular is moving more enterprise with things like bazel. This would replace things like webpack in your app. It can be better for massive projects; it is written in Java which is a threaded language.
 
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyJHNFcycFpRdWdrMVlnMmZ1Ijp7In
@@ -251,5 +253,5 @@ h0IjoiKGlmIHdlIGRlY2lkZSB0byBxdW90ZSBoaW0sIEkgbmVl
 ZCB0byBkb3VibGUgY2hlY2sgdGhhdCdzIG9rLCBvdGhlcndpc2
 UsIHdlIGNhbiBqdXN0IHVzZSB0aGVzZSB3b3JkcyBhcyBvdXIg
 b3duIG9waW5pb24iLCJjcmVhdGVkIjoxNTEyNjg1NDc2ODM3fX
-0sImhpc3RvcnkiOlstNjAwOTU1MzA5XX0=
+0sImhpc3RvcnkiOlsyMTA1MzUwNzMzXX0=
 -->
