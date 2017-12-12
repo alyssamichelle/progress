@@ -119,7 +119,7 @@ They also enforce component based architecture. An encapsulated component in rea
 
 ![](http://cl.nicoll.co/oGvE/Image%202017-12-11%20at%205.33.25%20pm.png)
 
-### Stackoverflow Dev Survey 2017
+**Stackoverflow Dev Survey 2017**
 
 ![https://insights.stackoverflow.com/survey/2017](http://cl.nicoll.co/oDWR/Screen%20Shot%202017-12-08%20at%2013.17.20.png)
 
@@ -152,22 +152,13 @@ As a friend of mine likes to say "you might wanna take that with a bucket of sal
 
 ![](https://memegenerator.net/img/instances/500x/56793614/jquery-jquery-everywhere.jpg)
 
-## Ember
-
-About that…
-
-[what has changed in react since Feb.]
+## Other Libraries of Interest
 
 Libraries of interest…
 jQuery?
 Angular Material?
 Moment.js - still hugely popular date/timezone library
 Turbo - supposedly 50% faster than npm or yarn
-
-## Angular Material
-## Turbo
-## Moment.js
-## Flow
 
 React focuses on the use of Javascript ES6. Vue uses Javascript ES5 or ES6. Angular relies on TypeScript. 
 
@@ -283,5 +274,5 @@ h0IjoiKGlmIHdlIGRlY2lkZSB0byBxdW90ZSBoaW0sIEkgbmVl
 ZCB0byBkb3VibGUgY2hlY2sgdGhhdCdzIG9rLCBvdGhlcndpc2
 UsIHdlIGNhbiBqdXN0IHVzZSB0aGVzZSB3b3JkcyBhcyBvdXIg
 b3duIG9waW5pb24iLCJjcmVhdGVkIjoxNTEyNjg1NDc2ODM3fX
-0sImhpc3RvcnkiOlstMTE5OTQ5ODAwM119
+0sImhpc3RvcnkiOlstNjY5NTk2MTA0XX0=
 -->
