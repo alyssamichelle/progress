@@ -74,7 +74,7 @@ Computed Properties
 CSS Transitions and Animations
 Filters
 
-No surprise there though, Vue was created by an ex-Googler, Evan You, who after using AngularJS on a number of projects, was just playing around, seeing if he could strip down AngularJS to the core parts he liked.  Thus, in 2013, VueJS was released.
+No surprise there though, Vue was created by an ex-Googler, Evan You, who after using AngularJS on a number of projects, was just playing around, seeing if he could strip down AngularJS to the core parts he liked.  Thus, in 2013, VueJS was born.
 The Vue.js 2 core library is very small in size (only 17 kB). This ensures that the overhead which is added to your project by using Vue.js is minimal and your website is loading fast. 
 [source]()
 
@@ -210,5 +210,5 @@ h0IjoiKGlmIHdlIGRlY2lkZSB0byBxdW90ZSBoaW0sIEkgbmVl
 ZCB0byBkb3VibGUgY2hlY2sgdGhhdCdzIG9rLCBvdGhlcndpc2
 UsIHdlIGNhbiBqdXN0IHVzZSB0aGVzZSB3b3JkcyBhcyBvdXIg
 b3duIG9waW5pb24iLCJjcmVhdGVkIjoxNTEyNjg1NDc2ODM3fX
-0sImhpc3RvcnkiOlstMTY2NDQxMzY2XX0=
+0sImhpc3RvcnkiOlstNTg4NDg4ODQyXX0=
 -->
