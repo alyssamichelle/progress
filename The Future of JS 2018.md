@@ -44,7 +44,7 @@ I'm extremely pumped to see what Angular has in store for 2018, 19, and beyond. 
 As Rob Wormhald put it:
 > "Angular is ideal for building **complete applications** and our tooling, documentation and infrastructure have been primarily aimed at this use case..."
 
-We have so much to look forward to in the coming years that will round out ever
+We have so much to look forward to in the coming years that will round out everything possibly needed in an Angular dev enviro
 **Prediction: Angular elements are going to be HUGE**
 
 ## AngularJS
@@ -219,5 +219,5 @@ h0IjoiKGlmIHdlIGRlY2lkZSB0byBxdW90ZSBoaW0sIEkgbmVl
 ZCB0byBkb3VibGUgY2hlY2sgdGhhdCdzIG9rLCBvdGhlcndpc2
 UsIHdlIGNhbiBqdXN0IHVzZSB0aGVzZSB3b3JkcyBhcyBvdXIg
 b3duIG9waW5pb24iLCJjcmVhdGVkIjoxNTEyNjg1NDc2ODM3fX
-0sImhpc3RvcnkiOls0MDE3NTAzMzddfQ==
+0sImhpc3RvcnkiOlsyMDEyNjgyMjA4XX0=
 -->
