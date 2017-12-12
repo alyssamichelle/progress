@@ -101,7 +101,7 @@ You can read more about Vue's origin story [here](https://betweenthewires.org/20
 
 I’m still surprised by all the apps I continually run into and after inspecting under the hood, realise, they are created with react. React, while not being the newest of “hot-nesses”, is still very prevalent and often brought up as a web dev go-to framework. Don't believe me? Check out these killer circle charts from "The State of JS 2017 survey" results. React's big.
 
-![](http://cl.nicoll.co/oIDg/[c3a280c61bb9021f54726ede2cfa75a2]_Screen%20Shot%202017-12-12%20at%2014.43.05.png)
+![https://philatist-albert-72527.netlify.com/2017/front-end/worldwide/](http://cl.nicoll.co/oIDg/[c3a280c61bb9021f54726ede2cfa75a2]_Screen%20Shot%202017-12-12%20at%2014.43.05.png)
 
 **What is React? Should I use it?**
 
@@ -273,5 +273,5 @@ h0IjoiKGlmIHdlIGRlY2lkZSB0byBxdW90ZSBoaW0sIEkgbmVl
 ZCB0byBkb3VibGUgY2hlY2sgdGhhdCdzIG9rLCBvdGhlcndpc2
 UsIHdlIGNhbiBqdXN0IHVzZSB0aGVzZSB3b3JkcyBhcyBvdXIg
 b3duIG9waW5pb24iLCJjcmVhdGVkIjoxNTEyNjg1NDc2ODM3fX
-0sImhpc3RvcnkiOlsxNjExMzQyNTg3XX0=
+0sImhpc3RvcnkiOlstNTc0NzM3MjA3XX0=
 -->
