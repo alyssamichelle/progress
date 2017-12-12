@@ -86,6 +86,7 @@ No surprise there though, Vue was created by an ex-Googler, Evan You, who after 
 > For me, Angular offered something cool which is data binding and a data driven way of dealing with a DOM, so you don’t have to touch the DOM yourself. It also brought in all these extra concepts that forced you to structure the code the way it wanted you to. It just felt too heavy for the use case that I had at that time.
 >
 > I figured, what if I could just extract the part that I really liked about Angular and build something really lightweight without all the extra concepts involved? I was also curious as to how its internal implementation worked. I started this experiment just trying to replicate this minimal feature set, like declarative data binding. That was basically how Vue started.
+
 You can read more about Vue's origin story [here](https://betweenthewires.org/2016/11/03/evan-you/)
 
 The Vue.js 2 core library is very small in size (only 17 kB). This ensures that the overhead which is added to your project by using Vue.js is minimal and your website is loading fast. 
@@ -227,7 +228,9 @@ It's always a balance.
 ## Bazel
 Rather than move more towards the center, Angular is moving more enterprise with things like bazel. This would replace things like webpack in your app. It can be better for massive projects; it is written in Java which is a threaded language.
 
-Some devs strongly disagree with frameworks like Angular growing more "Enterprise-y". However, people like Stephen Fluin think it will open the doors for even more amazing things. Owning your environment and all the pieces your app needs can be very powerful.
+Some devs strongly disagree with frameworks like Angular growing more "Enterprise-y". However, people like Stephen Fluin think it will open the doors for even more amazing things. 
+
+Owning your environment and all the pieces your app needs can be very powerful.
 
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyJHNFcycFpRdWdrMVlnMmZ1Ijp7In
@@ -255,5 +258,5 @@ h0IjoiKGlmIHdlIGRlY2lkZSB0byBxdW90ZSBoaW0sIEkgbmVl
 ZCB0byBkb3VibGUgY2hlY2sgdGhhdCdzIG9rLCBvdGhlcndpc2
 UsIHdlIGNhbiBqdXN0IHVzZSB0aGVzZSB3b3JkcyBhcyBvdXIg
 b3duIG9waW5pb24iLCJjcmVhdGVkIjoxNTEyNjg1NDc2ODM3fX
-0sImhpc3RvcnkiOlstMTQ3ODQ1OTU3Nl19
+0sImhpc3RvcnkiOlsxNDUwMzcyNzYyXX0=
 -->
