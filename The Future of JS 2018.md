@@ -227,6 +227,8 @@ It's always a balance.
 ## Bazel
 Rather than move more towards the center, Angular is moving more enterprise with things like bazel. This would replace things like webpack in your app. It can be better for massive projects; it is written in Java which is a threaded language.
 
+Some devs strongly disagree with frameworks like Angular growing more "Enterprise-y". However, people like Stephen Fluin think it will open the doors for even more amazing things. Owning 
+
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyJHNFcycFpRdWdrMVlnMmZ1Ijp7In
 RleHQiOiJbTWljcm9zb2Z0XShodHRwczovL2dpdGh1Yi5jb20v
@@ -253,5 +255,5 @@ h0IjoiKGlmIHdlIGRlY2lkZSB0byBxdW90ZSBoaW0sIEkgbmVl
 ZCB0byBkb3VibGUgY2hlY2sgdGhhdCdzIG9rLCBvdGhlcndpc2
 UsIHdlIGNhbiBqdXN0IHVzZSB0aGVzZSB3b3JkcyBhcyBvdXIg
 b3duIG9waW5pb24iLCJjcmVhdGVkIjoxNTEyNjg1NDc2ODM3fX
-0sImhpc3RvcnkiOlsyMTA1MzUwNzMzXX0=
+0sImhpc3RvcnkiOlstMjA0NDk3Nzk4OF19
 -->
