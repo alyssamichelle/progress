@@ -187,7 +187,9 @@ There really is no one way to know which frameworks are doing the best. This is 
 ![https://insights.stackoverflow.com/survey/2017](http://cl.nicoll.co/oDbh/Screen%20Shot%202017-12-08%20at%2013.14.38.png)
 
 > "Node.js and AngularJS continue to be the most commonly used technologies in this category."
-Looking at this survey, you'd think Angular
+
+Looking at stackoverflow's 2017 survey would also make you think AngularJS is still crushing react.
+
 However, if you checkout the survey results from "The state of JS in 2017", you'll see a different story.
 
 ## The State of JS in 2017 Survey Results
@@ -278,5 +280,5 @@ h0IjoiKGlmIHdlIGRlY2lkZSB0byBxdW90ZSBoaW0sIEkgbmVl
 ZCB0byBkb3VibGUgY2hlY2sgdGhhdCdzIG9rLCBvdGhlcndpc2
 UsIHdlIGNhbiBqdXN0IHVzZSB0aGVzZSB3b3JkcyBhcyBvdXIg
 b3duIG9waW5pb24iLCJjcmVhdGVkIjoxNTEyNjg1NDc2ODM3fX
-0sImhpc3RvcnkiOlsxNDQ3MTkwMjgyXX0=
+0sImhpc3RvcnkiOls2OTUzNzA4MTZdfQ==
 -->
