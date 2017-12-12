@@ -77,7 +77,7 @@ Filters
 No surprise there though, Vue was created by an ex-Googler, Evan You, who after using AngularJS on a number of projects, was just playing around, seeing if he could strip down AngularJS to the core parts he liked.  Thus, in 2013, VueJS was born.
 
 > For me, Angular offered something cool which is data binding and a data driven way of dealing with a DOM, so you don’t have to touch the DOM yourself. It also brought in all these extra concepts that forced you to structure the code the way it wanted you to. It just felt too heavy for the use case that I had at that time.
-
+>
 > I figured, what if I could just extract the part that I really liked about Angular and build something really lightweight without all the extra concepts involved? I was also curious as to how its internal implementation worked. I started this experiment just trying to replicate this minimal feature set, like declarative data binding. That was basically how Vue started.
 
 The Vue.js 2 core library is very small in size (only 17 kB). This ensures that the overhead which is added to your project by using Vue.js is minimal and your website is loading fast. 
@@ -215,5 +215,5 @@ h0IjoiKGlmIHdlIGRlY2lkZSB0byBxdW90ZSBoaW0sIEkgbmVl
 ZCB0byBkb3VibGUgY2hlY2sgdGhhdCdzIG9rLCBvdGhlcndpc2
 UsIHdlIGNhbiBqdXN0IHVzZSB0aGVzZSB3b3JkcyBhcyBvdXIg
 b3duIG9waW5pb24iLCJjcmVhdGVkIjoxNTEyNjg1NDc2ODM3fX
-0sImhpc3RvcnkiOlsxNDA1MTQzMjQxXX0=
+0sImhpc3RvcnkiOls0MDAwNDgzMV19
 -->
