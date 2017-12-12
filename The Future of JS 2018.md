@@ -169,6 +169,7 @@ Now that chart doesn’t do a whole lot for me, other than showing Ember as a de
 ￼
 There really is no one way to know which frameworks are doing the best. This is just one peak into the enigma that is the web dev world. However, just going off of this pie chart, it still looks like Angular is on top, followed by React.
 
+## The State of JS in 2017 Survey Results
 
 ## Prediction Time
 
@@ -229,5 +230,5 @@ h0IjoiKGlmIHdlIGRlY2lkZSB0byBxdW90ZSBoaW0sIEkgbmVl
 ZCB0byBkb3VibGUgY2hlY2sgdGhhdCdzIG9rLCBvdGhlcndpc2
 UsIHdlIGNhbiBqdXN0IHVzZSB0aGVzZSB3b3JkcyBhcyBvdXIg
 b3duIG9waW5pb24iLCJjcmVhdGVkIjoxNTEyNjg1NDc2ODM3fX
-0sImhpc3RvcnkiOls2ODI0OTM1ODNdfQ==
+0sImhpc3RvcnkiOlsxODU0NTkwODhdfQ==
 -->
