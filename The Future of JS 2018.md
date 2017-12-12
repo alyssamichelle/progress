@@ -62,7 +62,7 @@ VueJS has been on the rise and mentioned as the next “hot new thing”. It is 
 **What is Vue?**
 You guessed it! Vue is yet another WONDERFUL JavaScript framework. It boasts these fun features, which after reading, you should think to yourself... *AngularJS?*. 
 
-**AngularJS *COUGH* I mean, Vue.js Features**
+**AngularJS *cough* I mean, Vue.js Features**
 Reactive Interfaces
 Declarative Rendering
 Data Binding
@@ -210,5 +210,5 @@ h0IjoiKGlmIHdlIGRlY2lkZSB0byBxdW90ZSBoaW0sIEkgbmVl
 ZCB0byBkb3VibGUgY2hlY2sgdGhhdCdzIG9rLCBvdGhlcndpc2
 UsIHdlIGNhbiBqdXN0IHVzZSB0aGVzZSB3b3JkcyBhcyBvdXIg
 b3duIG9waW5pb24iLCJjcmVhdGVkIjoxNTEyNjg1NDc2ODM3fX
-0sImhpc3RvcnkiOlstMTU1NzkyMDk3NV19
+0sImhpc3RvcnkiOls5NjcxNTYwMV19
 -->
