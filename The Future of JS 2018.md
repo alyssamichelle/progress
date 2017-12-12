@@ -254,6 +254,11 @@ Gartner predicts that “by 2020, progressive web apps will have replaced 50% of
 
 I don’t know about 50%, but I do predict more and more big name companies implementing progressive web app features on their sites in 2018 and beyond.
 
+
+## Quotes
+#onelove
+
+"I am an Angular + RxJS + TypeScript + CLI dev for a year now after AngularJS. Came from Java world thats why I picked Angular which easily fit in the same mindset. Cheers guys!" —
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyJHNFcycFpRdWdrMVlnMmZ1Ijp7In
 RleHQiOiJbTWljcm9zb2Z0XShodHRwczovL2dpdGh1Yi5jb20v
@@ -280,5 +285,5 @@ h0IjoiKGlmIHdlIGRlY2lkZSB0byBxdW90ZSBoaW0sIEkgbmVl
 ZCB0byBkb3VibGUgY2hlY2sgdGhhdCdzIG9rLCBvdGhlcndpc2
 UsIHdlIGNhbiBqdXN0IHVzZSB0aGVzZSB3b3JkcyBhcyBvdXIg
 b3duIG9waW5pb24iLCJjcmVhdGVkIjoxNTEyNjg1NDc2ODM3fX
-0sImhpc3RvcnkiOlstMTExMDg5NjM4NV19
+0sImhpc3RvcnkiOlstMTk1Mzc4OTg0XX0=
 -->
