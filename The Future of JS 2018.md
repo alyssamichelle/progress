@@ -69,12 +69,10 @@ So where does that leave you? If Angular is too large of a change for your compa
 
 VueJS has been on the rise and mentioned as the next “hot new thing”. It is VERY similar to AngularJS, and does not require a compiled language change like TypeScript. (Yay, the people can still have their CoffeeScript *and the dev world shudders*).
 
-> “Vue is simple to get started, scales to large cases easily, has everything you need end to end to build small to large scale apps.” — Austin M
-
 ![](http://cl.nicoll.co/oGMm/Image%202017-12-11%20at%205.29.16%20pm.png)
 
 **What is Vue?**
-You guessed it! Vue is yet another WONDERFUL JavaScript framework. It boasts these fun features, which after reading, you should think to yourself... *AngularJS?*. 
+You guessed it! Vue is yet another WONDERFUL JavaScript framework. Vue is simple to get started, scales to large cases easily, has everything you need end to end to build small to large scale apps. It boasts these fun features, which after reading, you should think to yourself... *AngularJS?*. 
 
 **AngularJS *cough* I mean, Vue.js Features**
 Reactive Interfaces
@@ -98,7 +96,6 @@ No surprise there though, Vue was created by an ex-Googler, Evan You, who after 
 You can read more about Vue's origin story [here](https://betweenthewires.org/2016/11/03/evan-you/). The Vue.js 2 core library is very small (17 kB). This means that using Vue in your site should be pretty fast and load in browser quickly. This ALSO means, that learning Vue should be relatively easy and it shouldn't take you long to get started with the framework.
 
 > I read thru its docs and knew everything i needed to know in less than 30min. I couldn't finish the first page of angular in 30min." — Anonymous Dev
-
 
 ## React
 
@@ -273,5 +270,5 @@ h0IjoiKGlmIHdlIGRlY2lkZSB0byBxdW90ZSBoaW0sIEkgbmVl
 ZCB0byBkb3VibGUgY2hlY2sgdGhhdCdzIG9rLCBvdGhlcndpc2
 UsIHdlIGNhbiBqdXN0IHVzZSB0aGVzZSB3b3JkcyBhcyBvdXIg
 b3duIG9waW5pb24iLCJjcmVhdGVkIjoxNTEyNjg1NDc2ODM3fX
-0sImhpc3RvcnkiOls3NDUzMTQxMjddfQ==
+0sImhpc3RvcnkiOlstMTQ1MTk1ODc3OV19
 -->
