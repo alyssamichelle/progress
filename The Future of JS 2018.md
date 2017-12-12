@@ -180,6 +180,8 @@ Wrappers for React and Vue were introduced in September 2017. These wrappers pro
 The popularity of React boded well for Kendo UI in 2018. That's because Kendo UI will also introduce a set of native components for React. These native components will leverage features like the virtual DOM for complex components like the Grid. They will also provide form component suites, including DropDowns and powerful input elements. They will also support themes for Material Design and Bootstrap v4.
 
 Angular support in Kendo UI will be extended to include popular components such as the TreeView, Window, Splitter, and Gauges. Numerous features for the very popular Grid component will also be added.
+
+
 =======
 
 ## The State of JS in 2017 Survey Results
@@ -276,5 +278,5 @@ h0IjoiKGlmIHdlIGRlY2lkZSB0byBxdW90ZSBoaW0sIEkgbmVl
 ZCB0byBkb3VibGUgY2hlY2sgdGhhdCdzIG9rLCBvdGhlcndpc2
 UsIHdlIGNhbiBqdXN0IHVzZSB0aGVzZSB3b3JkcyBhcyBvdXIg
 b3duIG9waW5pb24iLCJjcmVhdGVkIjoxNTEyNjg1NDc2ODM3fX
-0sImhpc3RvcnkiOlsyMDIzMjc3MzA4XX0=
+0sImhpc3RvcnkiOlstMzIxOTIwNTUyXX0=
 -->
