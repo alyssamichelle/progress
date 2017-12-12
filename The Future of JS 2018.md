@@ -170,8 +170,9 @@ https://medium.com/@sachagreif/the-state-of-js-2017-results-preview-acbd2885da7f
 
 https://twitter.com/sachagreif/status/935781795924099072
 
-[twitter bird icon] “This year’s #StateOfJS summed up in a single chart.” — @SachaGreif https://twitter.com/sachagreif/status/935781795924099072
+[twitter bird icon] “This year’s #StateOfJS summed up in a single chart.” — @SachaGreif 
 ￼
+![](http://cl.nicoll.co/oIBp/Image%202017-12-12%20at%203.03.55%20pm.png)
 Ah yes Sacha, because that makes so much sense. ;) Not that the charts I created are much clearer. I used [Google Trends]() to generate some data on the four top runner Frameworks and got this glorious chart:
 
 ![](http://cl.nicoll.co/oI4q/Screen%20Shot%202017-12-12%20at%2014.59.07.png)
@@ -182,7 +183,7 @@ Now that chart doesn’t do a whole lot for me, other than showing Ember as a de
 There really is no one way to know which frameworks are doing the best. This is just one peak into the enigma that is the web dev world. However, just going off of this pie chart, it still looks like Angular is on top, followed by React. 
 
 
-### Stackoverflow Dev Survey 2017
+**Stackoverflow Dev Survey 2017**
 
 ![https://insights.stackoverflow.com/survey/2017](http://cl.nicoll.co/oDbh/Screen%20Shot%202017-12-08%20at%2013.14.38.png)
 
@@ -278,5 +279,5 @@ h0IjoiKGlmIHdlIGRlY2lkZSB0byBxdW90ZSBoaW0sIEkgbmVl
 ZCB0byBkb3VibGUgY2hlY2sgdGhhdCdzIG9rLCBvdGhlcndpc2
 UsIHdlIGNhbiBqdXN0IHVzZSB0aGVzZSB3b3JkcyBhcyBvdXIg
 b3duIG9waW5pb24iLCJjcmVhdGVkIjoxNTEyNjg1NDc2ODM3fX
-0sImhpc3RvcnkiOlsxNTE0NTY0MjhdfQ==
+0sImhpc3RvcnkiOlstMTA2NzQyMDQxOF19
 -->
