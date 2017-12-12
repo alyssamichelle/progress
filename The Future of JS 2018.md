@@ -132,20 +132,23 @@ React strikes again! On the npm trends
 
 ![http://www.npmtrends.com/angular-vs-ember-source-vs-react-vs-vue-vs-backbone](http://cl.nicoll.co/oD1N/Screen%20Shot%202017-12-08%20at%2016.04.25.png)
 
-
-## Ember
-
-**Enterprise or Nah**
+## Enterprise or Nah
 
 There is a bit of a debate right now, as to if frameworks should lean into the enterprise scene, or not. What is wrong with Enterprise, you might ask. Well, enterprise apps/code generally is bulkier and more complex. It will take you much longer to learn and enter an Enterprise framework community than it will for a basic and simple one. 
 
 Frameworks either lean into Enterprise or they lean AWAY from it.
 It's always a balance.
 
- Angular is on one end of the enterprise-y scale and React is on the other. React isn't even a framework.. right? It's so small, it's just a library. Vue, is in the middle, leaning farther from Enterprise than Angular, for sure. And this is where ember enters the fray, smack dab in the center of our chart. Ember is **alyssa todo: fill out ember section, yo**
+ Angular is on one end of the enterprise-y scale and React is on the other. React isn't even a framework.. right? It's so small, it's just a library. Vue, is in the middle, leaning farther from Enterprise than Angular, for sure. And this is where ember enters the fray, smack dab in the center of our chart.
 
 ![](http://cl.nicoll.co/oIoW/Screen%20Shot%202017-12-12%20at%2014.04.19.png)
 
+## Ember
+
+![](http://cl.nicoll.co/oIcY/Image%202017-12-12%20at%203.18.06%20pm.png)
+ 
+Ember is **alyssa todo: fill out ember section, yo**
+ 
 ## Bazel
 
 Rather than move more towards the center, Angular is moving more enterprise with things like bazel. This would replace things like webpack in your app. It can be better for massive projects; it is written in Java which is a threaded language.
@@ -277,5 +280,5 @@ h0IjoiKGlmIHdlIGRlY2lkZSB0byBxdW90ZSBoaW0sIEkgbmVl
 ZCB0byBkb3VibGUgY2hlY2sgdGhhdCdzIG9rLCBvdGhlcndpc2
 UsIHdlIGNhbiBqdXN0IHVzZSB0aGVzZSB3b3JkcyBhcyBvdXIg
 b3duIG9waW5pb24iLCJjcmVhdGVkIjoxNTEyNjg1NDc2ODM3fX
-0sImhpc3RvcnkiOlsxMTk2ODY2MzFdfQ==
+0sImhpc3RvcnkiOlstMTExMDg5NjM4NV19
 -->
