@@ -164,11 +164,14 @@ Angular Material?
 Moment.js - still hugely popular date/timezone library
 Turbo - supposedly 50% faster than npm or yarn
 
-https://developer.telerik.com/topics/web-development/javascript-2017-libraries-frameworks/
-https://stateofjs.com/2016/frontend/
-https://medium.com/@sachagreif/the-state-of-js-2017-results-preview-acbd2885da7f
+## Angular Material
+## Turbo
+## Moment.js
+## Flow
 
-https://twitter.com/sachagreif/status/935781795924099072
+React focuses on the use of Javascript ES6. Vue uses Javascript ES5 or ES6. Angular relies on TypeScript. 
+
+Angular is a full framework that offers everything you need, all bundled together nicely. Whereas with things like react and vue, you have the option to use other things outside of TS, like flow. Uou can use Flow to enable type-checking within React. It’s a static type-checker developed by Facebook for JavaScript. Flow can also be integrated into VueJS.
 
 [twitter bird icon] “This year’s #StateOfJS summed up in a single chart.” — @SachaGreif https://twitter.com/sachagreif/status/935781795924099072
 ￼
@@ -280,5 +283,5 @@ h0IjoiKGlmIHdlIGRlY2lkZSB0byBxdW90ZSBoaW0sIEkgbmVl
 ZCB0byBkb3VibGUgY2hlY2sgdGhhdCdzIG9rLCBvdGhlcndpc2
 UsIHdlIGNhbiBqdXN0IHVzZSB0aGVzZSB3b3JkcyBhcyBvdXIg
 b3duIG9waW5pb24iLCJjcmVhdGVkIjoxNTEyNjg1NDc2ODM3fX
-0sImhpc3RvcnkiOls5ODc3NzAzODBdfQ==
+0sImhpc3RvcnkiOlstMTE5OTQ5ODAwM119
 -->
