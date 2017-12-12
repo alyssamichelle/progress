@@ -87,10 +87,7 @@ No surprise there though, Vue was created by an ex-Googler, Evan You, who after 
 >
 > I figured, what if I could just extract the part that I really liked about Angular and build something really lightweight without all the extra concepts involved? I was also curious as to how its internal implementation worked. I started this experiment just trying to replicate this minimal feature set, like declarative data binding. That was basically how Vue started.
 
-You can read more about Vue's origin story [here](https://betweenthewires.org/2016/11/03/evan-you/). 
-
-***alyssa todo: remove below or write in your own words***
-The Vue.js 2 core library is very small (17 kB). This means that the This ensures that the overhead which is added to your project by using Vue.js is minimal and your website is loading fast. 
+You can read more about Vue's origin story [here](https://betweenthewires.org/2016/11/03/evan-you/). The Vue.js 2 core library is very small (17 kB). This means that using Vue in your site should be pretty fast and load in browser quickly.
 
 
 ## React
@@ -259,5 +256,5 @@ h0IjoiKGlmIHdlIGRlY2lkZSB0byBxdW90ZSBoaW0sIEkgbmVl
 ZCB0byBkb3VibGUgY2hlY2sgdGhhdCdzIG9rLCBvdGhlcndpc2
 UsIHdlIGNhbiBqdXN0IHVzZSB0aGVzZSB3b3JkcyBhcyBvdXIg
 b3duIG9waW5pb24iLCJjcmVhdGVkIjoxNTEyNjg1NDc2ODM3fX
-0sImhpc3RvcnkiOlsxMjE3NDYyNTI3XX0=
+0sImhpc3RvcnkiOlsyMTA0MzcwMTA5XX0=
 -->
