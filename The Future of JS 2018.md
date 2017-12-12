@@ -135,16 +135,14 @@ React strikes again! On the npm trends
 
 ## Ember
 
-
-
 **Enterprise or Nah**
 
-What is wrong with Enterprise, you might ask. Well, enterprise apps/code generally is bulkier and more complex. It will take you much longer to learn and enter an Enterprise framework community than it will for a basic and simple one. 
+There is a bit of a debate right now, as to if frameworks should lean into the enterprise scene, or not. What is wrong with Enterprise, you might ask. Well, enterprise apps/code generally is bulkier and more complex. It will take you much longer to learn and enter an Enterprise framework community than it will for a basic and simple one. 
 
 Frameworks either lean into Enterprise or they lean AWAY from it.
 It's always a balance.
 
- Angular is on one end of the enterprise-y scale and React is on the other. React isn't even a framework.. right? It's so small, it's just a library. Vue, is in the middle, leaning farther from Enterprise than Angular, for sure. And this is where ember enters the fray, smack dab in the center of our chart
+ Angular is on one end of the enterprise-y scale and React is on the other. React isn't even a framework.. right? It's so small, it's just a library. Vue, is in the middle, leaning farther from Enterprise than Angular, for sure. And this is where ember enters the fray, smack dab in the center of our chart. Ember is **alyssa todo: fill out ember section, yo**
 
 ![](http://cl.nicoll.co/oIoW/Screen%20Shot%202017-12-12%20at%2014.04.19.png)
 
@@ -279,5 +277,5 @@ h0IjoiKGlmIHdlIGRlY2lkZSB0byBxdW90ZSBoaW0sIEkgbmVl
 ZCB0byBkb3VibGUgY2hlY2sgdGhhdCdzIG9rLCBvdGhlcndpc2
 UsIHdlIGNhbiBqdXN0IHVzZSB0aGVzZSB3b3JkcyBhcyBvdXIg
 b3duIG9waW5pb24iLCJjcmVhdGVkIjoxNTEyNjg1NDc2ODM3fX
-0sImhpc3RvcnkiOlsxODkxNjc2MzMzXX0=
+0sImhpc3RvcnkiOlsxMTk2ODY2MzFdfQ==
 -->
