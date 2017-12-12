@@ -232,8 +232,6 @@ Some devs strongly disagree with frameworks like Angular growing more "Enterpris
 
 Owning your environment and all the pieces your app needs can be very powerful.
 
-
-
 > "It can go much further, like imagine in 3 years webassembly is good enough that we want to use it. Because we are a full platform, we could start shipping part of your apps as web assembly for you, without you having to do anything. Or ES2015 modules, or web components, or any of the 'modern web'."
 
 <!--stackedit_data:
@@ -262,5 +260,5 @@ h0IjoiKGlmIHdlIGRlY2lkZSB0byBxdW90ZSBoaW0sIEkgbmVl
 ZCB0byBkb3VibGUgY2hlY2sgdGhhdCdzIG9rLCBvdGhlcndpc2
 UsIHdlIGNhbiBqdXN0IHVzZSB0aGVzZSB3b3JkcyBhcyBvdXIg
 b3duIG9waW5pb24iLCJjcmVhdGVkIjoxNTEyNjg1NDc2ODM3fX
-0sImhpc3RvcnkiOlsyMDA4NDI2MTU1XX0=
+0sImhpc3RvcnkiOls5NTM2MjIzNTFdfQ==
 -->
