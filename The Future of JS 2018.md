@@ -135,9 +135,35 @@ React strikes again! On the npm trends
 
 ## Ember
 
-About that…
 
-[what has changed in react since Feb.]
+
+## Enterprise or Nah
+
+What is wrong with Enterprise, you might ask. Well, enterprise apps/code generally is bulkier and more complex. It will take you much longer to learn and enter an Enterprise framework community than it will for a basic and simple one. 
+
+Frameworks either lean into Enterprise or they lean AWAY from it.
+It's always a balance.
+
+ Angular is on one end of the enterprise-y scale and React is on the other. React isn't even a framework.. right? It's so small, it's just a library. Vue, is in the middle, leaning farther from Enterprise than Angular, for sure. 
+
+![](http://cl.nicoll.co/oIoW/Screen%20Shot%202017-12-12%20at%2014.04.19.png)
+
+## Bazel
+
+Rather than move more towards the center, Angular is moving more enterprise with things like bazel. This would replace things like webpack in your app. It can be better for massive projects; it is written in Java which is a threaded language.
+
+Some devs strongly disagree with frameworks like Angular growing more "Enterprise-y". However, people like Stephen Fluin think it will open the doors for even more amazing things. 
+
+Owning your environment and all the pieces your app needs can be very powerful.
+
+> "It can go much further, like imagine in 3 years webassembly is good enough that we want to use it. Because we are a full platform, we could start shipping part of your apps as web assembly for you, without you having to do anything. Or ES2015 modules, or web components, or any of the 'modern web'."
+
+
+Angular is a full framework that offers everything you need, all bundled together nicely. As Mike Brocchi, a member of the CLI team, said
+
+> "Angular owns the whole ecosystem, not just a library like react. Angular's affinity towards typescript it allows the applications to be statically analysable which is what will allow for cool things like Stephen mentioned" — Mike Brocchi
+
+React, while being more flexible than Angular, is more lightweight and has less to offer. This means you’ll end up needing to include other libraries and dependencies that can be a nightmare to maintain and upgrade throughout the lifecycle of your app. Especially, if some libraries you were depending on are dropped and become deprecated. It is the safer bet to start off with the full ecosystem of Angular, it is the faster bet to get going with something like React or Vue.
 
 ## Much of the Web Still Runs on jQuery
 
@@ -253,5 +279,5 @@ h0IjoiKGlmIHdlIGRlY2lkZSB0byBxdW90ZSBoaW0sIEkgbmVl
 ZCB0byBkb3VibGUgY2hlY2sgdGhhdCdzIG9rLCBvdGhlcndpc2
 UsIHdlIGNhbiBqdXN0IHVzZSB0aGVzZSB3b3JkcyBhcyBvdXIg
 b3duIG9waW5pb24iLCJjcmVhdGVkIjoxNTEyNjg1NDc2ODM3fX
-0sImhpc3RvcnkiOlsxNjQwNjA2NTExXX0=
+0sImhpc3RvcnkiOls0ODc0MTM0NjBdfQ==
 -->
