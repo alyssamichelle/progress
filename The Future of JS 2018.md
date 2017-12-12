@@ -117,8 +117,8 @@ They also enforce component based architecture. An encapsulated component in rea
 > "React is the most loved among developers, whereas Cordova is the most dreaded. However, Node.js is the most wanted."
 
 [what has changed in react since Feb.]
-
-
+The State of JS 2017 Survey Results are in!
+![The State of JS 2017 Survey](http://cl.nicoll.co/oGVn/Screen%20Shot%202017-12-11%20at%2018.30.24.png)
 React strikes again! On the npm trends 
 
 ![http://www.npmtrends.com/angular-vs-ember-source-vs-react-vs-vue-vs-backbone](http://cl.nicoll.co/oD1N/Screen%20Shot%202017-12-08%20at%2016.04.25.png)
@@ -224,5 +224,5 @@ h0IjoiKGlmIHdlIGRlY2lkZSB0byBxdW90ZSBoaW0sIEkgbmVl
 ZCB0byBkb3VibGUgY2hlY2sgdGhhdCdzIG9rLCBvdGhlcndpc2
 UsIHdlIGNhbiBqdXN0IHVzZSB0aGVzZSB3b3JkcyBhcyBvdXIg
 b3duIG9waW5pb24iLCJjcmVhdGVkIjoxNTEyNjg1NDc2ODM3fX
-0sImhpc3RvcnkiOls4OTUwMTQ0MTBdfQ==
+0sImhpc3RvcnkiOlstMzk2NDc3NTddfQ==
 -->
