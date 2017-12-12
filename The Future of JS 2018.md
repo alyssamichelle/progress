@@ -172,7 +172,8 @@ https://twitter.com/sachagreif/status/935781795924099072
 
 [twitter bird icon] “This year’s #StateOfJS summed up in a single chart.” — @SachaGreif https://twitter.com/sachagreif/status/935781795924099072
 ￼
-![](http://cl.nicoll.co/oIBp/Image%202017-12-12%20at%203.03.55%20pm.png)
+![https://twitter.com/sachagreif/status/935781795924099072](http://cl.nicoll.co/oIBp/Image%202017-12-12%20at%203.03.55%20pm.png)
+
 Ah yes Sacha, because that makes so much sense. ;) Not that the charts I created are much clearer. I used [Google Trends]() to generate some data on the four top runner Frameworks and got this glorious chart:
 
 ![](http://cl.nicoll.co/oI4q/Screen%20Shot%202017-12-12%20at%2014.59.07.png)
@@ -279,5 +280,5 @@ h0IjoiKGlmIHdlIGRlY2lkZSB0byBxdW90ZSBoaW0sIEkgbmVl
 ZCB0byBkb3VibGUgY2hlY2sgdGhhdCdzIG9rLCBvdGhlcndpc2
 UsIHdlIGNhbiBqdXN0IHVzZSB0aGVzZSB3b3JkcyBhcyBvdXIg
 b3duIG9waW5pb24iLCJjcmVhdGVkIjoxNTEyNjg1NDc2ODM3fX
-0sImhpc3RvcnkiOlstMTg1NjkwNTc4N119
+0sImhpc3RvcnkiOls5ODc3NzAzODBdfQ==
 -->
