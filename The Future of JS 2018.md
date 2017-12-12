@@ -174,8 +174,9 @@ I think I found an interesting correlation on the recent survey results released
 ![The State of JS 2017 Survey](http://cl.nicoll.co/oGVn/Screen%20Shot%202017-12-11%20at%2018.30.24.png)
 In the above chart, as predicted, backbone and ember are pretty much on the dead side, whereas React is RIDICULOUSLY popular. Now take a look at this chart, telling about salary breakdowns according to framework.
 
-I find it really interesting that ember and backbone, two on the lowest on the popular chart, are two of the higher paying salaries. Whereas the more popular languages (Vue, Angular, React) are on the lower end. It seems to me that the old "supply and demand" theory is at it again! 
 ![salary ranges](http://cl.nicoll.co/oHgP/Screen%20Shot%202017-12-12%20at%2011.56.55.png)
+
+I find it really interesting that ember and backbone, two on the lowest on the popular chart, are two of the higher paying salaries. Whereas the more popular languages (Vue, Angular, React) are on the lower end. It seems to me that the old "supply and demand" theory is at it again! 
 
 ## Prediction Time
 
@@ -236,5 +237,5 @@ h0IjoiKGlmIHdlIGRlY2lkZSB0byBxdW90ZSBoaW0sIEkgbmVl
 ZCB0byBkb3VibGUgY2hlY2sgdGhhdCdzIG9rLCBvdGhlcndpc2
 UsIHdlIGNhbiBqdXN0IHVzZSB0aGVzZSB3b3JkcyBhcyBvdXIg
 b3duIG9waW5pb24iLCJjcmVhdGVkIjoxNTEyNjg1NDc2ODM3fX
-0sImhpc3RvcnkiOlstMjEwMTIxOTgwN119
+0sImhpc3RvcnkiOls5NDM2NTk3NjVdfQ==
 -->
