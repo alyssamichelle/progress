@@ -202,30 +202,6 @@ In the above chart, backbone and ember are pretty much on the dead side, whereas
 
 I find it really interesting that ember and backbone, two on the lowest on the popular chart, are two of the higher paying salaries. Whereas the more popular languages (Vue, Angular, React) are on the lower end. It seems to me that the old "supply and demand" theory is at it again! 
 
-## Prediction Time
-
-Prediction! On the safer side we have this prediction, that the weak will get weaker, the strong will get stronger. People (and companies) will continue to use frameworks they know and love. Angular, React, Ember, and Vue will all still be in the game, come 2019. I predict that Vue will continue to light up and be used, but at an individual scale, rather than a large company scale.
-
-### AR/VR
-
-This month Mozilla announced the WebXR Viewer app was released for download on the [itunes store](https://itunes.apple.com/us/app/webxr-viewer/id1295998056?ls=1&mt=8). This app is an augmented reality viewer that let's you make and view AR experiences created with [webxr-polyfill Javascript library](https://www.github.com/mozilla/webxr-polyfill)  and ARKit.
-
-> This app is not intended to be a full-fledged web browser, but rather a way to test, demonstrate and share AR experiments created with web technology.
-
-![https://blog.mozvr.com/experimenting-with-ar-and-the-web-on-ios/](https://blog.mozvr.com/content/images/2017/12/IMG_0017-sm-copy.png)
-
-Mozilla isn't the only company in the AR/VR pie, however. Google also released their own AR app called [WebARonARCore APK](https://github.com/google-ar/WebARonARCore) on Android. Mozilla has also been working on integrating into three.js graphics library and A-Frame framework. These are both really popular libraries/frameworks on the AR scene and it will only make it easier and easier to use AR/VR if big companies like Mozilla and Google support it.
-
-On our more ballsy-prediction-scale, we predict that libraries and frameworks will start diving into the AR/VR scene more thoroughly and that new AR/VR libraries and integrations with existing libraries will start to pop up. We hope that 2018 will have some fun and interesting reveals.
-
-## PWA
-
-Progressive web apps are where it’s at right now. Building your app, no matter the frameworks or libraries used, so that it can work offline is super in right now. But there are more to progressive web apps than just “working offline”. 
-Here is the Google standard for what it takes to be a PWA.
-
-Gartner predicts that “by 2020, progressive web apps will have replaced 50% of general-purpose, consumer-facing mobile apps”.
-
-I don’t know about 50%, but I do predict more and more big name companies implementing progressive web app features on their sites in 2018 and beyond.
 
 ## Enterprise or Nah
 
@@ -253,6 +229,32 @@ Angular is a full framework that offers everything you need, all bundled togethe
 > "Angular owns the whole ecosystem, not just a library like react. Angular's affinity towards typescript it allows the applications to be statically analysable which is what will allow for cool things like Stephen mentioned" — Mike Brocchi
 
 React, while being more flexible than Angular, is more lightweight and has less to offer. This means you’ll end up needing to include other libraries and dependencies that can be a nightmare to maintain and upgrade throughout the lifecycle of your app. Especially, if some libraries you were depending on are dropped and become deprecated. It is the safer bet to start off with the full ecosystem of Angular, it is the faster bet to get going with something like React or Vue.
+
+## Prediction Time
+
+Prediction! On the safer side we have this prediction, that the weak will get weaker, the strong will get stronger. People (and companies) will continue to use frameworks they know and love. Angular, React, Ember, and Vue will all still be in the game, come 2019. I predict that Vue will continue to light up and be used, but at an individual scale, rather than a large company scale.
+
+### AR/VR
+
+This month Mozilla announced the WebXR Viewer app was released for download on the [itunes store](https://itunes.apple.com/us/app/webxr-viewer/id1295998056?ls=1&mt=8). This app is an augmented reality viewer that let's you make and view AR experiences created with [webxr-polyfill Javascript library](https://www.github.com/mozilla/webxr-polyfill)  and ARKit.
+
+> This app is not intended to be a full-fledged web browser, but rather a way to test, demonstrate and share AR experiments created with web technology.
+
+![https://blog.mozvr.com/experimenting-with-ar-and-the-web-on-ios/](https://blog.mozvr.com/content/images/2017/12/IMG_0017-sm-copy.png)
+
+Mozilla isn't the only company in the AR/VR pie, however. Google also released their own AR app called [WebARonARCore APK](https://github.com/google-ar/WebARonARCore) on Android. Mozilla has also been working on integrating into three.js graphics library and A-Frame framework. These are both really popular libraries/frameworks on the AR scene and it will only make it easier and easier to use AR/VR if big companies like Mozilla and Google support it.
+
+On our more ballsy-prediction-scale, we predict that libraries and frameworks will start diving into the AR/VR scene more thoroughly and that new AR/VR libraries and integrations with existing libraries will start to pop up. We hope that 2018 will have some fun and interesting reveals.
+
+## PWA
+
+Progressive web apps are where it’s at right now. Building your app, no matter the frameworks or libraries used, so that it can work offline is super in right now. But there are more to progressive web apps than just “working offline”. 
+Here is the Google standard for what it takes to be a PWA.
+
+Gartner predicts that “by 2020, progressive web apps will have replaced 50% of general-purpose, consumer-facing mobile apps”.
+
+I don’t know about 50%, but I do predict more and more big name companies implementing progressive web app features on their sites in 2018 and beyond.
+
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyJHNFcycFpRdWdrMVlnMmZ1Ijp7In
 RleHQiOiJbTWljcm9zb2Z0XShodHRwczovL2dpdGh1Yi5jb20v
@@ -279,5 +281,5 @@ h0IjoiKGlmIHdlIGRlY2lkZSB0byBxdW90ZSBoaW0sIEkgbmVl
 ZCB0byBkb3VibGUgY2hlY2sgdGhhdCdzIG9rLCBvdGhlcndpc2
 UsIHdlIGNhbiBqdXN0IHVzZSB0aGVzZSB3b3JkcyBhcyBvdXIg
 b3duIG9waW5pb24iLCJjcmVhdGVkIjoxNTEyNjg1NDc2ODM3fX
-0sImhpc3RvcnkiOlstMTk3MjI2MzAxN119
+0sImhpc3RvcnkiOlsxNDQyNDEwNTk5XX0=
 -->
