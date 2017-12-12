@@ -47,7 +47,7 @@ As Rob Wormhald put it:
 We have so much to look forward to in the coming years that will round out everything possibly needed in an Angular dev environment. For one thing, I think 
 
 
-***alyssa todo: change a***
+***alyssa todo: change all to text to either we or I***
 **Prediction: Angular elements are going to be HUGE**
 
 ## AngularJS
@@ -222,5 +222,5 @@ h0IjoiKGlmIHdlIGRlY2lkZSB0byBxdW90ZSBoaW0sIEkgbmVl
 ZCB0byBkb3VibGUgY2hlY2sgdGhhdCdzIG9rLCBvdGhlcndpc2
 UsIHdlIGNhbiBqdXN0IHVzZSB0aGVzZSB3b3JkcyBhcyBvdXIg
 b3duIG9waW5pb24iLCJjcmVhdGVkIjoxNTEyNjg1NDc2ODM3fX
-0sImhpc3RvcnkiOlsxMzI1NDkyMDU4XX0=
+0sImhpc3RvcnkiOlstOTk2OTk0MTU2XX0=
 -->
