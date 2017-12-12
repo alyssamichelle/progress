@@ -213,7 +213,6 @@ I don’t know about 50%, but I do predict more and more big name companies impl
 
 > "Node.js and AngularJS continue to be the most commonly used technologies in this category."
 
-
 ## Enterprise or Nah
 
 What is wrong with Enterprise, you might ask. Well, enterprise apps/code generally is bulkier and more complex. It will take you much longer to learn and enter an Enterprise framework community than it will for a basic and simple one. 
@@ -236,8 +235,10 @@ Owning your environment and all the pieces your app needs can be very powerful.
 
 
 Angular is a full framework that offers everything you need, all bundled together nicely. As Mike Brocchi, a member of the CLI team, said
+
 > "Angular owns the whole ecosystem, not just a library like react. Angular's affinity towards typescript it allows the applications to be statically analysable which is what will allow for cool things like Stephen mentioned" — Mike Brocchi
 
+React, while being more flexible than Angular, is more lightweight and has less to offer. This means you’ll end up needing to include other libraries and dependencies that can be a nightmare to maintain and upgrade throughout the lifecycle of your app. Especially, if some libraries you were depending on are dropped and become deprecated. It is the safer bet to start off with the full ecosystem of Angular, it is the faster bet to get going with something like React or Vue.
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyJHNFcycFpRdWdrMVlnMmZ1Ijp7In
 RleHQiOiJbTWljcm9zb2Z0XShodHRwczovL2dpdGh1Yi5jb20v
@@ -264,5 +265,5 @@ h0IjoiKGlmIHdlIGRlY2lkZSB0byBxdW90ZSBoaW0sIEkgbmVl
 ZCB0byBkb3VibGUgY2hlY2sgdGhhdCdzIG9rLCBvdGhlcndpc2
 UsIHdlIGNhbiBqdXN0IHVzZSB0aGVzZSB3b3JkcyBhcyBvdXIg
 b3duIG9waW5pb24iLCJjcmVhdGVkIjoxNTEyNjg1NDc2ODM3fX
-0sImhpc3RvcnkiOlsxNDQ3MzYzMzExXX0=
+0sImhpc3RvcnkiOlstMzczODI0Mjc3XX0=
 -->
