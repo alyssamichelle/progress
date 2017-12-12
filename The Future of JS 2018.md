@@ -179,14 +179,23 @@ Ah yes Sacha, because that makes so much sense. ;) Not that the charts I created
 Now that chart doesn’t do a whole lot for me, other than showing Ember as a dead thing, which we all knew. Jk, please don’t send Tomster after me. So I decided to turn it into a nifty pie chart, that might help shed more light on the situation:
 
 ￼![](http://cl.nicoll.co/oAQy/[b5509a7f44ba2ffd22e580d2830ca4b7]_Image%202017-12-06%20at%202.36.00%20pm.png)
-There really is no one way to know which frameworks are doing the best. This is just one peak into the enigma that is the web dev world. However, just going off of this pie chart, it still looks like Angular is on top, followed by React. However, if you checkout the survey results from "The state of JS in 2017", you'll see a different story.
+There really is no one way to know which frameworks are doing the best. This is just one peak into the enigma that is the web dev world. However, just going off of this pie chart, it still looks like Angular is on top, followed by React. 
+
+
+### Stackoverflow Dev Survey 2017
+
+![https://insights.stackoverflow.com/survey/2017](http://cl.nicoll.co/oDbh/Screen%20Shot%202017-12-08%20at%2013.14.38.png)
+
+> "Node.js and AngularJS continue to be the most commonly used technologies in this category."
+L
+However, if you checkout the survey results from "The state of JS in 2017", you'll see a different story.
 
 ## The State of JS in 2017 Survey Results
 I think I found an interesting correlation on the recent survey results released.
  
 ![The State of JS 2017 Survey](http://cl.nicoll.co/oGVn/Screen%20Shot%202017-12-11%20at%2018.30.24.png)
 
-In the above chart, as predicted, backbone and ember are pretty much on the dead side, whereas React is RIDICULOUSLY popular. Now take a look at this chart, telling about salary breakdowns according to framework.
+In the above chart, backbone and ember are pretty much on the dead side, whereas React is RIDICULOUSLY popular. Now take a look at this chart, telling about salary breakdowns according to framework.
 
 ![salary ranges](http://cl.nicoll.co/oHgP/Screen%20Shot%202017-12-12%20at%2011.56.55.png)
 
@@ -216,12 +225,6 @@ Here is the Google standard for what it takes to be a PWA.
 Gartner predicts that “by 2020, progressive web apps will have replaced 50% of general-purpose, consumer-facing mobile apps”.
 
 I don’t know about 50%, but I do predict more and more big name companies implementing progressive web app features on their sites in 2018 and beyond.
-
-
-### Stackoverflow Dev Survey 2017
-![https://insights.stackoverflow.com/survey/2017](http://cl.nicoll.co/oDbh/Screen%20Shot%202017-12-08%20at%2013.14.38.png)
-
-> "Node.js and AngularJS continue to be the most commonly used technologies in this category."
 
 ## Enterprise or Nah
 
@@ -275,5 +278,5 @@ h0IjoiKGlmIHdlIGRlY2lkZSB0byBxdW90ZSBoaW0sIEkgbmVl
 ZCB0byBkb3VibGUgY2hlY2sgdGhhdCdzIG9rLCBvdGhlcndpc2
 UsIHdlIGNhbiBqdXN0IHVzZSB0aGVzZSB3b3JkcyBhcyBvdXIg
 b3duIG9waW5pb24iLCJjcmVhdGVkIjoxNTEyNjg1NDc2ODM3fX
-0sImhpc3RvcnkiOlsxNTQ5Njg4NzE4XX0=
+0sImhpc3RvcnkiOlstMTM3MTIyNTk3OF19
 -->
