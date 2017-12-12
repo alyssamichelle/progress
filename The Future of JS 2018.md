@@ -94,7 +94,7 @@ You can read more about Vue's origin story [here](https://betweenthewires.org/20
 
 ## React
 
-I’m still surprised by all the apps I continually run into and after inspecting under the hood, realise, they are created with react. React, while not being the newest of “hotnesses”, is still very prevalent and often brought up as a web dev go-to framework.
+I’m still surprised by all the apps I continually run into and after inspecting under the hood, realise, they are created with react. React, while not being the newest of “hot-nesses”, is still very prevalent and often brought up as a web dev go-to framework.
 
 **What is React? Should I use it?**
 
@@ -265,5 +265,5 @@ h0IjoiKGlmIHdlIGRlY2lkZSB0byBxdW90ZSBoaW0sIEkgbmVl
 ZCB0byBkb3VibGUgY2hlY2sgdGhhdCdzIG9rLCBvdGhlcndpc2
 UsIHdlIGNhbiBqdXN0IHVzZSB0aGVzZSB3b3JkcyBhcyBvdXIg
 b3duIG9waW5pb24iLCJjcmVhdGVkIjoxNTEyNjg1NDc2ODM3fX
-0sImhpc3RvcnkiOlsyODE3MDUyMzRdfQ==
+0sImhpc3RvcnkiOls2MDAyODQ5ODNdfQ==
 -->
