@@ -99,13 +99,16 @@ You can read more about Vue's origin story [here](https://betweenthewires.org/20
 
 ## React
 
-I’m still surprised by all the apps I continually run into and after inspecting under the hood, realise, they are created with react. React, while not being the newest of “hot-nesses”, is still very prevalent and often brought up as a web dev go-to framework.
+I’m still surprised by all the apps I continually run into and after inspecting under the hood, realise, they are created with react. React, while not being the newest of “hot-nesses”, is still very prevalent and often brought up as a web dev go-to framework. Don't believe me? Check out these killer circle charts from "The State of JS 2017 survey" results. React's big.
+
+![](http://cl.nicoll.co/oIDg/[c3a280c61bb9021f54726ede2cfa75a2]_Screen%20Shot%202017-12-12%20at%2014.43.05.png)
 
 **What is React? Should I use it?**
 
 > “React is very popular and will likely continue to be now that Facebook has resolved the licensing controversy. It has become the first choice alternative to Angular and only continues to gain traction.” –Joe Eames, JavaScript and Angular expert [source](https://medium.com/pluralsight/tech-trends-2018-7c443b6cff7f)
 
 React, unlike Angular, is not a framework, but rather a library. React is a JS library for building UI on web apps. It provides a declarative method of defining UI components, which as they claim:
+
 > "Declarative views make your code more predictable and easier to debug."
 
 They also enforce component based architecture. An encapsulated component in react should manage it's own state and multiple components can be combined in your quest to build your apps UI. Below is a handy chart [source]() that compares some features of React vs. Angular.
@@ -270,5 +273,5 @@ h0IjoiKGlmIHdlIGRlY2lkZSB0byBxdW90ZSBoaW0sIEkgbmVl
 ZCB0byBkb3VibGUgY2hlY2sgdGhhdCdzIG9rLCBvdGhlcndpc2
 UsIHdlIGNhbiBqdXN0IHVzZSB0aGVzZSB3b3JkcyBhcyBvdXIg
 b3duIG9waW5pb24iLCJjcmVhdGVkIjoxNTEyNjg1NDc2ODM3fX
-0sImhpc3RvcnkiOlstMTQ1MTk1ODc3OV19
+0sImhpc3RvcnkiOlsxNjExMzQyNTg3XX0=
 -->
