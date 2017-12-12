@@ -7,7 +7,6 @@ Last year, we focused on frameworks such as React, Angular, Ember, Vue and Backb
 
 We’ll also look at Kendo UI. Not out of any bias because we make it and hope it does well, certainly not. Looking back can help us determine how each of these frameworks impacted web development in 2017, as well as where they are likely headed.
 
-
 ## Kendo UI
 
 2017 was a very big year for Kendo UI. Looking ahead, 2018 is shaping up to be even bigger. Here's a quick look at what to expect.
@@ -256,13 +255,13 @@ React, while being more flexible than Angular, is more lightweight and has less 
 eyJkaXNjdXNzaW9ucyI6eyJHNFcycFpRdWdrMVlnMmZ1Ijp7In
 RleHQiOiJbTWljcm9zb2Z0XShodHRwczovL2dpdGh1Yi5jb20v
 bWljcm9zb2Z0KVxuIC0gdnNjb2RlIC0gT1MgaW4gSnVseSAyMD
-E2XG4gLSBkb3RuZXTigKYiLCJzdGFydCI6MjYzNiwiZW5kIjoy
-ODY0fSwiUWdEamhta3ZFbjNoenU0QiI6eyJ0ZXh0IjoiQnVpbG
+E2XG4gLSBkb3RuZXTigKYiLCJzdGFydCI6MjYzNSwiZW5kIjoy
+ODYzfSwiUWdEamhta3ZFbjNoenU0QiI6eyJ0ZXh0IjoiQnVpbG
 QgT3B0aW1pemVyXG5UaGUgYnVpbGQgb3B0aW1pemVyIGlzIGEg
 dG9vbCBpbmNsdWRlZCBpbiBvdXIgQ0xJIGZvciBtYWtpbmcgeW
-/igKYiLCJzdGFydCI6Mzk2NSwiZW5kIjozOTY1fSwiejlOclZa
+/igKYiLCJzdGFydCI6Mzk2NCwiZW5kIjozOTY0fSwiejlOclZa
 M2x5Y3Y1am5weSI6eyJ0ZXh0Ijoi4oCUIFNGIiwic3RhcnQiOj
-QyMzEsImVuZCI6NDIzMX19LCJjb21tZW50cyI6eyJNMkV5R3I0
+QyMzAsImVuZCI6NDIzMH19LCJjb21tZW50cyI6eyJNMkV5R3I0
 Y1VGeXRUWmluIjp7ImRpc2N1c3Npb25JZCI6Ikc0VzJwWlF1Z2
 sxWWcyZnUiLCJzdWIiOiIxMDg2NDk4Mjc2NzM3MTYyNDkwMTMi
 LCJ0ZXh0IjoicHJldHR5IHN1cmUgSSB3YW5uYSB0YWtlIG91dC
@@ -278,5 +277,5 @@ h0IjoiKGlmIHdlIGRlY2lkZSB0byBxdW90ZSBoaW0sIEkgbmVl
 ZCB0byBkb3VibGUgY2hlY2sgdGhhdCdzIG9rLCBvdGhlcndpc2
 UsIHdlIGNhbiBqdXN0IHVzZSB0aGVzZSB3b3JkcyBhcyBvdXIg
 b3duIG9waW5pb24iLCJjcmVhdGVkIjoxNTEyNjg1NDc2ODM3fX
-0sImhpc3RvcnkiOlsxNzgzMDc3NDgxXX0=
+0sImhpc3RvcnkiOlstMTEyMjQxMTE3M119
 -->
