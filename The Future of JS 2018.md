@@ -117,7 +117,7 @@ React, unlike Angular, is not a framework, but rather a library. React is a JS l
 
 > "Declarative views make your code more predictable and easier to debug."
 
-They also enforce component based architecture. An encapsulated component in react should manage it's own state and multiple components can be combined in your quest to build your apps UI. Below is a handy chart [source]() that compares some features of React vs. Angular.
+They also enforce component based architecture. An encapsulated component in react should manage it's own state and multiple components can be combined in your quest to build your apps UI. Below is a handy chart that compares some features of React vs. Angular. [source]()
 
 ![https://blog.techmagic.co/angular-2-vs-react-what-to-chose-in-2017/](http://cl.nicoll.co/oH5u/Image%202017-12-11%20at%202.32.50%20pm.png)
 
@@ -302,5 +302,5 @@ h0IjoiKGlmIHdlIGRlY2lkZSB0byBxdW90ZSBoaW0sIEkgbmVl
 ZCB0byBkb3VibGUgY2hlY2sgdGhhdCdzIG9rLCBvdGhlcndpc2
 UsIHdlIGNhbiBqdXN0IHVzZSB0aGVzZSB3b3JkcyBhcyBvdXIg
 b3duIG9waW5pb24iLCJjcmVhdGVkIjoxNTEyNjg1NDc2ODM3fX
-0sImhpc3RvcnkiOls0MjM3MDMxMDJdfQ==
+0sImhpc3RvcnkiOlstMTk3Mjg3ODAwXX0=
 -->
