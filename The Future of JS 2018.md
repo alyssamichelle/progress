@@ -81,9 +81,7 @@ VueJS has been on the rise and mentioned as the next “hot new thing”. It is 
 **What is Vue?**
 You guessed it! Vue is yet another WONDERFUL JavaScript framework. Vue is simple to get started, scales to large cases easily, has everything you need end to end to build small to large scale apps. It boasts these fun features, which after reading, you should think to yourself... *AngularJS?*. 
 
-**AngularJS *cough* I mean, Vue.js Features**
-
- - List item
+**AngularJS *•cough•* I mean, Vue.js Features**
  - Reactive Interfaces
  - Declarative Rendering
  - Data Binding
@@ -305,5 +303,5 @@ h0IjoiKGlmIHdlIGRlY2lkZSB0byBxdW90ZSBoaW0sIEkgbmVl
 ZCB0byBkb3VibGUgY2hlY2sgdGhhdCdzIG9rLCBvdGhlcndpc2
 UsIHdlIGNhbiBqdXN0IHVzZSB0aGVzZSB3b3JkcyBhcyBvdXIg
 b3duIG9waW5pb24iLCJjcmVhdGVkIjoxNTEyNjg1NDc2ODM3fX
-0sImhpc3RvcnkiOlstMTc1NTU5ODg1Ml19
+0sImhpc3RvcnkiOlstMTgyMTY5ODA2XX0=
 -->
