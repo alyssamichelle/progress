@@ -41,6 +41,7 @@ We had hoped that there would be more open-source offerings for JavaScript devel
 > “Both are now available on GitHub, representing the first time that Apple has released such integral code into the public domain.” — [The Inquirer](https://www.theinquirer.net/inquirer/news/3018430/apple-releases-ios-and-mac-os-source-code-to-github-ahead-of-iphone-x-launch)
 
 ## Angular
+
 For this girls opinion, Angular is still pretty hot *cough cough* points to Tesla’s hiring page. So many large companies made the switch from AngularJS to Angular and it would take something just shy of a miracle to switch them off this robust framework.
 
 In November, the latest version of Angular, 5, was released. [Stephen Fluin](https://blog.angular.io/version-5-0-0-of-angular-now-available-37e414935ced) Angular’s Developer Advocate, wrote about all the juicy deets in [this](https://blog.angular.io/angular-5-1-more-now-available-27d372f5eb4e) blog post. 
@@ -281,9 +282,9 @@ E2XG4gLSBkb3RuZXTigKYiLCJzdGFydCI6MjYxNiwiZW5kIjoy
 ODQ0fSwiUWdEamhta3ZFbjNoenU0QiI6eyJ0ZXh0IjoiQnVpbG
 QgT3B0aW1pemVyXG5UaGUgYnVpbGQgb3B0aW1pemVyIGlzIGEg
 dG9vbCBpbmNsdWRlZCBpbiBvdXIgQ0xJIGZvciBtYWtpbmcgeW
-/igKYiLCJzdGFydCI6Mzg5NSwiZW5kIjozODk1fSwiejlOclZa
+/igKYiLCJzdGFydCI6Mzg5NiwiZW5kIjozODk2fSwiejlOclZa
 M2x5Y3Y1am5weSI6eyJ0ZXh0Ijoi4oCUIFNGIiwic3RhcnQiOj
-QxNjEsImVuZCI6NDE2MX19LCJjb21tZW50cyI6eyJNMkV5R3I0
+QxNjIsImVuZCI6NDE2Mn19LCJjb21tZW50cyI6eyJNMkV5R3I0
 Y1VGeXRUWmluIjp7ImRpc2N1c3Npb25JZCI6Ikc0VzJwWlF1Z2
 sxWWcyZnUiLCJzdWIiOiIxMDg2NDk4Mjc2NzM3MTYyNDkwMTMi
 LCJ0ZXh0IjoicHJldHR5IHN1cmUgSSB3YW5uYSB0YWtlIG91dC
@@ -299,5 +300,5 @@ h0IjoiKGlmIHdlIGRlY2lkZSB0byBxdW90ZSBoaW0sIEkgbmVl
 ZCB0byBkb3VibGUgY2hlY2sgdGhhdCdzIG9rLCBvdGhlcndpc2
 UsIHdlIGNhbiBqdXN0IHVzZSB0aGVzZSB3b3JkcyBhcyBvdXIg
 b3duIG9waW5pb24iLCJjcmVhdGVkIjoxNTEyNjg1NDc2ODM3fX
-0sImhpc3RvcnkiOls5ODA1NTQyMjldfQ==
+0sImhpc3RvcnkiOlstMTcwNDg0MTU2NV19
 -->
