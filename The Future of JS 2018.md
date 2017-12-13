@@ -13,7 +13,7 @@ We’ll also look at Kendo UI. Not out of any bias because we make it and hope i
 
 Wrappers for React and Vue were introduced in September 2017. These wrappers provide many of the components available in Kendo UI to React and Vue developers. In 2018, the React and Vue wrappers will have full coverage of all jQuery-based components in Kendo UI. This will align the support that Kendo UI has across the four major web frameworks: jQuery, Angular, React, and Vue.
 
-The popularity of React boded well for Kendo UI in 2018. That's because Kendo UI will also introduce a set of native components for React. These native components will leverage features like the virtual DOM for complex components like the Grid. They will provide form component suites, including DropDowns and powerful input elements. They will also support themes for Material Design and Bootstrap v4.
+The popularity of React boded well for Kendo UI in 2018. That's because Kendo UI will also introduce a set of native components for React. These native components will make use of features like the virtual DOM for complex components like the Grid. They will provide form component suites, including DropDowns and powerful input elements. They will also support themes for Material Design and Bootstrap v4.
 
 Angular support in Kendo UI will be extended to include popular components such as the TreeView, Window, Splitter, and Gauges. Numerous features for the very popular Grid component will also be added.
 
@@ -276,13 +276,13 @@ its a question of your team and previous skillset to decide which Framework you 
 eyJkaXNjdXNzaW9ucyI6eyJHNFcycFpRdWdrMVlnMmZ1Ijp7In
 RleHQiOiJbTWljcm9zb2Z0XShodHRwczovL2dpdGh1Yi5jb20v
 bWljcm9zb2Z0KVxuIC0gdnNjb2RlIC0gT1MgaW4gSnVseSAyMD
-E2XG4gLSBkb3RuZXTigKYiLCJzdGFydCI6MjYxNCwiZW5kIjoy
-ODQyfSwiUWdEamhta3ZFbjNoenU0QiI6eyJ0ZXh0IjoiQnVpbG
+E2XG4gLSBkb3RuZXTigKYiLCJzdGFydCI6MjYxNywiZW5kIjoy
+ODQ1fSwiUWdEamhta3ZFbjNoenU0QiI6eyJ0ZXh0IjoiQnVpbG
 QgT3B0aW1pemVyXG5UaGUgYnVpbGQgb3B0aW1pemVyIGlzIGEg
 dG9vbCBpbmNsdWRlZCBpbiBvdXIgQ0xJIGZvciBtYWtpbmcgeW
-/igKYiLCJzdGFydCI6Mzg5MywiZW5kIjozODkzfSwiejlOclZa
+/igKYiLCJzdGFydCI6Mzg5NiwiZW5kIjozODk2fSwiejlOclZa
 M2x5Y3Y1am5weSI6eyJ0ZXh0Ijoi4oCUIFNGIiwic3RhcnQiOj
-QxNTksImVuZCI6NDE1OX19LCJjb21tZW50cyI6eyJNMkV5R3I0
+QxNjIsImVuZCI6NDE2Mn19LCJjb21tZW50cyI6eyJNMkV5R3I0
 Y1VGeXRUWmluIjp7ImRpc2N1c3Npb25JZCI6Ikc0VzJwWlF1Z2
 sxWWcyZnUiLCJzdWIiOiIxMDg2NDk4Mjc2NzM3MTYyNDkwMTMi
 LCJ0ZXh0IjoicHJldHR5IHN1cmUgSSB3YW5uYSB0YWtlIG91dC
@@ -298,5 +298,5 @@ h0IjoiKGlmIHdlIGRlY2lkZSB0byBxdW90ZSBoaW0sIEkgbmVl
 ZCB0byBkb3VibGUgY2hlY2sgdGhhdCdzIG9rLCBvdGhlcndpc2
 UsIHdlIGNhbiBqdXN0IHVzZSB0aGVzZSB3b3JkcyBhcyBvdXIg
 b3duIG9waW5pb24iLCJjcmVhdGVkIjoxNTEyNjg1NDc2ODM3fX
-0sImhpc3RvcnkiOlstMTI0OTA4MzQ1N119
+0sImhpc3RvcnkiOlsyMDE3MTUwNDM2XX0=
 -->
