@@ -18,6 +18,7 @@ The popularity of React boded well for Kendo UI in 2018. That's because Kendo UI
 Angular support in Kendo UI will be extended to include popular components such as the TreeView, Window, Splitter, and Gauges. Numerous features for the very popular Grid component will also be added.
 
 ## OPEN SOURCE PREDICTIONS FOR 2018
+
 We all know that Google is the driving source behind Angular and Facebook, the creators and maintainers of React. In 2017 we predicted that open source software, controlled by large corporations, aka "Corporate Open Source", would become more prevalent. While no new huge contenders have entered the ring in 2017, OS projects that started in 2016 or earlier remain strong (like dotnet and UNIX). Whereas others have really taken root and spread, like vscode, TypeScript, and Swift.
 
 ![amazing chart comparing vscode, typescript, and swift over the last 5 yrs in the US](http://cl.nicoll.co/oAlv/Image%202017-12-06%20at%204.49.56%20pm.png)
@@ -276,13 +277,13 @@ its a question of your team and previous skillset to decide which Framework you 
 eyJkaXNjdXNzaW9ucyI6eyJHNFcycFpRdWdrMVlnMmZ1Ijp7In
 RleHQiOiJbTWljcm9zb2Z0XShodHRwczovL2dpdGh1Yi5jb20v
 bWljcm9zb2Z0KVxuIC0gdnNjb2RlIC0gT1MgaW4gSnVseSAyMD
-E2XG4gLSBkb3RuZXTigKYiLCJzdGFydCI6MjYxNSwiZW5kIjoy
-ODQzfSwiUWdEamhta3ZFbjNoenU0QiI6eyJ0ZXh0IjoiQnVpbG
+E2XG4gLSBkb3RuZXTigKYiLCJzdGFydCI6MjYxNiwiZW5kIjoy
+ODQ0fSwiUWdEamhta3ZFbjNoenU0QiI6eyJ0ZXh0IjoiQnVpbG
 QgT3B0aW1pemVyXG5UaGUgYnVpbGQgb3B0aW1pemVyIGlzIGEg
 dG9vbCBpbmNsdWRlZCBpbiBvdXIgQ0xJIGZvciBtYWtpbmcgeW
-/igKYiLCJzdGFydCI6Mzg5NCwiZW5kIjozODk0fSwiejlOclZa
+/igKYiLCJzdGFydCI6Mzg5NSwiZW5kIjozODk1fSwiejlOclZa
 M2x5Y3Y1am5weSI6eyJ0ZXh0Ijoi4oCUIFNGIiwic3RhcnQiOj
-QxNjAsImVuZCI6NDE2MH19LCJjb21tZW50cyI6eyJNMkV5R3I0
+QxNjEsImVuZCI6NDE2MX19LCJjb21tZW50cyI6eyJNMkV5R3I0
 Y1VGeXRUWmluIjp7ImRpc2N1c3Npb25JZCI6Ikc0VzJwWlF1Z2
 sxWWcyZnUiLCJzdWIiOiIxMDg2NDk4Mjc2NzM3MTYyNDkwMTMi
 LCJ0ZXh0IjoicHJldHR5IHN1cmUgSSB3YW5uYSB0YWtlIG91dC
@@ -298,5 +299,5 @@ h0IjoiKGlmIHdlIGRlY2lkZSB0byBxdW90ZSBoaW0sIEkgbmVl
 ZCB0byBkb3VibGUgY2hlY2sgdGhhdCdzIG9rLCBvdGhlcndpc2
 UsIHdlIGNhbiBqdXN0IHVzZSB0aGVzZSB3b3JkcyBhcyBvdXIg
 b3duIG9waW5pb24iLCJjcmVhdGVkIjoxNTEyNjg1NDc2ODM3fX
-0sImhpc3RvcnkiOlstMjA3NTI1MTc3M119
+0sImhpc3RvcnkiOls5ODA1NTQyMjldfQ==
 -->
