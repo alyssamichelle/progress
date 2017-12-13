@@ -83,9 +83,17 @@ You guessed it! Vue is yet another WONDERFUL JavaScript framework. Vue is simple
 
 **AngularJS *cough* I mean, Vue.js Features**
 
- - Reactive Interfaces Declarative Rendering Data Binding Directives
-   Template Logic Components Event Handling Computed Properties CSS
-   Transitions and Animations Filters
+ - List item
+ - Reactive Interfaces
+ - Declarative Rendering
+ - Data Binding
+ - Directives
+ - Template Logic
+ - Components
+ - Event Handling
+ - Computed Properties
+ - CSS Transitions and Animations
+ - Filters
 
 No surprise there though, Vue was created by an ex-Googler, Evan You, who after using AngularJS on a number of projects, was just playing around, seeing if he could strip down AngularJS to the core parts he liked.  Thus, in 2013, VueJS was born.
 
@@ -297,5 +305,5 @@ h0IjoiKGlmIHdlIGRlY2lkZSB0byBxdW90ZSBoaW0sIEkgbmVl
 ZCB0byBkb3VibGUgY2hlY2sgdGhhdCdzIG9rLCBvdGhlcndpc2
 UsIHdlIGNhbiBqdXN0IHVzZSB0aGVzZSB3b3JkcyBhcyBvdXIg
 b3duIG9waW5pb24iLCJjcmVhdGVkIjoxNTEyNjg1NDc2ODM3fX
-0sImhpc3RvcnkiOlsxMjMzMTA1NTgzXX0=
+0sImhpc3RvcnkiOlstMTc1NTU5ODg1Ml19
 -->
