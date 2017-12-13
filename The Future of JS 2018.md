@@ -57,7 +57,7 @@ I'm extremely pumped to see what Angular has in store for 2018, 19, and beyond. 
 As Rob Wormhald put it:
 > "Angular is ideal for building **complete applications** and our tooling, documentation and infrastructure have been primarily aimed at this use case..."
 
-For one thing, I think Angular elements are going to be HUGE. Rob gave a talk on them at [Angular Connect in November](https://www.youtube.com/watch?v=vHI5C-9vH-E). Angular elements are simply Angular Components wrapped in Custom Elements. These will bridge the gap and allow you to use Angular Components anywhere, without the full angular environment. Need an Angular Component included in your React project, no problem! We have so much to look forward to in the coming years that will round out everything possibly needed in an Angular dev environment. 
+For one thing, I think Angular elements are going to be HUGE. Rob gave a talk on them at [Angular Connect in November](https://www.youtube.com/watch?v=vHI5C-9vH-E). Angular elements are simply Angular Components wrapped in Custom Elements. These will bridge the gap and allow you to use Angular Components anywhere, without the full angular environment. Need an Angular Component included in your React project, no problem! Not only is the Angular team looking to solve these problems, but we also have so much to look forward to in the coming years that will round out everything possibly needed in an Angular dev environment.
 
  **alyssa todo: finish paragraph**
 
@@ -300,5 +300,5 @@ h0IjoiKGlmIHdlIGRlY2lkZSB0byBxdW90ZSBoaW0sIEkgbmVl
 ZCB0byBkb3VibGUgY2hlY2sgdGhhdCdzIG9rLCBvdGhlcndpc2
 UsIHdlIGNhbiBqdXN0IHVzZSB0aGVzZSB3b3JkcyBhcyBvdXIg
 b3duIG9waW5pb24iLCJjcmVhdGVkIjoxNTEyNjg1NDc2ODM3fX
-0sImhpc3RvcnkiOlsxMDIxMjAxMzQ0XX0=
+0sImhpc3RvcnkiOlstMjYyMDYzODI5XX0=
 -->
