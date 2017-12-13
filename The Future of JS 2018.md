@@ -260,6 +260,13 @@ I don’t know about 50%, but I do predict more and more big name companies impl
 **#onelove**
 
 > "I am an Angular + RxJS + TypeScript + CLI dev for a year now after AngularJS. Came from Java world thats why I picked Angular which easily fit in the same mindset. Cheers guys!" — Attila Csanyi@attila-csanyi
+
+> if you came from pure JS world then React is the best choice. If you came from enterprise .NET or Java, Angular is very similar in mindset, so easy to start and also a whole package, not just node libs, which is hard to keep up with and figure it out which should be chosen 
+5 days ago
+Attila Csanyi
+I convinced senior JS devs in the past to migrate AngularJS 1.6 to Angular + TypeScript. Was hard in the beginning, but after almost a year they really enjoy the benefits of the decision.
+5 days ago
+its a question of your team and previous skillset to decide which Framework you should choose next imho
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyJHNFcycFpRdWdrMVlnMmZ1Ijp7In
 RleHQiOiJbTWljcm9zb2Z0XShodHRwczovL2dpdGh1Yi5jb20v
@@ -286,5 +293,5 @@ h0IjoiKGlmIHdlIGRlY2lkZSB0byBxdW90ZSBoaW0sIEkgbmVl
 ZCB0byBkb3VibGUgY2hlY2sgdGhhdCdzIG9rLCBvdGhlcndpc2
 UsIHdlIGNhbiBqdXN0IHVzZSB0aGVzZSB3b3JkcyBhcyBvdXIg
 b3duIG9waW5pb24iLCJjcmVhdGVkIjoxNTEyNjg1NDc2ODM3fX
-0sImhpc3RvcnkiOlsxMDgxMzQyMTM1XX0=
+0sImhpc3RvcnkiOlstMzY1NjAxOTcyXX0=
 -->
