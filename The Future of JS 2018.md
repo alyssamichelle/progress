@@ -57,14 +57,13 @@ I'm extremely pumped to see what Angular has in store for 2018, 19, and beyond. 
 As Rob Wormhald put it:
 > "Angular is ideal for building **complete applications** and our tooling, documentation and infrastructure have been primarily aimed at this use case..."
 
-For one thing, I think Angular elements are going to be HUGE. Rob gave a talk on them at [Angular Connect in November](https://www.youtube.com/watch?v=vHI5C-9vH-E). Angular elements are simply Angular Components wrapped in Custom Elements. These will bridge the gap and allow you to use Angular Components anywhere, without the full angular environment. Need an Angular Component included in your React project, no problem! Not only is the Angular team looking to solve these problems, but we also have so much to look forward to in the coming years that will round out everything possibly needed in an Angular dev environment.
-
- **alyssa todo: finish paragraph**
+For one thing, I think Angular elements are going to be HUGE. Rob gave a talk on them in November at [Angular Connect](https://www.youtube.com/watch?v=vHI5C-9vH-E). Angular elements are simply Angular Components wrapped in Custom Elements. These will bridge the gap and allow you to use Angular Components anywhere, without the full angular environment. Need an Angular Component included in your React project, no problem! Not only is the Angular team looking to solve these problems, but we also have so much to look forward to in the coming years that will round out everything possibly needed in an Angular dev environment.
 
 ***alyssa todo: change all to text to either we or I***
 
 ## AngularJS
 **The current state of AngularJS**
+
 At the last Google Developer Expert Summit that I attended, they again expressed their plans to continue updating AngularJS, only so long as the traffic to it’s docs outnumbered the traffic to the Angular.io docs. AngularJS’s days are numbered. That being said, there are still so many companies using AngularJS, without any plans of upgrading. Why, you might ask? For some, they just do not have the resources to dedicate to upgrading all the directives to components and then to make the massive (let’s be real peeps, this is no simple upgrade) swap over to Angular. For others, they are hesitant (still) to adopt Typescript. At first, the Angular team said they would support multiple languages, not just Typescript. However, a few months into Angular being released, and they swiftly back tracked and removed any references to other languages in their docs. So for some companies, believe it or not, they won’t upgrade because they cannot give up their beloved CoffeeScript. ;)
 
 So where does that leave you? If Angular is too large of a change for your company to swallow, and AngularJS is bound to be deprecated one of these days, where does that leave your company, clients and code?
@@ -300,5 +299,5 @@ h0IjoiKGlmIHdlIGRlY2lkZSB0byBxdW90ZSBoaW0sIEkgbmVl
 ZCB0byBkb3VibGUgY2hlY2sgdGhhdCdzIG9rLCBvdGhlcndpc2
 UsIHdlIGNhbiBqdXN0IHVzZSB0aGVzZSB3b3JkcyBhcyBvdXIg
 b3duIG9waW5pb24iLCJjcmVhdGVkIjoxNTEyNjg1NDc2ODM3fX
-0sImhpc3RvcnkiOlstMjYyMDYzODI5XX0=
+0sImhpc3RvcnkiOlsyMTM5MDk1NzM5XX0=
 -->
