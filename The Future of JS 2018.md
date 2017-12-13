@@ -93,7 +93,7 @@ You guessed it! Vue is yet another WONDERFUL JavaScript framework. Vue is simple
  - CSS Transitions and Animations
  - Filters
 
-No surprise there though, Vue was created by an ex-Googler, Evan You, who after using AngularJS on a number of projects, was just playing around, seeing if he could strip down AngularJS to the core parts he liked.  Thus, in 2013, VueJS was born.
+No surprise there though, Vue was created by an ex-Googler, Evan Yuo, who after using AngularJS on a number of projects, was just playing around, seeing if he could strip down AngularJS to the core parts he liked.  Thus, in 2013, VueJS was born.
 
 ***alyssa todo: can shorten quote below***
 > For me, Angular offered something cool which is data binding and a data driven way of dealing with a DOM, so you don’t have to touch the DOM yourself. It also brought in all these extra concepts that forced you to structure the code the way it wanted you to. It just felt too heavy for the use case that I had at that time.
@@ -303,5 +303,5 @@ h0IjoiKGlmIHdlIGRlY2lkZSB0byBxdW90ZSBoaW0sIEkgbmVl
 ZCB0byBkb3VibGUgY2hlY2sgdGhhdCdzIG9rLCBvdGhlcndpc2
 UsIHdlIGNhbiBqdXN0IHVzZSB0aGVzZSB3b3JkcyBhcyBvdXIg
 b3duIG9waW5pb24iLCJjcmVhdGVkIjoxNTEyNjg1NDc2ODM3fX
-0sImhpc3RvcnkiOlstMTgyMTY5ODA2XX0=
+0sImhpc3RvcnkiOls1MzA5OTUwXX0=
 -->
