@@ -175,8 +175,8 @@ Angular is a full framework that offers everything you need, all bundled togethe
 
 React, while being more flexible than Angular, is more lightweight and has less to offer. This means you’ll end up needing to include other libraries and dependencies that can be a nightmare to maintain and upgrade throughout the lifecycle of your app. Especially, if some libraries you were depending on are dropped and become deprecated. It is the safer bet to start off with the full ecosystem of Angular, it is the faster bet to get going with something like React or Vue.
 
-# webpack 5
-parcelJS just popped up - no config https://webpack.js.org/vote/
+~~# webpack 5
+parcelJS just popped up - no config https://webpack.js.org/vote/~~
 
 ## Much of the Web Still Runs on jQuery
 
@@ -305,5 +305,5 @@ h0IjoiKGlmIHdlIGRlY2lkZSB0byBxdW90ZSBoaW0sIEkgbmVl
 ZCB0byBkb3VibGUgY2hlY2sgdGhhdCdzIG9rLCBvdGhlcndpc2
 UsIHdlIGNhbiBqdXN0IHVzZSB0aGVzZSB3b3JkcyBhcyBvdXIg
 b3duIG9waW5pb24iLCJjcmVhdGVkIjoxNTEyNjg1NDc2ODM3fX
-0sImhpc3RvcnkiOlsxNjEwNTIwNTUzXX0=
+0sImhpc3RvcnkiOlstMTgxMjY0NzI3XX0=
 -->
