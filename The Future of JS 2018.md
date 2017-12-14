@@ -180,7 +180,7 @@ On the builtwith.com site, you can
 31k sites isn't too shabby, even if the framework is trending downward.
 ￼
 
-My husband is an avid Ember user and he said that he didn’t hear about the surveys that went around this years, which as I admitted, not all devs are the survey taking type. As for Google trends, he believes Embers site is the perfect learning tool for a Ember and therefore, why would Ember devs need to search or look anywhere else. ( I told you he was loyal. 😏)
+My husband is an avid Ember user and he said that he didn’t hear about the surveys that went around this year, which as I admitted, not all devs are the survey taking type. As for Google trends, he believes Embers site is the perfect learning tool for Ember and therefore, why would Ember devs need to search or look anywhere else. ( I told you he was loyal. 😏)
 
 > One of the problems with Ember is that it targets a different type of developer, different from any other target demographic. It targets people who like Python, Rails or CoffeeScript. Ember is a different way of writing code. It’s very structured, there’s a way to do everything, everything is standardized — all things that are abnormal to JS devs. People like the freedom of JS, with Ember, you cannot break the rules.
 
@@ -279,5 +279,5 @@ h0IjoiKGlmIHdlIGRlY2lkZSB0byBxdW90ZSBoaW0sIEkgbmVl
 ZCB0byBkb3VibGUgY2hlY2sgdGhhdCdzIG9rLCBvdGhlcndpc2
 UsIHdlIGNhbiBqdXN0IHVzZSB0aGVzZSB3b3JkcyBhcyBvdXIg
 b3duIG9waW5pb24iLCJjcmVhdGVkIjoxNTEyNjg1NDc2ODM3fX
-0sImhpc3RvcnkiOlsxNDc3NzU1NjA1XX0=
+0sImhpc3RvcnkiOlstMTc3MTE1NjgwOV19
 -->
