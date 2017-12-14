@@ -177,7 +177,7 @@ There really is no one way to know which frameworks are doing the best. This is 
 On the builtwith.com site, you can 
 > Get a list of 31,099 websites using Ember which includes location information, hosting data, contact details, 15,116 currently live websites and 15,983 sites that used this technology previously.
 
-31k sites isn’t too shabby, even if the framework is trending downward.
+31k sites aren't too shabby, even if the framework is trending downward.
 ￼
 
 My husband is an avid Ember user and he said that he didn’t hear about the surveys that went around this years, which as I admitted, not all devs are the survey taking type. As for Google trends, he believes Embers site is the perfect learning tool for a Ember and therefore, why would Ember devs need to search or look anywhere else. ( I told you he was loyal. 😏)
@@ -279,5 +279,5 @@ h0IjoiKGlmIHdlIGRlY2lkZSB0byBxdW90ZSBoaW0sIEkgbmVl
 ZCB0byBkb3VibGUgY2hlY2sgdGhhdCdzIG9rLCBvdGhlcndpc2
 UsIHdlIGNhbiBqdXN0IHVzZSB0aGVzZSB3b3JkcyBhcyBvdXIg
 b3duIG9waW5pb24iLCJjcmVhdGVkIjoxNTEyNjg1NDc2ODM3fX
-0sImhpc3RvcnkiOlstMTg4OTI1NTQ4MV19
+0sImhpc3RvcnkiOls5MTkzMzEwMjldfQ==
 -->
