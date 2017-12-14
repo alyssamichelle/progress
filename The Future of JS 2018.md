@@ -188,7 +188,10 @@ So after interviewing him on his love of Ember, I understand a little more why i
 
 ## Much of the Web Still Runs on jQuery
 
-Dude! 90% of the Internet runs on jQuery. We all know this, so the chart below shouldn't shock you.
+Dude! 90% of the Internet runs on jQuery. In March this year, 3.2.1 was released with bug fixes like this fella:
+> Ensure we get proper values for width and height on elements with display “inline”
+
+ jQuery does quiet well for iteself. We all know this, so the chart below shouldn't shock you.
 
 ![http://jsfiddle.net/8e5uobnb/4/](http://cl.nicoll.co/oCe9/Image%202017-12-07%20at%205.59.56%20pm.png)
 https://blog.jquery.com/2017/03/16/jquery-3-2-0-is-out/
@@ -283,5 +286,5 @@ h0IjoiKGlmIHdlIGRlY2lkZSB0byBxdW90ZSBoaW0sIEkgbmVl
 ZCB0byBkb3VibGUgY2hlY2sgdGhhdCdzIG9rLCBvdGhlcndpc2
 UsIHdlIGNhbiBqdXN0IHVzZSB0aGVzZSB3b3JkcyBhcyBvdXIg
 b3duIG9waW5pb24iLCJjcmVhdGVkIjoxNTEyNjg1NDc2ODM3fX
-0sImhpc3RvcnkiOlstMTU1ODA4MDU1XX0=
+0sImhpc3RvcnkiOlstODIzNTI4Mzk5XX0=
 -->
