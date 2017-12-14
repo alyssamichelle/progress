@@ -156,6 +156,19 @@ Angular is on one end of the enterprise-y scale and React is on the other. React
 
 ![](http://cl.nicoll.co/oIcY/Image%202017-12-12%20at%203.18.06%20pm.png)
  
+￼
+![https://twitter.com/sachagreif/status/935781795924099072](http://cl.nicoll.co/oIBp/Image%202017-12-12%20at%203.03.55%20pm.png)
+
+Ah yes Sacha, because that makes so much sense. ;) Not that the charts I created are much clearer. I used [Google Trends]() to generate some data on the four top runner Frameworks and got this glorious chart:
+
+![](http://cl.nicoll.co/oI4q/Screen%20Shot%202017-12-12%20at%2014.59.07.png)
+
+Now that chart doesn’t do a whole lot for me, other than showing Ember as a dead thing, which we all knew. Jk, please don’t send Tomster after me. So I decided to turn it into a nifty pie chart, that might help shed more light on the situation:
+
+￼![](http://cl.nicoll.co/oAQy/[b5509a7f44ba2ffd22e580d2830ca4b7]_Image%202017-12-06%20at%202.36.00%20pm.png)
+
+There really is no one way to know which frameworks are doing the best. This is just one peak into the enigma that is the web dev world. However, just going off of this pie chart, it still looks like Angular is on top, followed by React. 
+
 Ember is **alyssa todo: fill out ember section, yo**
 
 ## Much of the Web Still Runs on jQuery
@@ -188,18 +201,6 @@ React focuses on the use of Javascript ES6. Vue uses Javascript ES5 or ES6. Angu
 Angular is a full framework that offers everything you need, all bundled together nicely. Whereas with things like react and vue, you have the option to use other things outside of TS, like flow. Uou can use Flow to enable type-checking within React. It’s a static type-checker developed by Facebook for JavaScript. Flow can also be integrated into VueJS.
 
 [twitter bird icon] “This year’s #StateOfJS summed up in a single chart.” — @SachaGreif https://twitter.com/sachagreif/status/935781795924099072
-￼
-![https://twitter.com/sachagreif/status/935781795924099072](http://cl.nicoll.co/oIBp/Image%202017-12-12%20at%203.03.55%20pm.png)
-
-Ah yes Sacha, because that makes so much sense. ;) Not that the charts I created are much clearer. I used [Google Trends]() to generate some data on the four top runner Frameworks and got this glorious chart:
-
-![](http://cl.nicoll.co/oI4q/Screen%20Shot%202017-12-12%20at%2014.59.07.png)
-
-Now that chart doesn’t do a whole lot for me, other than showing Ember as a dead thing, which we all knew. Jk, please don’t send Tomster after me. So I decided to turn it into a nifty pie chart, that might help shed more light on the situation:
-
-￼![](http://cl.nicoll.co/oAQy/[b5509a7f44ba2ffd22e580d2830ca4b7]_Image%202017-12-06%20at%202.36.00%20pm.png)
-
-There really is no one way to know which frameworks are doing the best. This is just one peak into the enigma that is the web dev world. However, just going off of this pie chart, it still looks like Angular is on top, followed by React. 
 
 
 **Stackoverflow Dev Survey 2017**
@@ -286,5 +287,5 @@ h0IjoiKGlmIHdlIGRlY2lkZSB0byBxdW90ZSBoaW0sIEkgbmVl
 ZCB0byBkb3VibGUgY2hlY2sgdGhhdCdzIG9rLCBvdGhlcndpc2
 UsIHdlIGNhbiBqdXN0IHVzZSB0aGVzZSB3b3JkcyBhcyBvdXIg
 b3duIG9waW5pb24iLCJjcmVhdGVkIjoxNTEyNjg1NDc2ODM3fX
-0sImhpc3RvcnkiOls0Mjk0NjU4ODVdfQ==
+0sImhpc3RvcnkiOlsxMTc0NTc5MjgxXX0=
 -->
