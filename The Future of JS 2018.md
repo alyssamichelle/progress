@@ -199,11 +199,10 @@ However, could there be a paradigm shift in the works?
 > “So, jQuery still runs the web, but this is changing.”
 https://discuss.httparchive.org/t/javascript-library-detection/955/6
 
-As a friend of mine likes to say "you might wanna take that with a bucket of salt", especially since jQuery has been around since the dawn of time. It would be very hard to imagine anything overthrowing that dynasty.
+This [CSS Tricks](https://css-tricks.com/now-ever-might-not-need-jquery/) article goes over new vanilla alternatives to jQuery methods. As JavaScript gets better and advances, jQuery should enevitably become depricated. However, as a friend of mine likes to say "you might wanna take that with a bucket of salt", especially since jQuery has been around since the dawn of time. It would be very hard to imagine anything overthrowing that dynasty, anytime soon.
 
 ![](https://memegenerator.net/img/instances/500x/56793614/jquery-jquery-everywhere.jpg)
 
-This CSS Tricks article goes over new vanilla alternatives to jQuery methods. As JavaScript gets better and advances, jQuery should enevitably become depricated. However, 
 ## The State of JS in 2017 Survey Results
 
 I think I found an interesting correlation on the recent survey results released.
@@ -280,5 +279,5 @@ h0IjoiKGlmIHdlIGRlY2lkZSB0byBxdW90ZSBoaW0sIEkgbmVl
 ZCB0byBkb3VibGUgY2hlY2sgdGhhdCdzIG9rLCBvdGhlcndpc2
 UsIHdlIGNhbiBqdXN0IHVzZSB0aGVzZSB3b3JkcyBhcyBvdXIg
 b3duIG9waW5pb24iLCJjcmVhdGVkIjoxNTEyNjg1NDc2ODM3fX
-0sImhpc3RvcnkiOlstMzkwMzg5MDhdfQ==
+0sImhpc3RvcnkiOls5NzIxMTMxODJdfQ==
 -->
