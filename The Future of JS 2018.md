@@ -194,13 +194,8 @@ In March this year, [3.2.1 was released](https://blog.jquery.com/) with bug fixe
 The Internet keeps chugging along and so does jQuery. Like 90% of the Internet runs on jQuery. We all know this, so the chart below shouldn't shock you.
 
 ![http://jsfiddle.net/8e5uobnb/4/](http://cl.nicoll.co/oCe9/Image%202017-12-07%20at%205.59.56%20pm.png)
-https://blog.jquery.com/2017/03/16/jquery-3-2-0-is-out/
-https://discuss.httparchive.org/t/javascript-library-detection/955/2
 
-However, could there be a paradigm shift in the works?
-
-> “So, jQuery still runs the web, but this is changing.”
-https://discuss.httparchive.org/t/javascript-library-detection/955/6
+[source](https://discuss.httparchive.org/t/javascript-library-detection/955/2)
 
 This [CSS Tricks](https://css-tricks.com/now-ever-might-not-need-jquery/) article goes over new vanilla alternatives to jQuery methods. As JavaScript gets better and advances, jQuery should enevitably become depricated. 
 
@@ -286,5 +281,5 @@ h0IjoiKGlmIHdlIGRlY2lkZSB0byBxdW90ZSBoaW0sIEkgbmVl
 ZCB0byBkb3VibGUgY2hlY2sgdGhhdCdzIG9rLCBvdGhlcndpc2
 UsIHdlIGNhbiBqdXN0IHVzZSB0aGVzZSB3b3JkcyBhcyBvdXIg
 b3duIG9waW5pb24iLCJjcmVhdGVkIjoxNTEyNjg1NDc2ODM3fX
-0sImhpc3RvcnkiOlstMjEwNjA0ODg0Ml19
+0sImhpc3RvcnkiOlstMTA4Njg1MTMzM119
 -->
