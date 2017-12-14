@@ -129,7 +129,7 @@ With the new return types (fragments and strings) you can now return an array of
 
 ![](http://cl.nicoll.co/oGvE/Image%202017-12-11%20at%205.33.25%20pm.png)
 
-React did really well on not only the stackoverflow dev survey for 2017 but also The State of JS survey. These aren't fully comprehensive representations of the web dev world as a whole, but they are an interesting window into it.
+React did really well on not only the stackoverflow dev survey for 2017 but also The State of JS survey and npm trends for the past year. These aren't fully comprehensive representations of the web dev world as a whole, but they are an interesting window into it.
 
 **Stackoverflow Dev Survey 2017**
 
@@ -146,12 +146,9 @@ React did really well on not only the stackoverflow dev survey for 2017 but also
 
 ## Enterprise or Nah
 
-There is a bit of a debate right now, as to if frameworks should lean into the enterprise scene, or not. What is wrong with Enterprise, you might ask. Well, enterprise apps/code generally is bulkier and more complex. It will take you much longer to learn and enter an Enterprise framework community than it will for a basic and simple one. 
+There is a bit of a debate right now, as to if frameworks should lean into the enterprise scene, or not. What is wrong with Enterprise, you might ask. Well, enterprise apps/code generally is bulkier and more complex. It will take you much longer to learn and enter an Enterprise framework community than it will for a basic and simple one. Frameworks either lean into Enterprise or they lean AWAY from it. It's always a balance.
 
-Frameworks either lean into Enterprise or they lean AWAY from it.
-It's always a balance.
-
- Angular is on one end of the enterprise-y scale and React is on the other. React isn't even a framework.. right? It's so small, it's just a library. Vue, is in the middle, leaning farther from Enterprise than Angular, for sure. And this is where ember enters the fray, smack dab in the center of our chart.
+Angular is on one end of the enterprise-y scale and React is on the other. React isn't even a framework.. right? It's so small, it's just a library. Vue, is in the middle, leaning farther from Enterprise than Angular, for sure. And this is where ember enters the fray, smack dab in the center of our chart.
 
 ![](http://cl.nicoll.co/oIoW/Screen%20Shot%202017-12-12%20at%2014.04.19.png)
 
@@ -308,5 +305,5 @@ h0IjoiKGlmIHdlIGRlY2lkZSB0byBxdW90ZSBoaW0sIEkgbmVl
 ZCB0byBkb3VibGUgY2hlY2sgdGhhdCdzIG9rLCBvdGhlcndpc2
 UsIHdlIGNhbiBqdXN0IHVzZSB0aGVzZSB3b3JkcyBhcyBvdXIg
 b3duIG9waW5pb24iLCJjcmVhdGVkIjoxNTEyNjg1NDc2ODM3fX
-0sImhpc3RvcnkiOlstMTQ5OTQxOTM3NF19
+0sImhpc3RvcnkiOlstMTU5NjcxOTgzMV19
 -->
