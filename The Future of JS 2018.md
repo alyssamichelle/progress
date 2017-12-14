@@ -164,14 +164,11 @@ Angular is on one end of the enterprise-y scale and React is on the other. React
 
 ![](http://cl.nicoll.co/oIcY/Image%202017-12-12%20at%203.18.06%20pm.png)
  
-￼Ember. What to say about Ember? I used [Google Trends]() to generate some data on the four top runner Frameworks and got this glorious chart:
+￼Ember. What to say about Ember? I used Google Trends to generate some data on the four top runner Frameworks and got this glorious chart:
 
-￼
 ![](http://cl.nicoll.co/oI4q/Screen%20Shot%202017-12-12%20at%2014.59.07.png)
 
 Now that chart doesn’t do a whole lot for me, other than showing Ember as a dead thing, which we all knew. Jk, please don’t send Tomster after me. So I decided to turn it into a nifty pie chart, that might help shed more light on the situation:
-
-￼
 ￼
 ![](http://cl.nicoll.co/oAQy/[b5509a7f44ba2ffd22e580d2830ca4b7]_Image%202017-12-06%20at%202.36.00%20pm.png)
 
@@ -181,7 +178,6 @@ On the builtwith.com site, you can
 > Get a list of 31,099 websites using Ember which includes location information, hosting data, contact details, 15,116 currently live websites and 15,983 sites that used this technology previously.
 
 31k sites isn’t too shabby, even if the framework is trending downward.
-
 ￼
 
 My husband is an avid Ember user and he said that he didn’t hear about the surveys that went around this years, which as I admitted, not all devs are the survey taking type. As for Google trends, he believes Embers site is the perfect learning tool for a Ember and therefore, why would Ember devs need to search or look anywhere else. ( I told you he was loyal. 😏)
@@ -283,5 +279,5 @@ h0IjoiKGlmIHdlIGRlY2lkZSB0byBxdW90ZSBoaW0sIEkgbmVl
 ZCB0byBkb3VibGUgY2hlY2sgdGhhdCdzIG9rLCBvdGhlcndpc2
 UsIHdlIGNhbiBqdXN0IHVzZSB0aGVzZSB3b3JkcyBhcyBvdXIg
 b3duIG9waW5pb24iLCJjcmVhdGVkIjoxNTEyNjg1NDc2ODM3fX
-0sImhpc3RvcnkiOlstMTI1NTAxMDU2NF19
+0sImhpc3RvcnkiOlstMTc4OTQ1NTk5OV19
 -->
