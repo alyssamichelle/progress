@@ -123,7 +123,7 @@ They also enforce component based architecture. An encapsulated component in rea
 
 **React updates in 2017**
 
-In September they announced the release of React v16.0! Some long requested features/changes made it into this release, including error boundaries, support for custom DOM attributes, improved server-side rendering, and reduced file size.
+In September they announced the release of React v16.0! Some long requested features/changes made it into this release, including improved server-side rendering, error boundaries, support for custom DOM attributes and fragments.
 
 ![](http://cl.nicoll.co/oGvE/Image%202017-12-11%20at%205.33.25%20pm.png)
 
@@ -304,5 +304,5 @@ h0IjoiKGlmIHdlIGRlY2lkZSB0byBxdW90ZSBoaW0sIEkgbmVl
 ZCB0byBkb3VibGUgY2hlY2sgdGhhdCdzIG9rLCBvdGhlcndpc2
 UsIHdlIGNhbiBqdXN0IHVzZSB0aGVzZSB3b3JkcyBhcyBvdXIg
 b3duIG9waW5pb24iLCJjcmVhdGVkIjoxNTEyNjg1NDc2ODM3fX
-0sImhpc3RvcnkiOlstMjA2MDY5ODM4NV19
+0sImhpc3RvcnkiOlsyMDA5MzM5MzIxXX0=
 -->
