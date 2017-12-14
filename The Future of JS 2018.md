@@ -129,7 +129,7 @@ With the new return types (fragments and strings) you can now return an array of
 
 ![](http://cl.nicoll.co/oGvE/Image%202017-12-11%20at%205.33.25%20pm.png)
 
-React did really well on not only the stackoverflow dev survey for 2017 but also The State of JS survey. These aren't fully comprehensive representations of web devs as a whole, but they are an interesting window into
+React did really well on not only the stackoverflow dev survey for 2017 but also The State of JS survey. These aren't fully comprehensive representations of the web dev world as a whole, but they are an interesting window into it.
 
 **Stackoverflow Dev Survey 2017**
 
@@ -137,10 +137,10 @@ React did really well on not only the stackoverflow dev survey for 2017 but also
 
 > "React is the most loved among developers, whereas Cordova is the most dreaded. However, Node.js is the most wanted."
 
-**The State of JS 2017 Survey Results are in!**
+**The State of JS 2017 Survey**
 ![The State of JS 2017 Survey](http://cl.nicoll.co/oGVn/Screen%20Shot%202017-12-11%20at%2018.30.24.png)
 
-React strikes again! On the npm trends 
+React strikes again! React also did really well on the npm trends for the past year.
 
 ![http://www.npmtrends.com/angular-vs-ember-source-vs-react-vs-vue-vs-backbone](http://cl.nicoll.co/oD1N/Screen%20Shot%202017-12-08%20at%2016.04.25.png)
 
@@ -308,5 +308,5 @@ h0IjoiKGlmIHdlIGRlY2lkZSB0byBxdW90ZSBoaW0sIEkgbmVl
 ZCB0byBkb3VibGUgY2hlY2sgdGhhdCdzIG9rLCBvdGhlcndpc2
 UsIHdlIGNhbiBqdXN0IHVzZSB0aGVzZSB3b3JkcyBhcyBvdXIg
 b3duIG9waW5pb24iLCJjcmVhdGVkIjoxNTEyNjg1NDc2ODM3fX
-0sImhpc3RvcnkiOlstMTEwMjc1MzgyNF19
+0sImhpc3RvcnkiOlszNDc2NDI0NzZdfQ==
 -->
