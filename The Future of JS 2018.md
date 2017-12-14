@@ -68,9 +68,10 @@ For one thing, I think Angular elements are going to be HUGE. Rob gave a talk on
 
 > "Node.js and AngularJS continue to be the most commonly used technologies in this category."
 
-Looking at stackoverflow's 2017 survey would also make you think AngularJS is still crushing react. However, if you checkout the survey results from "The state of JS in 2017", you'll see a different story.
+Looking at stackoverflow's 2017 survey would also make you think AngularJS is still crushing react. However, we'll checkout the survey results from "The state of JS in 2017",  where you'll see a different story.
 
 **The current state of AngularJS**
+
 At the last Google Developer Expert Summit that I attended, they again expressed their plans to continue updating AngularJS, only so long as the traffic to it’s docs outnumbered the traffic to the Angular.io docs. AngularJS’s days are numbered. 
 
 That being said, there are still so many companies using AngularJS, without any plans of upgrading. Why, you might ask? For some, they just do not have the resources to dedicate to upgrading all the directives to components and then to make the massive (let’s be real peeps, this is no simple upgrade) swap over to Angular. For others, they are hesitant (still) to adopt Typescript. 
@@ -271,5 +272,5 @@ h0IjoiKGlmIHdlIGRlY2lkZSB0byBxdW90ZSBoaW0sIEkgbmVl
 ZCB0byBkb3VibGUgY2hlY2sgdGhhdCdzIG9rLCBvdGhlcndpc2
 UsIHdlIGNhbiBqdXN0IHVzZSB0aGVzZSB3b3JkcyBhcyBvdXIg
 b3duIG9waW5pb24iLCJjcmVhdGVkIjoxNTEyNjg1NDc2ODM3fX
-0sImhpc3RvcnkiOlstMjgwMTg1ODM5XX0=
+0sImhpc3RvcnkiOlstMTI2MzU2NzcwN119
 -->
