@@ -164,20 +164,31 @@ Angular is on one end of the enterprise-y scale and React is on the other. React
 
 ![](http://cl.nicoll.co/oIcY/Image%202017-12-12%20at%203.18.06%20pm.png)
  
+￼Ember. What to say about Ember? I used [Google Trends]() to generate some data on the four top runner Frameworks and got this glorious chart:
+
 ￼
-![https://twitter.com/sachagreif/status/935781795924099072](http://cl.nicoll.co/oIBp/Image%202017-12-12%20at%203.03.55%20pm.png)
-
-Ah yes Sacha, because that makes so much sense. ;) Not that the charts I created are much clearer. I used [Google Trends]() to generate some data on the four top runner Frameworks and got this glorious chart:
-
 ![](http://cl.nicoll.co/oI4q/Screen%20Shot%202017-12-12%20at%2014.59.07.png)
 
 Now that chart doesn’t do a whole lot for me, other than showing Ember as a dead thing, which we all knew. Jk, please don’t send Tomster after me. So I decided to turn it into a nifty pie chart, that might help shed more light on the situation:
 
-￼![](http://cl.nicoll.co/oAQy/[b5509a7f44ba2ffd22e580d2830ca4b7]_Image%202017-12-06%20at%202.36.00%20pm.png)
+￼
+￼
+![](http://cl.nicoll.co/oAQy/[b5509a7f44ba2ffd22e580d2830ca4b7]_Image%202017-12-06%20at%202.36.00%20pm.png)
 
-There really is no one way to know which frameworks are doing the best. This is just one peak into the enigma that is the web dev world. However, just going off of this pie chart, it still looks like Angular is on top, followed by React. 
+There really is no one way to know which frameworks are doing the best. This is just one peak into the enigma that is the web dev world. However, just going off of this pie chart, it still looks like Angular is on top, followed by React. Whereas Ember doesn’t even get a piece. Other surveys (see earlier) don’t show Ember doing too well either. This does not mean that developers are done using Ember, it just means that the survey type taking devs are not in love with Ember right now. That’s the beauty about surveys, they only shed light on the part of the demographic willing to take them.
 
-Ember is **alyssa todo: fill out ember section, yo**
+On the builtwith.com site, you can 
+> Get a list of 31,099 websites using Ember which includes location information, hosting data, contact details, 15,116 currently live websites and 15,983 sites that used this technology previously.
+
+31k sites isn’t too shabby, even if the framework is trending downward.
+
+￼
+
+My husband is an avid Ember user and he said that he didn’t hear about the surveys that went around this years, which as I admitted, not all devs are the survey taking type. As for Google trends, he believes Embers site is the perfect learning tool for a Ember and therefore, why would Ember devs need to search or look anywhere else. ( I told you he was loyal. 😏)
+
+> One of the problems with Ember is that it targets a different type of developer, different from any other target demographic. It targets people who like python, rails or coffeescript. Ember is a different way of writing code. It’s very structured, there’s a way to do everything, everything is standardized — all things that are abnormal to JS devs. People like the freedom of JS, with Ember, you cannot break the rules.
+
+So after interviewing him on his love of Ember, I understand a little more why it might be trending downward (at least on the scales we have to measure it today). I predict that Ember, like Angular, isn’t going anywhere. Wether or not it’s popular in 2018, I can’t say, but it will still be on of the forerunner frameworks.
 
 ## Much of the Web Still Runs on jQuery
 
@@ -272,5 +283,5 @@ h0IjoiKGlmIHdlIGRlY2lkZSB0byBxdW90ZSBoaW0sIEkgbmVl
 ZCB0byBkb3VibGUgY2hlY2sgdGhhdCdzIG9rLCBvdGhlcndpc2
 UsIHdlIGNhbiBqdXN0IHVzZSB0aGVzZSB3b3JkcyBhcyBvdXIg
 b3duIG9waW5pb24iLCJjcmVhdGVkIjoxNTEyNjg1NDc2ODM3fX
-0sImhpc3RvcnkiOlstMTI2MzU2NzcwN119
+0sImhpc3RvcnkiOlstMTI1NTAxMDU2NF19
 -->
