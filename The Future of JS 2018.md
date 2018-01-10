@@ -42,22 +42,22 @@ We had hoped that there would be more open-source offerings for JavaScript devel
 
 ## Angular
 
-For this girls opinion, Angular is still pretty hot *cough cough* points to Tesla’s hiring page. So many large companies made the switch from AngularJS to Angular and it would take something just shy of a miracle to switch them off this robust framework.
+For this girls opinion Angular is still pretty hot *cough cough* points to Tesla’s hiring page. So many large companies made the switch from AngularJS to Angular and it would take something just shy of a miracle to switch them off this robust framework.
 
-In November, the latest version, Angular 5.1, was released. [Stephen Fluin](https://blog.angular.io/version-5-0-0-of-angular-now-available-37e414935ced) Angular’s Developer Advocate, wrote about all the juicy deets in [this](https://blog.angular.io/angular-5-1-more-now-available-27d372f5eb4e) blog post. 
+In November, the latest versionAngula 5.1, was released. [Stephen Fluin](https://blog.angular.io/-now-available-) Angular’s Developer Advocate, wrote about all the juicy deets in [this](https:ogngularigeaaif5eb4e37e4e) blog post. 
 
 I pinged Stephen on slack and asked what he thought Angular's biggest feat was in 2017. Here is what he had to say:
 
 > "In 2017 we've successfully balanced stability and innovation. making your applications smaller and faster without making you rewrite your code."
 > 
-~~> "It can go much further, like imagine in 3 years webassembly is good enough that we want to use it. Because we are a full platform, we could start shipping part of your apps as web assembly for you, without you having to do anything. Or ES2015 modules, or web components, or any of the 'modern web'."~~
+~~> "It can go much further, like imagine in 3 years webassembly is good enough that we want to use it. Because we are a full platform, we could start shipping part of your apps as web assembly for you, without you having to do anything. Or ES2015 modules, or web components, or any of the modern web'."~~
 
 I'm extremely pumped to see what Angular has in store for 2018, 19, and beyond. It feels like we are finally getting past those awkward teenage years, where we are still figuring out who we are and how we fit into the world. Now we know what kind of framework Angular is and needs to be and we are well on our way.
 
 As Rob Wormhald put it:
 > "Angular is ideal for building **complete applications** and our tooling, documentation and infrastructure have been primarily aimed at this use case..."
 
-For one thing, I think Angular elements are going to be HUGE. Rob gave a talk on them in November at [Angular Connect](https://www.youtube.com/watch?v=vHI5C-9vH-E). Angular elements are simply Angular Components wrapped in Custom Elements. These will bridge the gap and allow you to use Angular Components anywhere, without the full angular environment. Need an Angular Component included in your React project, no problem! Not only is the Angular team looking to solve these issues, but we also have so much to look forward to in the coming years. They hope to have a solution for everything you could possibly need in a typical Angular development environment.
+For one thing, I think Angular elements are going to be HUGE. Rob gave a talk on them in November at [Angular Connect](https://www.youtube.com/watch?v=vHI5C-9vH-E). Angular elements are simply Angular Components wrapped in Custom Elements. These will bridge the gap and allow you to use Angular Components anywhere, without the full angular environment. Neeu  Angular Component included in your React project, no problem! Not only is the Angular team looking to solve these issues, but we also have so much to look forward to in the coming years. They hope to have a solution for everything you could possibly need in a typical Angular development environment.
 
 ***alyssa todo: change all to text to either we or I***
 
@@ -74,7 +74,7 @@ Looking at stackoverflow's 2017 survey would also make you think AngularJS is st
 
 At the last Google Developer Expert Summit that I attended, they again expressed their plans to continue updating AngularJS, only so long as the traffic to it’s docs outnumbered the traffic to the Angular.io docs. AngularJS’s days are numbered. 
 
-That being said, there are still so many companies using AngularJS, without any plans of upgrading. Why, you might ask? For some, they just do not have the resources to dedicate to upgrading all the directives to components and then to make the massive (let’s be real peeps, this is no simple upgrade) swap over to Angular. For others, they are hesitant (still) to adopt Typescript. 
+That being said, there are still so many companies using AngularJS, without any plans of upgrading. Why, you might ask? For some, they just do not have the resources to dedicate to upgrading all the directives to components and then to make the massive (let’s be real peeps, this is no simple upgrade) swap over to Angular. For others they are hesitant (still) to adopt Typescript. 
 
 At first, the Angular team said they would support multiple languages, not just Typescript. However, a few months into Angular being released, they swiftly back tracked and removed any references to other languages in their docs. So for some companies, believe it or not, they won’t upgrade because they cannot give up their beloved CoffeeScript. ;)
 
@@ -84,7 +84,7 @@ So where does that leave you? If Angular is too large of a change for your compa
 
 VueJS has been on the rise and mentioned as the next “hot new thing”. It is VERY similar to AngularJS, and does not require a compiled language change like TypeScript. (Yay, the people can still have their CoffeeScript *and the dev world shudders*).
 
-![](http://cl.nicoll.co/oGMm/Image%202017-12-11%20at%205.29.16%20pm.png)
+![ the nter](http://cl.nicoll.co/o/Image%202017-12-%20at%20..6%20pm.png)
 
 **What is Vue?**
 You guessed it! Vue is yet another WONDERFUL JavaScript framework. Vue is simple to get started, scales to large cases easily, has everything you need end to end to build small to large scale apps. It boasts these fun features, which after reading, you should think to yourself... *AngularJS?*. 
@@ -105,21 +105,25 @@ No surprise there though, Vue was created by an ex-Googler, Evan Yuo, who after 
 
 > For me, Angular offered something cool which is data binding and a data driven way of dealing with a DOM, so you don’t have to touch the DOM yourself. It also brought in all these extra concepts that forced you to structure the code the way it wanted you to. It just felt too heavy for the use case that I had at that time.
 >
-> I figured, what if I could just extract the part that I really liked about Angular and build something really lightweight without all the extra concepts involved? I was also curious as to how its internal implementation worked. I started this experiment just trying to replicate this minimal feature set, like declarative data binding. That was basically how Vue started.
+> I figured, what if I could just extract the part that I really liked about Angular and build something really lightweight without all the extra concepts involved? I was also curious as to how its internal implementation worked. I started this experiment just trying to replicate this minimal feature set, like declarative data b> “Vue is simple to get started, scales to large cases easily, has everything you need end to end to build small to large scale apps.  st s u ares teen JS and AngularJS
 
-You can read more about Vue's origin story [here](https://betweenthewires.org/2016/11/03/evan-you/). The Vue.js 2 core library is very small (17 kB). This means that using Vue in your site should be pretty fast and load in browser quickly. This ALSO means, that learning Vue should be relatively easy and it shouldn't take you long to get started with the framework.
+a cg n Vue since e
+at i e
+e is a proeie Srit ameor th oues on uing ur nerfes s t ly r in he iw lar t akes n ason o meare nd bnd and tre a  ingt asy nto othe oet a bries e oes a o o uctoaity for the e ae ad a e ued f uld er epae eba n th llwig ou an ind a lso ursati nteraeeatie ederininding. That was basically how Vue started.
+
+You can read more about Vue's origin story [here](https://betweenthewires.org/2016/11/03/et ingteplate imnetset lie ertie nitios and matonstersThe Vue.js 2 core library is very small (17 kB). This meanensures that using Vue in your site should be pretty fast and load in browser quickly. This ALSO means, that learning Vue should be relatively easy and it shouldn't take you long to get started with the framework.
 
 > I read thru its docs and knew everything i needed to know in less than 30min. I couldn't finish the first page of Angular in 30min." — Anonymous Dev
-
+the overhead wich is aed to you ot  si e. is ini nd o west i odn fst[source](https://medium.com/codingthesmartway-com-blog/vue-js-2-quickstart-tutorial-2017-246195cfbdd2)
 ## React
 
-I’m still surprised by all the apps I continually run into and after inspecting under the hood, I realise they are created with React. React, while not being the newest of “hot-nesses”, is still very prevalent and often brought up as a web dev go-to framework. Don't believe me? Check out these killer circle charts from "The State of JS 2017 survey" results. React's big.
+I’m still surprised by all the apps I continually run into and after inspecting under the hood, I realise they are created with eact. React, while not being the newest of “hot-nesses”, is still very prevalent and often brought up as a web dev go-to framework. Don't believe me? Check out these killer circle charts from "The State of JS 2017 survey" results. React's big.
 
 ![https://philatist-albert-72527.netlify.com/2017/front-end/worldwide/](http://cl.nicoll.co/oIDg/[c3a280c61bb9021f54726ede2cfa75a2]_Screen%20Shot%202017-12-12%20at%2014.43.05.png)
 
 **What is React? Should I use it?**
 
-> “React is very popular and will likely continue to be now that Facebook has resolved the licensing controversy. It has become the first choice alternative to Angular and only continues to gain traction.” –Joe Eames, JavaScript and Angular expert [source](https://medium.com/pluralsight/tech-trends-2018-7c443b6cff7f)
+> “React is very popular and will likely continue to be now that Facebook has resolved the licensing controversy. It has become the first choice alternative to Angular and only continues to gain traction.” –Joe Eames, JavaScript and Angular experthttps://medium.com/pluralsight/tech-trends-2018-7c443b6cff7f)
 
 React, unlike Angular, is not a framework, but rather a library. React is a JS library for building UI on web apps. It provides a declarative method of defining UI components, which as they claim:
 
@@ -148,13 +152,18 @@ React did really well on not only the stackoverflow dev survey for 2017 but also
 **The State of JS 2017 Survey**
 ![The State of JS 2017 Survey](http://cl.nicoll.co/oGVn/Screen%20Shot%202017-12-11%20at%2018.30.24.png)
 
-**npm trends**
+**[what has changed in react since Feb.]
+
+
+React strikes again! On the npm trends** 
 
 ![http://www.npmtrends.com/angular-vs-ember-source-vs-react-vs-vue-vs-backbone](http://cl.nicoll.co/oD1N/Screen%20Shot%202017-12-08%20at%2016.04.25.png)
 
 ## Enterprise or Nah
 
-There is a bit of a debate right now, as to if frameworks should lean into the enterprise scene, or not. What is wrong with Enterprise, you might ask. Well, enterprise apps/code generally is bulkier and more complex. It will take you much longer to learn and enter an Enterprise framework community than it will for a basic and simple one. Frameworks either lean into Enterprise or they lean AWAY from it. It's always a balance.
+There is a bit of a debate right now, as to if frameworks should lean intoMuch of the Web Still Runs on jQuery
+
+Dude! 90% of the eInterprise scene, or not. What is wrong with Enterprise, you might ask. Well, enterprise apps/code generally is bulkier and more complex. It will take you much longer to learn and enter an Enterprise framework community than it will for a basic and simple one. Frameworks either lean into Enterprise or they lean AWAY from it. It's always a balance.
 
 ![](http://cl.nicoll.co/oIoW/Screen%20Shot%202017-12-12%20at%2014.04.19.png)
 
@@ -162,17 +171,23 @@ Angular is on one end of the enterprise-y scale and React is on the other. React
 
 ## Ember
 
-![](http://cl.nicoll.co/oIcY/Image%202017-12-12%20at%203.18.06%20pm.png)
+![net runs on jQuery. We all know this, so the chart below shouldn't shock you.
+![http://jsfiddle.net/8e5uobnb/4/](http://cl.nicoll.co/oIcYCe9/Image%202017-12-1207%20at%203.18.05.59.56%20pm.png)
  
 ￼Ember. What to say about Ember? I used Google Trends to generate some data on the four top runner Frameworks and got this glorious chart:
 
-![](http://cl.nicoll.co/oI4q/Screen%20Shot%202017-12-12%20at%2014.59.07.png)
+![](https://blog.jquery.com/2017/03/16/jquery-3-2-0-is-out/
+https://cl.nicoll.co/oI4q/Screen%20Shot%202017-12-12%20at%2014.59.07.png)
 
 Now that chart doesn’t do a whole lot for me, other than showing Ember as a dead thing, which we all knew. Jk, please don’t send Tomster after me. So I decided to turn it into a nifty pie chart, that might help shed more light on the situation:
 ￼
 ![](http://cl.nicoll.co/oAQy/[b5509a7f44ba2ffd22e580d2830ca4b7]_Image%202017-12-06%20at%202.36.00%20pm.png)
 
-There really is no one way to know which frameworks are doing the best. This is just one peek into the enigma that is the web dev world. However, just going off of this pie chart, it still looks like Angular is on top, followed by React. Whereas Ember doesn’t even get a piece. Other surveys (see earlier) don’t show Ember doing too well either. This does not mean that developers are done using Ember, it just means that the survey type taking devs are not in love with Ember right now. That’s the beauty of surveys, they only shed light on the part of the demographic willing to take them.
+There really is no one way to know which frameworks are doing the best. This is just one peek into the enigma that is the web dev world. However, just going off ofdiscuss.httparchive.org/t/javascript-library-detection/955/2
+
+However, could there be a paradigm shift in the works?
+
+> “So, jQuery still runs the web, but this pieis chart, it still looks like Angular is on top, followed by React. Whereas Ember doesn’t even get a piece. Other surveys (see earlier) don’t show Ember doing too well either. This does not mean that developers are done using Ember, it just means that the survey type taking devs are not in love with Ember right now. That’s the beauty of surveys, they only shed light on the part of the demographic willing to take them.
 
 On the builtwith.com site, you can 
 > Get a list of 31,099 websites using Ember which includes location information, hosting data, contact details, 15,116 currently live websites and 15,983 sites that used this technology previously.
@@ -215,7 +230,38 @@ In the above chart, backbone and ember are pretty much on the dead side, whereas
 
 ![salary ranges](http://cl.nicoll.co/oHgP/Screen%20Shot%202017-12-12%20at%2011.56.55.png)
 
-I find it really interesting that ember and backbone, two on the lowest on the popular chart, are two of the higher paying salaries. Whereas the more popular languages (Vue, Angular, React) are on the lower end. It seems to me that the old "supply and demand" theory is at it again! 
+I find it really interesting that ember and backbone, two on the lowest on the popular chart, are two of the higher paying salaries. Whereas the more popular languages (Vue, Angular, React) are on the lower end. It seems to me that the old "supply and demand" theory is at it again! nging.”
+https://discuss.httparchive.org/t/javascript-library-detection/955/6
+
+As a friend of mine likes to say "you might wanna take that with a bucket of salt", especially since jQuery has been around since the dawn of time. It would be very hard to imagine anything overthrowing that dynasty.
+
+![](https://memegenerator.net/img/instances/500x/56793614/jquery-jquery-everywhere.jpg)
+## Ember
+
+About that…
+
+[what has changed in react since Feb.]
+
+Libraries of interest…
+jQuery?
+Angular Material?
+Moment.js - still hugely popular date/timezone library
+Turbo - supposedly 50% faster than npm or yarn
+
+https://developer.telerik.com/topics/web-development/javascript-2017-libraries-frameworks/
+https://stateofjs.com/2016/frontend/
+https://medium.com/@sachagreif/the-state-of-js-2017-results-preview-acbd2885da7f
+
+https://twitter.com/sachagreif/status/935781795924099072
+
+[twitter bird icon] “This year’s #StateOfJS summed up in a single chart.” — @SachaGreif https://twitter.com/sachagreif/status/935781795924099072
+￼
+Ah yes Sacha, because that makes so much sense. ;) Not that the charts I created are much clearer. I used [Google Trends]() to generate some data on the four top runner Frameworks and got this glorious chart:
+
+Now that chart doesn’t do a whole lot for me, other than showing Ember as a dead thing, which we all knew. Jk, please don’t send Tomster after me. So I decided to turn it into a nifty pie chart, that might help shed more light on the situation:
+￼
+There really is no one way to know which frameworks are doing the best. This is just one peak into the enigma that is the web dev world. However, just going off of this pie chart, it still looks like Angular is on top, followed by React.
+
 
 ## Prediction Time
 
@@ -241,6 +287,15 @@ Here is the Google standard for what it takes to be a PWA.
 Gartner predicts that “by 2020, progressive web apps will have replaced 50% of general-purpose, consumer-facing mobile apps”.
 
 I don’t know about 50%, but I do predict more and more big name companies implementing progressive web app features on their sites in 2018 and beyond.
+
+
+### Stackoverflow Dev Survey 2017
+![https://insights.stackoverflow.com/survey/2017](http://cl.nicoll.co/oDbh/Screen%20Shot%202017-12-08%20at%2013.14.38.png)
+
+> "Node.js and AngularJS continue to be the most commonly used technologies in this category."
+
+
+
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyJHNFcycFpRdWdrMVlnMmZ1Ijp7In
 RleHQiOiJbTWljcm9zb2Z0XShodHRwczovL2dpdGh1Yi5jb20v
@@ -249,9 +304,9 @@ E2XG4gLSBkb3RuZXTigKYiLCJzdGFydCI6MjYxNiwiZW5kIjoy
 ODQ0fSwiUWdEamhta3ZFbjNoenU0QiI6eyJ0ZXh0IjoiQnVpbG
 QgT3B0aW1pemVyXG5UaGUgYnVpbGQgb3B0aW1pemVyIGlzIGEg
 dG9vbCBpbmNsdWRlZCBpbiBvdXIgQ0xJIGZvciBtYWtpbmcgeW
-/igKYiLCJzdGFydCI6Mzg5NSwiZW5kIjozODk1fSwiejlOclZa
+/igKYiLCJzdGFydCI6MzgxOSwiZW5kIjozODE5fSwiejlOclZa
 M2x5Y3Y1am5weSI6eyJ0ZXh0Ijoi4oCUIFNGIiwic3RhcnQiOj
-QxNjEsImVuZCI6NDE2MX19LCJjb21tZW50cyI6eyJNMkV5R3I0
+QwODUsImVuZCI6NDA4NX19LCJjb21tZW50cyI6eyJNMkV5R3I0
 Y1VGeXRUWmluIjp7ImRpc2N1c3Npb25JZCI6Ikc0VzJwWlF1Z2
 sxWWcyZnUiLCJzdWIiOiIxMDg2NDk4Mjc2NzM3MTYyNDkwMTMi
 LCJ0ZXh0IjoicHJldHR5IHN1cmUgSSB3YW5uYSB0YWtlIG91dC
@@ -267,5 +322,5 @@ h0IjoiKGlmIHdlIGRlY2lkZSB0byBxdW90ZSBoaW0sIEkgbmVl
 ZCB0byBkb3VibGUgY2hlY2sgdGhhdCdzIG9rLCBvdGhlcndpc2
 UsIHdlIGNhbiBqdXN0IHVzZSB0aGVzZSB3b3JkcyBhcyBvdXIg
 b3duIG9waW5pb24iLCJjcmVhdGVkIjoxNTEyNjg1NDc2ODM3fX
-0sImhpc3RvcnkiOls5Njk5MTcyNDhdfQ==
+0sImhpc3RvcnkiOls4Njg3NDA3MzhdfQ==
 -->
